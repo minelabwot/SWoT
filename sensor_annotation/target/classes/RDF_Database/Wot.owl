@@ -1,0 +1,1445 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2000/01/rdf-schema#"
+     xml:base="http://www.w3.org/2000/01/rdf-schema"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:dct="http://purl.org/dc/terms/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:WoT_domain="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#"
+     xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain">
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the Semantic Sensor Network Incubator Activity via the public W3C list public-xg-ssn@w3.org</comment>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W3C Semantic Sensor Network Incubator Group</dc:creator>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/</seeAlso>
+        <dc:title>Semantic Sensor Network Ontology</dc:title>
+        <dct:modified>2011-06-20</dct:modified>
+        <cc:license rdf:resource="http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html"/>
+        <dc:identifier>http://purl.oclc.org/NET/ssnx/ssn</dc:identifier>
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This ontology is developed by the W3C Semantic Sensor Networks Incubator Group (SSN-XG). The concepts and structure of the ontology were discussed in the group&apos;s meetings and on the mailing list. For more information on the group&apos;s activities see: http://www.w3.org/2005/Incubator/ssn/</comment>
+        <dc:rights>Copyright 2009 - 2011 W3C.</dc:rights>
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This ontology describes sensors and observations, and related concepts.  It does not describe domain concepts, time, locations, etc. these are intended to be included from other ontologies via OWL imports.</comment>
+        <dct:created>2009-12-02</dct:created>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://creativecommons.org/ns#license -->
+
+    <owl:AnnotationProperty rdf:about="http://creativecommons.org/ns#license"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/rights -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/rights"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/source -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/created -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/created"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/modified -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/modified"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#defaultObserved -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#defaultObserved"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#equalsProcess -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#equalsProcess"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasNegInfl -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasNegInfl">
+        <WoT_domain:equalsProcess rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess"/>
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPosInfl -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPosInfl">
+        <WoT_domain:equalsProcess rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess"/>
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#highThreshold -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#highThreshold"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#lowThreshold -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#lowThreshold"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#optionalProp -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#optionalProp"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#requiresProperty -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#requiresProperty"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#isDefinedBy -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#seeAlso -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#attachedSystem -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#attachedSystem">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isLocationOf"/>
+        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#onPlatform"/>
+        <comment>Relation between a Platform and any Systems (e.g., Sensors) that are attached to the Platform.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>attached system</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#PlatformSite</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#deployedOnPlatform -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#deployedOnPlatform">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasParticipant"/>
+        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#inDeployment"/>
+        <comment>Relation between a deployment and the platform on which the system was deployed.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>deployed on platform</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#Deployment</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#deployedSystem -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#deployedSystem">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasParticipant"/>
+        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasDeployment"/>
+        <comment>Relation between a deployment and the deployed system.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>deployed system</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#Deployment</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#deploymentProcessPart -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#deploymentProcessPart">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasPart"/>
+        <comment>Has part relation between a deployment process and its constituent processes.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>deployment process part</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#Deployment</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#detects -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#detects">
+        <comment>A relation from a sensor to the Stimulus that the sensor can detect.   
+The Stimulus itself will be serving as a proxy for (see isProxyOf) some observable property.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>detects</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#endTime -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#endTime">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion"/>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>end time</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Base#Time</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#featureOfInterest -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#featureOfInterest">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isSettingFor"/>
+        <dc:source>skos:exactMatch &apos;featureOfInterest&apos; [O&amp;M - ISO/DIS 19156] 
+		                    http://portal.opengeospatial.org/files/?artifact_id=41579</dc:source>
+        <comment>A relation between an observation and the entity whose quality was observed.   For example, in an observation of the weight of a person, the feature of interest is the person and the quality is weight.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>feature of interest</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#forProperty -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#forProperty">
+        <comment>A relation between some aspect of a sensing entity and a property.  For example, from a sensor to the properties it can observe, or from a deployment to the properties it was installed to observe.  Also from a measurement capability to the property the capability is described for.  (Used in conjunction with ofFeature).</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>for property</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasDeployment -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasDeployment">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isParticipantIn"/>
+        <comment>Relation between a System and a Deployment, recording that the System/Sensor was deployed in that Deployment.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has deployment</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#Deployment</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasInput -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasInput">
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has input</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Model#Process</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementCapability -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementCapability">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <comment>Relation from a Sensor to a MeasurementCapability describing the measurement properties of the sensor.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has measurement  capability</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Sensor#MeasuringCapability</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementProperty -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementProperty">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <comment>Relation from a MeasurementCapability to a MeasurementProperty.  For example, to an accuracy (see notes at MeasurementCapability).</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has measurement property</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Sensor#MeasuringCapability</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasOperatingProperty -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasOperatingProperty">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <comment>Relation from an OperatingRange to a Property.  For example, to a battery lifetime.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has operating property</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#OperatingRestriction</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasOperatingRange -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasOperatingRange">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <comment>Relation from a System to an OperatingRange describing the normal operating environment of the System.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has operating range</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#OperatingRestriction</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasOutput -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasOutput">
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has output</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Model#Process</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasProperty -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasProperty">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasQuality"/>
+        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf"/>
+        <comment>A relation between a FeatureOfInterest and a Property of that feature.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has property</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasSubSystem -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasSubSystem">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasPart"/>
+        <comment>Haspart relation between a system and its parts.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has subsystem</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Model#System</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasSurvivalProperty -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasSurvivalProperty">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <comment>Relation from a SurvivalRange to a Property describing the survial range of a system.  For example, to the temperature extreme that a system can withstand before being considered damaged.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has survival property</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#OperatingRestriction</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasSurvivalRange -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasSurvivalRange">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <comment>A Relation from a System to a SurvivalRange.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has survival range</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#OperatingRestriction</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasValue -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasValue">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion"/>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>has value</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Base#Data</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#implementedBy -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#implementedBy">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#describes"/>
+        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#implements"/>
+        <comment>A relation between the description of an algorithm, procedure or method and an entity that implements that method in some executable way.  For example, between a scientific measuring method and a sensor the senses via that method.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>implemented by</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#implements -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#implements">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isDescribedBy"/>
+        <comment>A relation between an entity that implements a method in some executable way and the description of an algorithm, procedure or method.  For example, between a Sensor and the scientific measuring method that the Sensor uses to observe a Property.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>implements</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#inCondition -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#inCondition">
+        <comment>Describes the prevailing environmental conditions for MeasurementCapabilites, OperatingConditions and SurvivalRanges.  Used for example to say that a sensor has a particular accuracy in particular conditions.  (see also MeasurementCapability)</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>in condition</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Base#ConstraintBlock</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#inDeployment -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#inDeployment">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isParticipantIn"/>
+        <comment>Relation between a Platform and a Deployment, recording that the object was used as a platform for a system/sensor for a particular deployment: as in this PhysicalObject is acting as a Platform inDeployment Deployment.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>in deployment</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#Deployment</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#isProducedBy -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#isProducedBy">
+        <comment>Relation between a producer and a produced entity: for example, between a sensor and the produced output.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>is produced by</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Model#Process</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isQualityOf"/>
+        <comment>Relation between a FeatureOfInterest and a Property (a Quality observable by a sensor) of that feature.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>is property of</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#isProxyFor -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#isProxyFor">
+        <comment>A relation from a Stimulus to the Property that the Stimulus is serving as a proxy for.  For example, the expansion of the quicksilver is a stimulus that serves as a proxy for temperature, or an increase or decrease in the spinning of cups on a wind sensor is serving as a proxy for wind speed.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>isProxyFor</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#madeObservation -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#madeObservation">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isObjectIncludedIn"/>
+        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#observedBy"/>
+        <comment>Relation between a Sensor and Observations it has made.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>made observation</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Observation#Observation</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#observationResult -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observationResult">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isSettingFor"/>
+        <dc:source>skos:closeMatch &apos;result&apos; [O&amp;M - ISO/DIS 19156] 
+		                    http://portal.opengeospatial.org/files/?artifact_id=41579</dc:source>
+        <comment>Relation linking an Observation (i.e., a description of the context, the Situation, in which the observatioin was made) and a Result, which contains a value representing the value associated with the observed Property.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>observation result</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#observationResultTime -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observationResultTime">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion"/>
+        <dc:source>http://www.opengeospatial.org/standards/om</dc:source>
+        <comment>The result time is the time when the procedure associated with the observation act was applied.</comment>
+        <comment>The result time shall describe the time when the result became available, typically when the procedure associated with the observation was completed For some observations this is identical to the phenomenonTime. However, there are important cases where they differ.[O&amp;M]</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>observation result time</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Observation#Observation</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#observationSamplingTime -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observationSamplingTime">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion"/>
+        <dc:source>http://www.opengeospatial.org/standards/om</dc:source>
+        <comment>Rebadged as phenomenon time in [O&amp;M]. The phenomenon time shall describe the time that the result applies to the property of the feature-of-interest. This is often the time of interaction by a sampling procedure or observation procedure with a real-world feature.</comment>
+        <comment>The sampling time is the time that the result applies to the feature-of-interest. This is the time usually required for geospatial analysis of the result.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>observation sampling time</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Observation#Observation</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#observedBy -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observedBy">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#includesObject"/>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>observedBy</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#observedProperty -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observedProperty">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#isSettingFor"/>
+        <dc:source>skos:exactMatch &apos;observedProperty&apos; [O&amp;M - ISO/DIS 19156] 
+		                    http://portal.opengeospatial.org/files/?artifact_id=41579</dc:source>
+        <comment>Relation linking an Observation to the Property that was observed.  The observedProperty should be a Property (hasProperty) of the FeatureOfInterest (linked by featureOfInterest) of this observation.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>observed property</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#observes -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observes">
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasMeasurementCapability"/>
+            <rdf:Description rdf:about="http://purl.oclc.org/NET/ssnx/ssn#forProperty"/>
+        </owl:propertyChainAxiom>
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://purl.oclc.org/NET/ssnx/ssn#madeObservation"/>
+            <rdf:Description rdf:about="http://purl.oclc.org/NET/ssnx/ssn#observedProperty"/>
+        </owl:propertyChainAxiom>
+        <comment>Relation between a Sensor and a Property that the sensor can observe.
+
+Note that, given the DUL modelling of Qualities, a sensor defined with &apos;observes only Windspeed&apos; technically links the sensor to particular instances of Windspeed, not to the concept itself - OWL can&apos;t express concept-concept relations, only individual-individual.  The property composition ensures that if an observation is made of a particular quality then one can infer that the sensor observes that quality.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>observes</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Sensor#Measuring</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#ofFeature -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#ofFeature">
+        <comment>A relation between some aspect of a sensing entity and a feature.  For example, from a sensor to the features it can observe properties of, or from a deployment to the features it was installed to observe.  Also from a measurement capability to the feature the capability is described for.  (Used in conjunction with forProperty).</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>of feature</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#onPlatform -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#onPlatform">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation"/>
+        <comment>Relation between a System (e.g., a Sensor) and a Platform.  The relation locates the sensor relative to other described entities entities: i.e., the Sensor s1&apos;s location is Platform p1.  More precise locations for sensors in space (relative to other entities, where attached to another entity, or in 3D space) are made using DOLCE&apos;s Regions (SpaceRegion).</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>on platform</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#PlatformSite</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#qualityOfObservation -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#qualityOfObservation">
+        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+        <dc:source>skos:exactMatch &apos;resultQuality&apos; [O&amp;M - ISO/DIS 19156] 
+		                    http://portal.opengeospatial.org/files/?artifact_id=41579</dc:source>
+        <comment>Relation linking an Observation to the adjudged quality of the result.  This is of course complimentary to the MeasurementCapability information recorded for the Sensor that made the Observation.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>quality of observation</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Observation#Observation</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#startTime -->
+
+    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#startTime">
+        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion"/>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>start time</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Base#Time</seeAlso>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#describes -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#describes">
+        <label>describes</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation">
+        <label>hasLocation</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasPart -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasPart">
+        <label>hasPart</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasParticipant -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasParticipant">
+        <label>hasParticipant</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasQuality -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasQuality">
+        <label>hasQuality</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasRegion">
+        <label>hasRegion</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#includesEvent -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#includesEvent">
+        <label>includesEvent</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#includesObject -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#includesObject">
+        <label>includesObject</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isDescribedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isDescribedBy">
+        <label>isDescribedBy</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isLocationOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isLocationOf">
+        <label>isLocationOf</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isObjectIncludedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isObjectIncludedIn">
+        <label>isObjectIncludedIn</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isParticipantIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isParticipantIn">
+        <label>isParticipantIn</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isQualityOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isQualityOf">
+        <label>isQualityOf</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isRegionFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isRegionFor">
+        <label>isRegionFor</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#isSettingFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#isSettingFor">
+        <label>isSettingFor</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo">
+        <label>changeStateTo</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate">
+        <label>generate</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause">
+        <label>hasPotCause</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState">
+        <label>hasState</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit">
+        <label>hasUnit</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy">
+        <label>isOwnedBy</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe">
+        <label>subscribe</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers">
+        <label>triggers</label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description">
+        <label>description</label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#deviceID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#deviceID"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue">
+        <domain rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
+        <range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#linkTo -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#linkTo">
+        <label>linkTo</label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name">
+        <label>name</label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#Device -->
+
+    <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Device">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity"/>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+            </owl:Restriction>
+        </subClassOf>
+        <dc:source>http://www.w3.org/2005/Incubator/ssn/</dc:source>
+        <comment>A device is a physical piece of technology - a system in a box. Devices may of course be built of smaller devices and software components (i.e. systems have components).</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>Device</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Device#Device</seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest -->
+
+    <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice"/>
+                <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot"/>
+            </owl:Restriction>
+        </subClassOf>
+        <label>FeatureOfInterest</label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#Sensor -->
+
+    <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Sensor">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate"/>
+                <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
+            </owl:Restriction>
+        </subClassOf>
+        <dc:source>skos:exactMatch &apos;sensor&apos; [SensorML OGC-0700]
+		                    http://www.opengeospatial.org/standards/sensorml 
+
+                                skos:closeMatch &apos;observation procedure&apos; [O&amp;M] 
+                                http://www.opengeospatial.org/standards/om 
+
+O&amp;M allows sensors, methods, instruments, systems, algorithms and process chains as the processUsed of an observation; this ontology allows a similar range of things (any thing that can do sensing), just they are all grouped under the term sensor (which is thus wider than the O&amp;M concept).</dc:source>
+        <comment>A sensor can do (implements) sensing: that is, a sensor is any entity that can follow a sensing method and thus observe some Property of a FeatureOfInterest.  Sensors may be physical devices, computational methods, a laboratory setup with a person following a method, or any other thing that can follow a Sensing Method to observe a Property.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>Sensor</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#Stimulus -->
+
+    <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Stimulus">
+        <subClassOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#Event"/>
+        <dc:source>http://www.w3.org/2005/Incubator/ssn/</dc:source>
+        <comment>An Event in the real world that &apos;triggers&apos; the sensor.  The properties associated to the stimulus may be different to eventual observed property.  It is the event, not the object that triggers the sensor.</comment>
+        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
+        <label>Stimulus</label>
+        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Skeleton#Skeleton</seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#Event -->
+
+    <owl:Class rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#Event">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#observationSamplingTime"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </subClassOf>
+        <label>Event</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action">
+        <label>Action</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Actuator -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Actuator">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe"/>
+                <owl:someValuesFrom rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#Event"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
+            </owl:Restriction>
+        </subClassOf>
+        <label>Actuator</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Anomaly -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Anomaly">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause"/>
+            </owl:Restriction>
+        </subClassOf>
+        <label>Anomaly</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
+        <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
+        <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+        <label>EntityType</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorAirQuality -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorAirQuality">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM"/>
+        <WoT_domain:requiresProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorTemperature -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorTemperature">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature"/>
+        <WoT_domain:requiresProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+        <label>Location</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
+        <label>ObservedCause</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
+        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
+        <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</WoT_domain:highThreshold>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+        <label>Owner</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess">
+        <label>PhysicalProcess</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location"/>
+        <comment>large scale location</comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf"/>
+                <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
+            </owl:Restriction>
+        </subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location"/>
+        <comment>small scale location</comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State">
+        <label>State</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
+        <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnDown -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnDown">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnUp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnUp">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+        <label>Unit</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#ofFeature"/>
+                <owl:allValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </subClassOf>
+        <label>WoT_Entity</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#dateTime -->
+
+    <owl:Class rdf:about="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#high -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#high">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#low -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#low">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnDown -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnDown"/>
+    
+
+
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnUp -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnUp"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+

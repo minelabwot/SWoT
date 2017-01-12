@@ -1,0 +1,17 @@
+1.用的是mysql connector 6.0.3
+从6开始,原先的driver class:com.mysql.jdbc.Driver不再适用,新的连接类为com.mysql.cj.jdbc.Driver
+
+2.需要在数据库url指定时区,否则会出中文乱码错误
+url实例:   jdbc:mysql://localhost:3306/mybatis?serverTimezone=UTC
+
+3.maven项目如果右键project-maven-updateProject, 需要重新配置properties-deployAssembly,添加类库
+
+4.大部分tomcat启动报错都是因为maven依赖的jar包在自动下载的时候出错了,把jar重新下载即可
+
+5.静态资源映射
+	<mvc:default-servlet-handler/>     <!-- 使用默认方式处理静态路径 -->
+    <!-- 静态资源映射 -->
+    <mvc:resources mapping="/images/**" location="/WEB-INF/images/" />
+    服务器将mapping中的url拦截,并转发给lcaotion中的路径去查找
+    html中  href="images/xxxx"会被构造成root/images/xxx,发到服务器将会被拦截,拦截到的为/images/xxx
+    mapping后面的 images/**是在html里的link标签内的url location是工程里放images的地方

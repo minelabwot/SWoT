@@ -1,0 +1,55 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+html body {
+	height: 90%;
+	width: 100%;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+/*-----------------导航栏的效果------------------------------------------------------*/
+#header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 500;
+	width: 100%;
+}
+body .navbar {
+	height: 70px;
+	margin-bottom: 0px;
+}
+
+.container-fluid h3{
+	font-weight: 600;
+	color: #9d9d9d;
+	font-size: 30px;
+	line-height: 70px;
+	float: left;
+	margin:0 25px 0 15px;
+}
+
+body .navbar-nav>li>a {
+	padding-top: 0;
+	padding-bottom: 0;
+	line-height: 70px;
+}
+
+/*-----------------页面body------------------------------------------------------*/
+.page-body {
+	position: relative;
+	margin-top: 70px;
+	height: 100%;
+	width: 100%;
+	padding: 10px;
+	min-height: 500px;
+}
+
+
+/*-----------------页面foot------------------------------------------------------*/
+.page-foot {
+	width: 100%;
+}

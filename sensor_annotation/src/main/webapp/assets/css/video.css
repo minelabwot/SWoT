@@ -1,0 +1,41 @@
+/*-------------------这是myVedio页面的css--------------*/
+.video-bord {
+	width: 100%;
+}
+
+.pagi-bottom {
+	text-align: center;
+}
+
+.video-bord ul {
+	list-style-type: none;
+}
+.video-bord ul li {
+	float: left;
+	font-size: 16px;
+	background-color: #fff;
+	margin: 1% 3% 2% 2%;
+	padding: 5px;
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow: auto;
+}
+
+.video-bord ul li img {
+	height: 150px;
+}
+
+.video-bord ul li p {
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+.video-style p {
+	margin: 0;
+	
+}
+
+
+/*-------------------------这是display页面的css----------------------*/
+.video-container {
+	text-align: center;
+}

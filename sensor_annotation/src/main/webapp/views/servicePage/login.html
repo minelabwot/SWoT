@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title>设备描述</title>
+<script>
+var state = true;
+
+function addProperty() {
+	var form = document.getElementById("addForm");
+	var div = document.createElement("div");
+	form.appendChlid(div);
+	div.innerHTML = "属性名";
+	
+	var input1 = document.createElement("input");
+	input1.name = "property-key[]";
+	input1.type = "text";
+	var input2 = document.createElement("input");
+	input2.name = "property-value[]";
+	input1.type = "text";
+	div.appendChild(input1);
+	div.appendChild(input2);
+}
+
+function selectCol() {
+	if(state) {
+		var form = document.getElementById("inputRow");
+		var div = document.createElement("div");
+		form.appendChild(div);
+		div.innerHTML= "deviceName:";
+		var inputNode = document.createElement("input");
+		inputNode.type = "text";
+		inputNode.name = "deviceName[]";
+		div.appendChild(inputNode);
+
+		var table = document.getElementById("userInputTable");
+		var tr = document.createElement("tr");
+		table.appendChild(tr);
+		var td = document.createElement("td")
+		td.innerHTML="deviceName";
+		tr.appendChild(td);
+		for(var i=0;i<checkbox.choice.length;i++) {
+			if(checkbox.choice[i].checked) {
+				var div1 = document.createElement("div");
+				form.appendChild(div1);
+				div1.innerHTML= ""+checkbox.choice[i].value+":";
+				inputNode = document.createElement("input");
+				inputNode.type = "text";
+				inputNode.name = ""+checkbox.choice[i].value+"[]";
+				div1.appendChild(inputNode);
+				var td = document.createElement("td")
+				td.innerHTML=checkbox.choice[i].value;
+				tr.appendChild(td);
+			}
+			
+		}
+		var button = document.createElement("input");
+		button.type = "button";
+		button.value = "添加";
+		button.onclick = function() {
+			addRow();
+		};
+		form.appendChild(button);
+	}
+	state = false;
+}
+
+function reSelect() {
+	//清空选中列
+	for(var i=0;i<checkbox.choice.length;i++) {
+		checkbox.choice[i].checked = false;
+
+	}
+	//删除输入内容
+	var form = document.getElementById("userInputTable");
+	var childs=form.childNodes;    
+	for(var i=childs.length-1;i>=0;i--){    
+		form.removeChild(childs.item(i));    
+	}
+	form = document.getElementById("inputRow");
+	childs=form.childNodes;    
+	for(var i=childs.length-1;i>=0;i--){    
+		form.removeChild(childs.item(i));    
+	}
+	state = true;    
+
+}
+
+function addRow() {
+	var table = document.getElementById("userInputTable");
+	var tr = document.createElement("tr");
+	table.appendChild(tr);
+	var a = inputRow.getElementsByTagName("div");
+	for(var i=0;i<a.length;i++) {
+		node = a[i].getElementsByTagName("input")[0];
+		//alert(node.name);
+		var td = document.createElement("td")
+		var input = document.createElement("input");
+		input.type = "text";
+		input.name = node.name;
+		input.value = node.value;
+		tr.appendChild(td);
+		td.appendChild(input);
+		node.value="";
+	}
+	for(var node in inputRow.getElementsByTagName("input")) {
+		node.value = "";
+	}
+}
+
+
+</script>
+</head>
+	<body>
+		<div>
+			<form id="checkbox">
+				SensorType: <input type="checkbox" name="choice" value="sensorType"/>
+				Unit: <input type="checkbox" name="choice" value="unit"/>
+				Organization: <input type="checkbox" name="choice" value="organization"/>
+				Location: <input type="checkbox" name="choice" value="location"/>
+				Observation: <input type="checkbox" name="choice" value="observation"/><br/>
+				<input type="button" value="确定" onclick="selectCol()">
+				<input type="button" value="重选" onclick="reSelect()">
+			</form>
+		</div>
+
+		<div>
+			<p>
+				设备描述:
+			</p>
+			<form  method="post" action="">
+				<table id="userInputTable" width="100%" height="60px">
+					
+				</table>
+				<input type="submit" value="上传"/>
+			</form>
+		</div>
+
+		<div>
+			<form id="inputRow">
+
+			</form>
+		</div>
+		
+		
+		
+			新建概念
+	<form id="addForm" action="" method="post">
+		概念名<input type="text" name="name"/>
+		
+	</form>
+	<button onclick="addProperty()">添加属性</button>
+	<button onclick="window.addForm.submit()">提交</button>
+	</body>
+</html>

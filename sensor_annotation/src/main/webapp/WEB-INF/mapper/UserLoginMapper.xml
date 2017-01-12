@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!-- 
+	namespace必须与dao接口的全类名相同
+ -->
+<mapper namespace="com.yyn.dao.UserLoginDAO">
+<!-- 查询id得到一个user对象 -->
+<!-- 	<select id="selectOne" parameterType="int" resultType="User"> -->
+<!-- 		select * from users where id=#{id} -->
+<!-- 	</select> -->
+</mapper>
