@@ -1,0 +1,19 @@
+Niels Bohr
+5	http://dbpedia.org/resource/Niels_Bohr	8.15932
+1	http://dbpedia.org/resource/Niels_Bohr_Institute	7.5433
+1	http://dbpedia.org/resource/Category:Niels_Bohr	7.15907
+1	http://dbpedia.org/resource/Category:Niels_Bohr_Medal_recipients	7.0396
+1	http://dbpedia.org/resource/Category:UNESCO_Niels_Bohr_Medal_recipients	7.0396
+1	http://dbpedia.org/resource/Aage_Niels_Bohr	6.64381
+1	http://dbpedia.org/resource/Niels_Henrik_David_Bohr	6.64381
+1	http://dbpedia.org/resource/Niels_Henrik_Bohr	6.64381
+1	http://dbpedia.org/resource/Niels_Bohr_Institute_for_Astronomy,_Physics_and_Geophysics	6.64381
+1	http://dbpedia.org/resource/Niels_Bohr_Institute_for_Astronomy,_Geophysics_and_Physics	6.64381
+1	http://dbpedia.org/resource/Niels_(Henrik_David)_Bohr	6.64381
+1	http://dbpedia.org/resource/Niels_Henrick_David_Bohr	6.64381
+1	http://dbpedia.org/resource/Niels_Bohr_Institute_Medal_of_Honour	6.64381
+1	http://dbpedia.org/resource/Niels_Bohr_Medal	6.64381
+1	http://dbpedia.org/resource/UNESCO_Niels_Bohr_Medal	6.64381
+1	http://dbpedia.org/resource/Aage_Bohr	4.74933
+1	http://dbpedia.org/resource/Niels_Bohr_International_Gold_Medal	4.59048
+1	http://dbpedia.org/resource/List_of_things_named_after_Niels_Bohr	4.00032

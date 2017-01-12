@@ -1,0 +1,10 @@
+Lazare Carnot
+5	http://dbpedia.org/resource/Lazare_Carnot	7.31565
+1	http://dbpedia.org/resource/Lazare_Nicholas_Marguerite_Carnot	6.64381
+1	http://dbpedia.org/resource/Lazare_Hippolyte_Carnot	6.64381
+1	http://dbpedia.org/resource/Lazare_Nicolas_Carnot	6.64381
+1	http://dbpedia.org/resource/Lazare_carnot	6.64381
+1	http://dbpedia.org/resource/Lazare_Nicolas_Marguerite_Carnot	6.64381
+1	http://dbpedia.org/resource/Lazare-Nicolas-Marguerite_Carnot	6.64381
+1	http://dbpedia.org/resource/Lazare_Carnot_(politician)	6.64381
+1	http://dbpedia.org/resource/Hippolyte_Carnot	4.6884

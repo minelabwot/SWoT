@@ -1,0 +1,3 @@
+Mehandi
+1	http://dbpedia.org/resource/Mehandi	6.64381
+1	http://dbpedia.org/resource/Daler_Mehandi	6.64381

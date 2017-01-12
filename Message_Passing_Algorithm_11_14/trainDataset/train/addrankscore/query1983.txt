@@ -1,0 +1,12 @@
+George Meyer
+5	http://dbpedia.org/resource/George_Meyer	8.60746
+1	http://dbpedia.org/resource/George_von_Lengerke_Meyer	7.42948
+1	http://dbpedia.org/resource/George_W._Meyer	7.15852
+1	http://dbpedia.org/resource/George_von_L._Meyer	6.64381
+1	http://dbpedia.org/resource/George_Meyer_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/George_von_lengerke_meyer	6.64381
+1	http://dbpedia.org/resource/George_V._L._Meyer	6.64381
+1	http://dbpedia.org/resource/George_Meyer-Darcis	6.64381
+1	http://dbpedia.org/resource/Category:Songs_written_by_George_W._Meyer	4.59099
+1	http://dbpedia.org/resource/George_Meyer_(soccer)	4.40991
+1	http://dbpedia.org/resource/George_Meyer_(baseball)	4.00032

@@ -1,0 +1,25 @@
+Independence Missouri
+5	http://dbpedia.org/resource/Independence,_Missouri	9.72727
+1	http://dbpedia.org/resource/Category:People_from_Independence,_Missouri	8.71809
+1	http://dbpedia.org/resource/Category:Independence,_Missouri	7.61837
+1	http://dbpedia.org/resource/Category:Buildings_and_structures_in_Independence,_Missouri	7.58211
+1	http://dbpedia.org/resource/Category:Churches_in_Independence,_Missouri	7.0396
+1	http://dbpedia.org/resource/Independence_Police_Department_(Missouri)	7.0396
+1	http://dbpedia.org/resource/Independence,_Jackson_County,_Missouri	6.64381
+1	http://dbpedia.org/resource/Independence_(city,_Missouri)	6.64381
+1	http://dbpedia.org/resource/Wallace_House_(Independence,_Missouri)	6.64381
+1	http://dbpedia.org/resource/St._Mary's_High_School_(Independence,_Missouri)	6.64381
+1	http://dbpedia.org/resource/Missouri_Independence_Mission	6.64381
+1	http://dbpedia.org/resource/Independence_missouri_police	6.64381
+1	http://dbpedia.org/resource/Independence_missouri_police_department	6.64381
+1	http://dbpedia.org/resource/Independence,_missouri_police	6.64381
+1	http://dbpedia.org/resource/Independence_Arena_(Missouri)	6.64381
+1	http://dbpedia.org/resource/Independence,_Missouri_Police_Department	6.64381
+1	http://dbpedia.org/resource/LDS_Visitors_Center,_Independence,_Missouri	6.64381
+1	http://dbpedia.org/resource/Independence_(Missouri)	6.64381
+1	http://dbpedia.org/resource/Category:Companies_based_in_Independence,_Missouri	4.68878
+1	http://dbpedia.org/resource/Truman_High_School_(Independence,_Missouri)	4.59048
+1	http://dbpedia.org/resource/United_Nations_Peace_Plaza_(Independence,_Missouri)	4.40991
+1	http://dbpedia.org/resource/Stone_Church_(Independence,_Missouri)	4.00032
+1	http://dbpedia.org/resource/Jackson_County_Courthouse_(Independence,_Missouri)	4.00032
+1	http://dbpedia.org/resource/Trinity_Episcopal_Church_(Independence,_Missouri)	4.00032

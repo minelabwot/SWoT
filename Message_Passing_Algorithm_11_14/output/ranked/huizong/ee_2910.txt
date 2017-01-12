@@ -1,0 +1,5 @@
+origin
+5	http://dbpedia.org/resource/Alan_Alda
+1	http://dbpedia.org/resource/Alda,_Alan
+1	http://dbpedia.org/resource/Category:Films_directed_by_Alan_Alda
+1	http://dbpedia.org/resource/Alan_Alda_Center_for_Communicating_Science

@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/Baudouin_I
+http://dbpedia.org/resource/Baudouin_I_King_of_the_Belgians
+http://dbpedia.org/resource/King_Baudouin_I
+http://dbpedia.org/resource/Baudouin_I,_King_of_the_Belgians
+http://dbpedia.org/resource/Baudouin_I_of_the_Belgians
+http://dbpedia.org/resource/Baudouin_I_of_Belgium

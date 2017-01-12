@@ -1,0 +1,16 @@
+Clare Hall
+1	http://dbpedia.org/resource/Category:Fellows_of_Clare_Hall,_Cambridge	8.06337
+5	http://dbpedia.org/resource/Clare_Hall,_Cambridge	7.19753
+1	http://dbpedia.org/resource/Category:Alumni_of_Clare_Hall,_Cambridge	7.11936
+1	http://dbpedia.org/resource/Clare_Hall_College_Boat_Club	6.64381
+1	http://dbpedia.org/resource/Clare_Town_Hall	6.64381
+1	http://dbpedia.org/resource/List_of_Presidents_of_Clare_Hall,_Cambridge	6.64381
+1	http://dbpedia.org/resource/St._Clare's_Hall	6.64381
+1	http://dbpedia.org/resource/Clare_Hall,_Cambridge_(1338-1856)	6.64381
+1	http://dbpedia.org/resource/Clare_Hall_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Clare_Hall,_Cambridge	6.64381
+1	http://dbpedia.org/resource/Category:Presidents_of_Clare_Hall,_Cambridge	4.82016
+1	http://dbpedia.org/resource/Category:Clare_Hall,_Cambridge	4.77169
+1	http://dbpedia.org/resource/Clare_Hall	4.40991
+1	http://dbpedia.org/resource/Clare_Hall_Boat_Club	4.40991
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Clare_Hall,_Cambridge	5.88129e-14

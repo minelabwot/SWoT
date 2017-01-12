@@ -1,0 +1,13 @@
+origin
+1	http://dbpedia.org/resource/Keble_College
+5	http://dbpedia.org/resource/Keble_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_Keble_College,_Oxford
+1	http://dbpedia.org/resource/Category:Fellows_of_Keble_College,_Oxford
+1	http://dbpedia.org/resource/Keble_College_Oxford
+1	http://dbpedia.org/resource/Category:Keble_College,_Oxford
+1	http://dbpedia.org/resource/Category:Wardens_of_Keble_College,_Oxford
+1	http://dbpedia.org/resource/List_of_alumni_of_Keble_College,_Oxford
+1	http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Keble_College,_Oxford
+1	http://dbpedia.org/resource/List_of_members_of_the_Council_of_Keble_College,_Oxford
+1	http://dbpedia.org/resource/Keble_College_Boat_Club
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Keble_College,_Oxford

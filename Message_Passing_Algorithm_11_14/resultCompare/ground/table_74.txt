@@ -1,0 +1,19 @@
+NULL	Calgary	
+Bow_Valley_College	Calgary	
+Mount_Royal_College	Calgary	
+		
+		
+Grant_MacEwan_College	Edmonton	
+		
+NorQuest_College	Edmonton	
+		
+Keyano_College		
+Grande_Prairie_Regional_College	Grande_Prairie,_Alberta	
+		
+		
+Portage_College	Lac_La_Biche,_Alberta	
+Lethbridge_College	Lethbridge	
+Medicine_Hat_College		
+Olds_College	Olds,_Alberta	
+Red_Deer_College	Red_Deer,_Alberta	
+		

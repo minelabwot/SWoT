@@ -1,0 +1,7 @@
+Yao Ming
+5	http://dbpedia.org/resource/Yao_Ming
+3	http://dbpedia.org/resource/Ming_Yao
+1	http://dbpedia.org/resource/Yao_Ming_(singer)
+5	http://dbpedia.org/resource/Yao_ming
+1	http://dbpedia.org/resource/Gan_Yao_Ming
+1	http://dbpedia.org/resource/Little_Yao_Ming

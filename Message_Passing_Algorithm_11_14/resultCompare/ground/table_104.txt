@@ -1,0 +1,8 @@
+Arab_League	
+Association_of_Southeast_Asian_Nations	
+Commonwealth_of_Independent_States	
+Commonwealth_of_Nations	
+European_Free_Trade_Association	
+European_Union	
+NATO	
+NULL	

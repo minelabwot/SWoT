@@ -1,0 +1,26 @@
+origin
+1	http://dbpedia.org/resource/Worcester_College
+5	http://dbpedia.org/resource/Worcester_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_Worcester_College,_Oxford
+1	http://dbpedia.org/resource/Category:Fellows_of_Worcester_College,_Oxford
+1	http://dbpedia.org/resource/Worcester_State_College
+1	http://dbpedia.org/resource/Worcester_college_oxford
+1	http://dbpedia.org/resource/Category:Worcester_College,_Oxford
+1	http://dbpedia.org/resource/New_College,_Worcester
+1	http://dbpedia.org/resource/Worcester_College,_Oxford_University
+1	http://dbpedia.org/resource/William_Palmer_(Worcester_College)
+1	http://dbpedia.org/resource/Worcester_college_of_technology
+1	http://dbpedia.org/resource/Worcester_college_for_the_blind
+1	http://dbpedia.org/resource/University_College_Worcester
+1	http://dbpedia.org/resource/Holy_Cross_College_(Worcester,_MA)
+1	http://dbpedia.org/resource/RNIB_New_College_Worcester
+1	http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Worcester_College,_Oxford
+1	http://dbpedia.org/resource/Worcester_College_of_Higher_Education
+1	http://dbpedia.org/resource/Female_College_of_Worcester
+1	http://dbpedia.org/resource/Worcester_Junior_College
+1	http://dbpedia.org/resource/Worcester_Sixth_Form_College
+1	http://dbpedia.org/resource/New_College_Worcester
+1	http://dbpedia.org/resource/Category:Provosts_of_Worcester_College,_Oxford
+1	http://dbpedia.org/resource/King’s_College,_Worcester
+1	http://dbpedia.org/resource/Worcester_College_(disambiguation)
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Worcester_College,_Oxford

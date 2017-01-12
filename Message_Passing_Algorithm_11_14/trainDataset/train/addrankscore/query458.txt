@@ -1,0 +1,9 @@
+Lawrence Bragg
+5	http://dbpedia.org/resource/William_Lawrence_Bragg	7.57936
+1	http://dbpedia.org/resource/Sir_William_Lawrence_Bragg	6.64381
+1	http://dbpedia.org/resource/Bragg,_William_Lawrence,_Sir	6.64381
+1	http://dbpedia.org/resource/William_Lawrence,_Sir_Bragg	6.64381
+1	http://dbpedia.org/resource/Lawrence_Bragg	6.64381
+1	http://dbpedia.org/resource/Bragg,_Sir_William_Lawrence	6.64381
+1	http://dbpedia.org/resource/Lawrence_William_Bragg	6.64381
+1	http://dbpedia.org/resource/Sir_Lawrence_Bragg	6.64381

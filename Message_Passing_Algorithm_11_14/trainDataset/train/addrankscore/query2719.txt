@@ -1,0 +1,3 @@
+Spotted Redshank
+5	http://dbpedia.org/resource/Spotted_Redshank	6.64381
+1	http://dbpedia.org/resource/Spotted_redshank	4.74933

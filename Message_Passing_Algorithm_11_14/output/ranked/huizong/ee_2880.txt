@@ -1,0 +1,6 @@
+origin
+5	http://dbpedia.org/resource/Kate_Harper
+1	http://dbpedia.org/resource/Commander_Kate_Harper
+1	http://dbpedia.org/resource/Kate_Harper_(disambiguation)
+1	http://dbpedia.org/resource/Kate_Harper_(The_West_Wing)
+1	http://dbpedia.org/resource/Kate_M._Harper

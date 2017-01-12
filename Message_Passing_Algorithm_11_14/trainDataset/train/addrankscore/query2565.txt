@@ -1,0 +1,14 @@
+Polar Express
+1	http://dbpedia.org/resource/Polar_Bear_Express	7.11936
+1	http://dbpedia.org/resource/Polar_Express	6.64381
+1	http://dbpedia.org/resource/Polar_Express_(film)	6.64381
+1	http://dbpedia.org/resource/The_Polar_Express_(video_game)	6.64381
+1	http://dbpedia.org/resource/Conductor_(The_Polar_Express)	6.64381
+1	http://dbpedia.org/resource/Polar_Express_(soundtrack)	6.64381
+1	http://dbpedia.org/resource/The_Polar_Express_soundtrack	6.64381
+1	http://dbpedia.org/resource/Believe_(The_Polar_Express_song)	6.64381
+1	http://dbpedia.org/resource/Dr._Johnny_Skinz's_Disproportionately_Rambunctious_Polar_Express_Machine-head	6.64381
+1	http://dbpedia.org/resource/Polar_express	6.64381
+5	http://dbpedia.org/resource/The_Polar_Express	4.85965
+1	http://dbpedia.org/resource/The_Polar_Express_(soundtrack)	4.81996
+1	http://dbpedia.org/resource/The_Polar_Express_(film)	4.59048

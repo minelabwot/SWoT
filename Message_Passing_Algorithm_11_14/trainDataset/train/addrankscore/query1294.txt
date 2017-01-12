@@ -1,0 +1,16 @@
+David Arnold
+5	http://dbpedia.org/resource/David_Arnold	9.56027
+1	http://dbpedia.org/resource/Category:Film_scores_by_David_Arnold	7.92691
+1	http://dbpedia.org/resource/David_Arnold_Croll	6.64381
+1	http://dbpedia.org/resource/Lance_David_Arnold	6.64381
+1	http://dbpedia.org/resource/Shaken_&_Stirred:_The_David_Arnold_James_Bond_Project	6.64381
+1	http://dbpedia.org/resource/David_Arnold_(composer)	6.64381
+1	http://dbpedia.org/resource/David_Arnold_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/David_Arnold_(film_composer)	6.64381
+1	http://dbpedia.org/resource/David_A._Arnold	6.64381
+1	http://dbpedia.org/resource/Shaken_and_Stirred:_The_David_Arnold_James_Bond_Project	4.59048
+1	http://dbpedia.org/resource/David_Arnold_(conductor)	4.40991
+1	http://dbpedia.org/resource/J._David_Arnold	4.40991
+1	http://dbpedia.org/resource/David_Arnold_Scott_Cairns	4.40991
+1	http://dbpedia.org/resource/David_Arnold_(historian)	4.00032
+1	http://dbpedia.org/resource/David_Arnold_(American_football)	4.00032

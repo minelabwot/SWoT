@@ -1,0 +1,3 @@
+origin
+1	http://dbpedia.org/resource/Leo_mcgarry
+1	http://dbpedia.org/resource/Leo_thomas_mcgarry

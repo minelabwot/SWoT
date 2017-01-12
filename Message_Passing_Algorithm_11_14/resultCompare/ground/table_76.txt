@@ -1,0 +1,15 @@
+Ryerson_University	Toronto	
+McMaster_University	Hamilton,_Ontario	
+Queen's_University	Kingston,_Ontario	
+Carleton_University	Ottawa	
+University_of_Guelph		
+University_of_Waterloo	Waterloo,_Ontario	
+University_of_Ottawa	Ottawa	
+University_of_Western_Ontario	London,_Ontario	
+University_of_Windsor	Windsor,_Ontario	
+York_University	Toronto	
+Lakehead_University	Thunder_Bay,_Ontario	
+Brock_University		
+Laurentian_University		
+Wilfrid_Laurier_University	Waterloo,_Ontario	
+Trent_University		

@@ -1,0 +1,17 @@
+Die Another Day
+5	http://dbpedia.org/resource/Die_Another_Day	7.72397
+5	http://dbpedia.org/resource/James_Bond/Die_Another_Day	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_Die_Another_Day	6.64381
+1	http://dbpedia.org/resource/List_of_henchmen_in_Die_Another_Day	6.64381
+1	http://dbpedia.org/resource/Die_another_day	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_girls_in_Die_Another_Day	6.64381
+1	http://dbpedia.org/resource/Die_Another_Day_(film)	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_Die_Another_Day	6.64381
+1	http://dbpedia.org/resource/List_of_Die_Another_Day_characters	6.64381
+1	http://dbpedia.org/resource/Benzino_Presents:_Die_Another_Day:_Flawless_Victory	6.64381
+1	http://dbpedia.org/resource/Die_Another_Day_(album)	6.64381
+1	http://dbpedia.org/resource/Die_Another_Day_(song)	4.85965
+1	http://dbpedia.org/resource/Die_Another_Day_(soundtrack)	4.59048
+1	http://dbpedia.org/resource/Category:Die_Another_Day	4.40991
+1	http://dbpedia.org/resource/Die_Another_Day_(disambiguation)	4.00032
+1	http://dbpedia.org/resource/Die_Another_Day_(Beatrice_Eli_album)	4.00032

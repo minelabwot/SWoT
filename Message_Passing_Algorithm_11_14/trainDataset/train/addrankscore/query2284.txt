@@ -1,0 +1,4 @@
+George Paget Thomson
+1	http://dbpedia.org/resource/Sir_George_Paget_Thomson	6.64381
+1	http://dbpedia.org/resource/Thomson,_Sir_George_Paget	6.64381
+5	http://dbpedia.org/resource/George_Paget_Thomson	4.84221

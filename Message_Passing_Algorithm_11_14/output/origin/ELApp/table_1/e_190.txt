@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/Solar_water_heating
+http://dbpedia.org/resource/Passive_solar_heating
+http://dbpedia.org/resource/Solar_heating
+http://dbpedia.org/resource/IEA_Solar_Heating_&_Cooling_Implementing_Agreement_task_13
+http://dbpedia.org/resource/Active_solar_heating_system
+http://dbpedia.org/resource/Central_solar_heating_plant
+http://dbpedia.org/resource/Solar_central_heating
+http://dbpedia.org/resource/Solar_heating_and_cooling
+http://dbpedia.org/resource/Active_solar_heating
+http://dbpedia.org/resource/Solar_water_heating_systems
+http://dbpedia.org/resource/Solar_thermal_heating
+http://dbpedia.org/resource/Solar_heating_system
+http://dbpedia.org/resource/IEA_Solar_Heating_and_Cooling_Programme_(IEA_SHC)
+http://dbpedia.org/resource/Central_solar_heating
+http://dbpedia.org/resource/IEA_Solar_Heating_and_Cooling_Programme

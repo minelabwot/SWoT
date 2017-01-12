@@ -1,0 +1,12 @@
+Clinton_Presidential_Center	Little_Rock,_Arkansas	
+George_H._W._Bush	College_Station,_Texas	
+Jimmy_Carter	Atlanta,_Georgia	
+Gerald_Ford	NULL	
+Lyndon_B._Johnson	Austin,_Texas	
+		
+Dwight_D._Eisenhower	Abilene,_Kansas	
+Harry_S._Truman	Independence,_Missouri	
+Franklin_D._Roosevelt	Hyde_Park,_New_York	
+Herbert_Hoover	West_Branch,_Iowa	
+Rutherford_B._Hayes	Fremont,_Ohio	
+Abraham_Lincoln	Springfield,_Illinois	

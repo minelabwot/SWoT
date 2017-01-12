@@ -1,0 +1,18 @@
+origin
+5	http://dbpedia.org/resource/Ryerson_University
+1	http://dbpedia.org/resource/Category:Ryerson_University_alumni
+1	http://dbpedia.org/resource/Category:Ryerson_University
+1	http://dbpedia.org/resource/Category:Ryerson_University_faculty
+1	http://dbpedia.org/resource/Category:Ryerson_University_buildings
+1	http://dbpedia.org/resource/Ryerson_University_Entrepreneurship_Program
+1	http://dbpedia.org/resource/Ryerson_Polytechnic_University
+1	http://dbpedia.org/resource/Ryerson_university_entrepreneurship
+1	http://dbpedia.org/resource/List_of_Ryerson_University_people
+1	http://dbpedia.org/resource/John_Craig_Eaton_(Chancellor_Ryerson_University)
+1	http://dbpedia.org/resource/Ryerson_University_School_of_Journalism
+1	http://dbpedia.org/resource/Category:Ryerson_University_people
+1	http://dbpedia.org/resource/Ryerson_University_Library
+1	http://dbpedia.org/resource/The_DMZ_at_Ryerson_University
+1	http://dbpedia.org/resource/Category:Presidents_of_Ryerson_University
+1	http://dbpedia.org/resource/Category:Chancellors_of_Ryerson_University
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Ryerson_University

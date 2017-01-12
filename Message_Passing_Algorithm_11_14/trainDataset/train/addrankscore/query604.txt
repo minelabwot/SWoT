@@ -1,0 +1,26 @@
+Satyajit Ray
+5	http://dbpedia.org/resource/Satyajit_Ray	9.82713
+1	http://dbpedia.org/resource/Category:Films_directed_by_Satyajit_Ray	8.10931
+1	http://dbpedia.org/resource/Category:Screenplays_by_Satyajit_Ray	8.05051
+1	http://dbpedia.org/resource/Category:Satyajit_Ray	7.35586
+1	http://dbpedia.org/resource/Ray,_Satyajit	6.64381
+1	http://dbpedia.org/resource/Awards_of_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Awards_for_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Awards_conferred_on_satyajit_ray	6.64381
+1	http://dbpedia.org/resource/Filmography_of_satyajit_ray	6.64381
+1	http://dbpedia.org/resource/Satyajit_ray_film_and_television_institute	6.64381
+1	http://dbpedia.org/resource/Filmography_of_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Awards_conferred_on_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Creations_of_satyajit_ray	6.64381
+1	http://dbpedia.org/resource/Literary_works_of_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Literary_Works_Of_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Satyajit_Ray_bibliography	6.64381
+1	http://dbpedia.org/resource/List_of_awards_conferred_on_Satyajit_Ray	6.64381
+1	http://dbpedia.org/resource/Category:Novels_by_Satyajit_Ray	4.85996
+1	http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Satyajit_Ray	4.81996
+1	http://dbpedia.org/resource/Category:Books_by_Satyajit_Ray	4.79041
+1	http://dbpedia.org/resource/Category:Satyajit_Ray_Film_and_Television_Institute_alumni	4.74933
+1	http://dbpedia.org/resource/Satyajit_Ray_filmography	4.6884
+1	http://dbpedia.org/resource/Satyajit_Ray_Film_and_Television_Institute	4.6884
+1	http://dbpedia.org/resource/Category:Characters_created_by_Satyajit_Ray	4.59099
+1	http://dbpedia.org/resource/Literary_creations_of_Satyajit_Ray	4.59048

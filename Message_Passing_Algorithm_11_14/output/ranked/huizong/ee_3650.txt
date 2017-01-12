@@ -1,0 +1,18 @@
+origin
+1	http://dbpedia.org/resource/Jumanji
+1	http://dbpedia.org/resource/Jumanji_2
+1	http://dbpedia.org/resource/Jumanji_3
+1	http://dbpedia.org/resource/Jumanji_(book)
+1	http://dbpedia.org/resource/Jumanji_(film)
+1	http://dbpedia.org/resource/Jumanji_(song)
+1	http://dbpedia.org/resource/Jumanji_(movie)
+1	http://dbpedia.org/resource/Jumanji_(reboot)
+1	http://dbpedia.org/resource/Jumanji_(2014_film)
+1	http://dbpedia.org/resource/Jumanji_(2015_film)
+1	http://dbpedia.org/resource/Jumanji_(2016_film)
+5	http://dbpedia.org/resource/Jumanji_(short_story)
+1	http://dbpedia.org/resource/Jumanji_(disambiguation)
+1	http://dbpedia.org/resource/List_of_Jumanji_episodes
+1	http://dbpedia.org/resource/Jumanji_(picture_book)
+1	http://dbpedia.org/resource/Jumanji_(PC_game)
+1	http://dbpedia.org/resource/Jumanji_(TV_series)

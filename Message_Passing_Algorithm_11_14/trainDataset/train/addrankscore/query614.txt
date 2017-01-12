@@ -1,0 +1,5 @@
+Sivaji Ganesan
+5	http://dbpedia.org/resource/Sivaji_Ganesan	9.96517
+1	http://dbpedia.org/resource/Chevalier_Sivaji_Ganesan_Award_for_Excellence_in_Indian_Cinema	6.64381
+1	http://dbpedia.org/resource/Sivaji_ganesan	6.64381
+1	http://dbpedia.org/resource/Sivaji_Ganesan_filmography	4.00032

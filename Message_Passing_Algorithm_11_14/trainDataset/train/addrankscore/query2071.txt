@@ -1,0 +1,5 @@
+Baadal
+1	http://dbpedia.org/resource/Baadal_(1985_film)	6.64381
+1	http://dbpedia.org/resource/Kabhi_Jo_Baadal_Barse	6.64381
+1	http://dbpedia.org/resource/Baadal_Nanjundaswamy	6.64381
+1	http://dbpedia.org/resource/Baadal	4.40991

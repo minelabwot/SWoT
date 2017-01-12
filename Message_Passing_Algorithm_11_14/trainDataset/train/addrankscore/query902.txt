@@ -1,0 +1,18 @@
+Jeff Martin
+1	http://dbpedia.org/resource/Jeff_Martin_(Canadian_musician)	9.12535
+5	http://dbpedia.org/resource/Jeff_Martin_(writer)	7.85737
+1	http://dbpedia.org/resource/Jeff_Martin_(All_My_Children)	7.19753
+1	http://dbpedia.org/resource/Category:Jeff_Martin_(Canadian_musician)_video_albums	6.64381
+1	http://dbpedia.org/resource/Martin,_Jeff	6.64381
+1	http://dbpedia.org/resource/Jeff_Martin_(AMC)	6.64381
+1	http://dbpedia.org/resource/Jeff_Martin_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Jeff_Martin_(Game_Designer)	6.64381
+1	http://dbpedia.org/resource/Jeff_Martin_(American_journalist)	6.64381
+1	http://dbpedia.org/resource/Jeff_Martin_(American_musician)	4.8598
+1	http://dbpedia.org/resource/Jeff_Martin_777	4.8598
+1	http://dbpedia.org/resource/Category:Jeff_Martin_(Canadian_musician)_albums	4.68878
+1	http://dbpedia.org/resource/Jeff_Martin	4.40991
+1	http://dbpedia.org/resource/Live_in_Dublin_(Jeff_Martin_album)	4.40991
+1	http://dbpedia.org/resource/Jeff_Martin_(journalist)	4.40991
+1	http://dbpedia.org/resource/Jeff_Martin_(game_designer)	4.40991
+1	http://dbpedia.org/resource/Jeff_Martin_(basketball)	4.00032

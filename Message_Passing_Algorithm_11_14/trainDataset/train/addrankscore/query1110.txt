@@ -1,0 +1,4 @@
+Jean Charles de Borda
+5	http://dbpedia.org/resource/Jean-Charles_de_Borda	7.07857
+1	http://dbpedia.org/resource/Jean_Charles_de_Borda	6.64381
+1	http://dbpedia.org/resource/Jean-charles_de_borda	6.64381

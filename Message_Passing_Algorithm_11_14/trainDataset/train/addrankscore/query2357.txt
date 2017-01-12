@@ -1,0 +1,16 @@
+The Emperor New Groove
+1	http://dbpedia.org/resource/List_of_The_Emperor's_New_Groove_characters	7.50745
+5	http://dbpedia.org/resource/The_Emperor's_New_Groove	7.23786
+1	http://dbpedia.org/resource/Pacha_(The_Emperor's_New_Groove)	6.64381
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_2	6.64381
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_2:_Kronk's_New_Groove	6.64381
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove:_Kronk's_New_Groove	6.64381
+1	http://dbpedia.org/resource/The_emperor's_new_groove	6.64381
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove:The_Game	6.64381
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_(Video_Game)	6.64381
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_(Disney_franchise)	6.64381
+1	http://dbpedia.org/resource/Category:The_Emperor's_New_Groove_(franchise)	4.74933
+1	http://dbpedia.org/resource/Category:The_Emperor's_New_Groove	4.68878
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_(soundtrack)	4.59048
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_(video_game)	4.40991
+1	http://dbpedia.org/resource/The_Emperor's_New_Groove_(franchise)	4.00032

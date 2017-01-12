@@ -1,0 +1,9 @@
+Edgar Douglas Adrian
+5	http://dbpedia.org/resource/Edgar_Adrian,_1st_Baron_Adrian	7.50487
+1	http://dbpedia.org/resource/Adrian,_Edgar_Douglas	6.64381
+1	http://dbpedia.org/resource/Edgar_Douglas_Adrian	6.64381
+1	http://dbpedia.org/resource/Lord_Edgar_Douglas_Adrian	6.64381
+1	http://dbpedia.org/resource/Edgar_Douglas,_1st_Baron_Adrian_of_Cambridge_Adrian	6.64381
+1	http://dbpedia.org/resource/Adrian,_Edgar_Douglas,_1st_Baron_Adrian_of_Cambridge	6.64381
+1	http://dbpedia.org/resource/Edgar_Douglas_Adrian,_1st_Baron_Adrian	6.64381
+1	http://dbpedia.org/resource/Edgar_Douglas_Adrian,_1st_Baron_Adrian_OM_PRS	6.64381

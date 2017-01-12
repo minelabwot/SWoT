@@ -1,0 +1,2 @@
+origin
+5	http://dbpedia.org/resource/White_Snow,_Bright_Snow

@@ -1,0 +1,3 @@
+origin
+5	http://dbpedia.org/resource/Owl_Moon
+1	http://dbpedia.org/resource/The_Owl_Dives_Through_The_Crescent_Moon

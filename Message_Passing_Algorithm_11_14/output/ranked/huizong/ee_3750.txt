@@ -1,0 +1,14 @@
+origin
+1	http://dbpedia.org/resource/Ed_Young
+1	http://dbpedia.org/resource/Ed_Young,_Jr.
+1	http://dbpedia.org/resource/Ed_Young_Jr.
+1	http://dbpedia.org/resource/Dr._Ed_Young
+1	http://dbpedia.org/resource/Ed_Young,_pastor
+1	http://dbpedia.org/resource/Ed_Young_(pastor)
+1	http://dbpedia.org/resource/Pastor_Ed_Young
+1	http://dbpedia.org/resource/Ed_Young_(pastors)
+1	http://dbpedia.org/resource/Ed_Young_(disambiguation)
+1	http://dbpedia.org/resource/Ed_Young_(father_and_son)
+1	http://dbpedia.org/resource/Ed_Young_(pastor_Fellowship_Church)
+5	http://dbpedia.org/resource/Ed_Young_(illustrator)
+1	http://dbpedia.org/resource/Ed_Young_(cricketer)

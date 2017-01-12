@@ -1,0 +1,6 @@
+Hugh Lofting
+5	http://dbpedia.org/resource/Hugh_Lofting	8.27032
+1	http://dbpedia.org/resource/Category:Novels_by_Hugh_Lofting	6.64381
+1	http://dbpedia.org/resource/Category:Works_by_Hugh_Lofting	6.64381
+1	http://dbpedia.org/resource/Hugh_John_Lofting	6.64381
+1	http://dbpedia.org/resource/Lofting,_Hugh	6.64381

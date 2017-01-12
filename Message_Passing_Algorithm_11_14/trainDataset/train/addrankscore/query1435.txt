@@ -1,0 +1,4 @@
+Maniac Magee
+1	http://dbpedia.org/resource/Maniac_Magee_(film)	6.64381
+1	http://dbpedia.org/resource/Maniac_magee	6.64381
+5	http://dbpedia.org/resource/Maniac_Magee	4.81996

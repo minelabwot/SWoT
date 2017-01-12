@@ -1,0 +1,6 @@
+El Diario La Prensa
+1	http://dbpedia.org/resource/El_Diario-La_Prensa	6.64381
+1	http://dbpedia.org/resource/El_Diario/La_Prensa	6.64381
+1	http://dbpedia.org/resource/El_Diario_la_Prensa	6.64381
+1	http://dbpedia.org/resource/El_Diario_-_La_Prensa	6.64381
+5	http://dbpedia.org/resource/El_Diario_La_Prensa	4.81996

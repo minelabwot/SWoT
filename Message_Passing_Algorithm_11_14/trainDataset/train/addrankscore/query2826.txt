@@ -1,0 +1,8 @@
+Frog Went A Courtin
+1	http://dbpedia.org/resource/Frog_Went_A-Courtin'	6.64381
+1	http://dbpedia.org/resource/Frog_Went_a_Courtin'	6.64381
+1	http://dbpedia.org/resource/Frog_Went_a-Courtin'	6.64381
+1	http://dbpedia.org/resource/Frog_went_a-Courtin'	6.64381
+1	http://dbpedia.org/resource/Frog_went_a-courtin'	6.64381
+1	http://dbpedia.org/resource/Frog_Went_A-Courtin'_(song)	6.64381
+5	http://dbpedia.org/resource/Frog_Went_A-Courtin'_(book)	4.40991

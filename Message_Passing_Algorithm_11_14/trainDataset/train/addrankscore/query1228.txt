@@ -1,0 +1,2 @@
+Burwash Mine
+5	http://dbpedia.org/resource/Burwash_Mine	6.64381

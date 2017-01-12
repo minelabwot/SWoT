@@ -1,0 +1,5 @@
+degree celsius
+5	http://dbpedia.org/resource/Degree_Celsius
+4	http://dbpedia.org/resource/Degree_celsius
+3	http://dbpedia.org/resource/Celsius_degree
+1	http://dbpedia.org/resource/100_Degree_Celsius

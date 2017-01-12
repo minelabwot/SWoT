@@ -1,0 +1,18 @@
+Ryerson University
+1	http://dbpedia.org/resource/Category:Ryerson_University_alumni	9.54256
+5	http://dbpedia.org/resource/Ryerson_University	9.4111
+1	http://dbpedia.org/resource/Category:Ryerson_University_faculty	7.79422
+1	http://dbpedia.org/resource/Category:Ryerson_University	7.47022
+1	http://dbpedia.org/resource/Ryerson_University_Entrepreneurship_Program	7.47022
+1	http://dbpedia.org/resource/Category:Ryerson_University_buildings	7.0396
+1	http://dbpedia.org/resource/Ryerson_Polytechnic_University	6.64381
+1	http://dbpedia.org/resource/List_of_Ryerson_University_people	6.64381
+1	http://dbpedia.org/resource/Ryerson_university_entrepreneurship	6.64381
+1	http://dbpedia.org/resource/Ryerson_University_School_of_Journalism	6.64381
+1	http://dbpedia.org/resource/John_Craig_Eaton_(Chancellor_Ryerson_University)	6.64381
+1	http://dbpedia.org/resource/Category:Ryerson_University_people	4.82016
+1	http://dbpedia.org/resource/Category:Presidents_of_Ryerson_University	4.74933
+1	http://dbpedia.org/resource/Category:Chancellors_of_Ryerson_University	4.40991
+1	http://dbpedia.org/resource/The_DMZ_at_Ryerson_University	4.40991
+1	http://dbpedia.org/resource/Ryerson_University_Library	4.00032
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Ryerson_University	5.88129e-14

@@ -1,0 +1,3 @@
+Christopher Paul Curtis
+5	http://dbpedia.org/resource/Christopher_Paul_Curtis	4.84238
+1	http://dbpedia.org/resource/Category:Novels_by_Christopher_Paul_Curtis	4.59099

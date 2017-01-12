@@ -1,0 +1,3 @@
+Rifles for Watie
+1	http://dbpedia.org/resource/Rifles_for_watie	6.64381
+5	http://dbpedia.org/resource/Rifles_for_Watie	4.00032

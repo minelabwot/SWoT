@@ -1,0 +1,15 @@
+Royal Military College of Canada
+1	http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada_alumni	9.50181
+5	http://dbpedia.org/resource/Royal_Military_College_of_Canada	8.58357
+1	http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada_faculty	7.79422
+1	http://dbpedia.org/resource/List_of_Royal_Military_College_of_Canada_people	7.39423
+1	http://dbpedia.org/resource/Category:Commandants_of_the_Royal_Military_College_of_Canada	7.35586
+1	http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada	7.19871
+1	http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada_people	7.11936
+1	http://dbpedia.org/resource/Royal_Military_College_of_Canada_Museum	6.64381
+1	http://dbpedia.org/resource/Royal_Military_College_of_Canada_Debating_Society	6.64381
+1	http://dbpedia.org/resource/Royal_Military_College_of_Canada_chapels	6.64381
+1	http://dbpedia.org/resource/List_of_Royal_Military_College_of_Canada_Memorials	6.64381
+1	http://dbpedia.org/resource/List_of_Royal_Military_College_of_Canada_memorials	4.00032
+1	http://dbpedia.org/resource/Royal_Military_College_of_Canada_Bands	4.00032
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Royal_Military_College_of_Canada	5.88129e-14

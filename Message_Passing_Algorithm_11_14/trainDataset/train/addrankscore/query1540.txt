@@ -1,0 +1,5 @@
+John Pople
+5	http://dbpedia.org/resource/John_Pople	7.03872
+1	http://dbpedia.org/resource/John_Anthony_Pople	6.64381
+1	http://dbpedia.org/resource/Sir_John_Pople	6.64381
+1	http://dbpedia.org/resource/John_A._Pople	6.64381

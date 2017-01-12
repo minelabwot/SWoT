@@ -1,0 +1,4 @@
+Make Way for Ducklings
+1	http://dbpedia.org/resource/Make_Way_For_Ducklings	6.64381
+1	http://dbpedia.org/resource/Make_Way_for_Ducklings_statue	6.64381
+5	http://dbpedia.org/resource/Make_Way_for_Ducklings	4.74904

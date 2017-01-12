@@ -1,0 +1,2 @@
+Camlaren Mine
+5	http://dbpedia.org/resource/Camlaren_Mine	6.64381

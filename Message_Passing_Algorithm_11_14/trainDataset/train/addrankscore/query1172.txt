@@ -1,0 +1,5 @@
+North American Free Trade Agreement
+5	http://dbpedia.org/resource/North_American_Free_Trade_Agreement	7.65273
+1	http://dbpedia.org/resource/North_American_Free_Trade_Agreement_Implementation_Act	6.64381
+1	http://dbpedia.org/resource/North_American_Free_Trade_Agreement_(NAFTA)_Superhighway_System	6.64381
+1	http://dbpedia.org/resource/Category:North_American_Free_Trade_Agreement	4.85996

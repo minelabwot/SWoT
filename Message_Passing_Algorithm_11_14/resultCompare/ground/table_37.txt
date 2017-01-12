@@ -1,0 +1,35 @@
+	Devika_Rani	NULL	
+	NULL	
+	Prithviraj_Kapoor	NULL	
+	Pankaj_Mullick	
+	Ruby_Myers	
+	NULL	
+	Dhirendra_Nath_Ganguly	
+	Kanan_Devi	NULL	
+	Nitin_Bose	
+	NULL	
+	Sohrab_Modi	
+	NULL	
+	Naushad	NULL	
+	L._V._Prasad	
+	Durga_Khote	NULL	
+	Satyajit_Ray	NULL	
+	V._Shantaram	NULL	
+	B._Nagi_Reddy	
+	Raj_Kapoor	NULL	
+	Ashok_Kumar	NULL	
+	Lata_Mangeshkar	NULL	
+	Akkineni_Nageswara_Rao	NULL	
+	NULL	
+	Bhupen_Hazarika	NULL	
+	Majrooh_Sultanpuri	NULL	
+	Dilip_Kumar	NULL	
+	Rajkumar	NULL	
+	Sivaji_Ganesan	NULL	
+	Pradeep	NULL	
+	Baldev_Raj_Chopra	NULL	
+	Hrishikesh_Mukherjee	NULL	
+	Asha_Bhosle	NULL	
+	Yash_Chopra	NULL	
+	Dev_Anand	NULL	
+	Mrinal_Sen	

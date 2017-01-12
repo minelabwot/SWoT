@@ -1,0 +1,3 @@
+John Swartzwelder
+5	http://dbpedia.org/resource/John_Swartzwelder	8.91185
+1	http://dbpedia.org/resource/Category:Screenplays_by_John_Swartzwelder	8.57038

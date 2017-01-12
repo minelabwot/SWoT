@@ -1,0 +1,3 @@
+The Last Temptation of Homer
+1	http://dbpedia.org/resource/The_last_temptation_of_homer	6.64381
+5	http://dbpedia.org/resource/The_Last_Temptation_of_Homer	4.59048

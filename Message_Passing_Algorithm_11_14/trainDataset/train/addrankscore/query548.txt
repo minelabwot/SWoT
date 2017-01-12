@@ -1,0 +1,3 @@
+Mongkut Rama IV
+1	http://dbpedia.org/resource/Rama_IV_Mongkut	6.64381
+1	http://dbpedia.org/resource/Mongkut,_Rama_IV_of_Siam	6.64381

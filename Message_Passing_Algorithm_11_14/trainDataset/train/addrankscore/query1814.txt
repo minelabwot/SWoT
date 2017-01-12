@@ -1,0 +1,7 @@
+From the Mixed Up Files of Mrs. Basil E. Frankweiler
+1	http://dbpedia.org/resource/From_the_Mixed_Up_Files_of_Mrs._Basil_E._Frankweiler	6.64381
+1	http://dbpedia.org/resource/From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler_(1995_film)	6.64381
+1	http://dbpedia.org/resource/From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler_(1973_film)	6.64381
+1	http://dbpedia.org/resource/From_the_mixed-up_files_of_mrs._basil_e._frankweiler	6.64381
+1	http://dbpedia.org/resource/From_the_Mixed-Up_Files_Of_Mrs._Basil_E._Frankweiler	6.64381
+5	http://dbpedia.org/resource/From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler	4.81996

@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/St_Cross_College
+http://dbpedia.org/resource/St._Cross_College
+http://dbpedia.org/resource/St_Cross_College,_Oxford
+http://dbpedia.org/resource/Category:Alumni_of_St_Cross_College,_Oxford
+http://dbpedia.org/resource/St._Cross_College,_Oxford
+http://dbpedia.org/resource/Category:Fellows_of_St_Cross_College,_Oxford
+http://dbpedia.org/resource/St_Joseph_College,_Mark_Cross
+http://dbpedia.org/resource/List_of_Honorary_Fellows_of_St_Cross_College,_Oxford
+http://dbpedia.org/resource/Category:St_Cross_College,_Oxford
+http://dbpedia.org/resource/St_Joseph's_College,_Mark_Cross
+http://dbpedia.org/resource/Category:St_Cross_College,_Oxford_alumni

@@ -1,0 +1,3 @@
+Bart Gets an Elephant
+1	http://dbpedia.org/resource/Bart_gets_an_elephant	6.64381
+5	http://dbpedia.org/resource/Bart_Gets_an_Elephant	4.40991

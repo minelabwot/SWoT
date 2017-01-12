@@ -1,0 +1,14 @@
+Samuel Baker
+1	http://dbpedia.org/resource/Sir_Samuel_White_Baker	6.64381
+1	http://dbpedia.org/resource/Samuel_White_Baker	6.64381
+1	http://dbpedia.org/resource/Sir_Samuel_Baker	6.64381
+1	http://dbpedia.org/resource/Samuel_A._Baker	6.64381
+1	http://dbpedia.org/resource/Samuel_Aaron_Baker	6.64381
+1	http://dbpedia.org/resource/Samuel_Henry_Baker	6.64381
+1	http://dbpedia.org/resource/Samuel_Baker_House_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Baker,_Samuel,_House	6.64381
+1	http://dbpedia.org/resource/Samuel_Baker_(divine)	6.64381
+1	http://dbpedia.org/resource/Sir_Samuel_Baker_Secondary_School	6.64381
+5	http://dbpedia.org/resource/Samuel_Baker	4.84221
+1	http://dbpedia.org/resource/Samuel_Baker_House	4.59048
+1	http://dbpedia.org/resource/Samuel_Baker_House_(Elfers,_Florida)	4.40991

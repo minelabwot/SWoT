@@ -1,0 +1,3 @@
+C. J. Cregg
+1	http://dbpedia.org/resource/C_J_Cregg	6.64381
+5	http://dbpedia.org/resource/C._J._Cregg	4.84221

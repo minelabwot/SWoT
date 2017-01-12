@@ -1,0 +1,22 @@
+Trinity Hall
+1	http://dbpedia.org/resource/Category:Alumni_of_Trinity_Hall,_Cambridge	9.87181
+5	http://dbpedia.org/resource/Trinity_Hall,_Cambridge	9.55619
+1	http://dbpedia.org/resource/Category:Fellows_of_Trinity_Hall,_Cambridge	8.46401
+1	http://dbpedia.org/resource/Category:Masters_of_Trinity_Hall,_Cambridge	7.69091
+1	http://dbpedia.org/resource/Category:Trinity_Hall,_Cambridge	7.0396
+1	http://dbpedia.org/resource/Trinity_Hall,_University_of_Cambridge	6.64381
+1	http://dbpedia.org/resource/Trinity_Hall_College	6.64381
+1	http://dbpedia.org/resource/Trinity_Hall,_Washingon,_Pennsylvania	6.64381
+1	http://dbpedia.org/resource/Henry_Harvey_(Trinity_Hall)	6.64381
+1	http://dbpedia.org/resource/Robert_King_(Trinity_Hall)	6.64381
+1	http://dbpedia.org/resource/Geneva_Hall_and_Trinity_Hall,_Hobart_&_William_Smith_College	6.64381
+1	http://dbpedia.org/resource/Trinity_Hall_(Washington,_Pennsylvania)	6.64381
+1	http://dbpedia.org/resource/Trinity_Hall_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Trinity_Hall,_Aberdeen	6.64381
+1	http://dbpedia.org/resource/Holy_Trinity_Parish_Hall,_Fortitude_Valley	6.64381
+1	http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Trinity_Hall,_Cambridge	6.64381
+1	http://dbpedia.org/resource/Category:Deans_of_Trinity_Hall,_Cambridge	4.59099
+1	http://dbpedia.org/resource/Trinity_Hall_Boat_Club	4.40991
+1	http://dbpedia.org/resource/Trinity_Hall	4.00032
+1	http://dbpedia.org/resource/Trinity_Hall,_Dublin	4.00032
+1	http://dbpedia.org/resource/List_of_Masters_of_Trinity_Hall,_Cambridge	4.00032

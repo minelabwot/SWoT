@@ -1,0 +1,7 @@
+Laiks
+1	http://dbpedia.org/resource/New_Era_Party	7.31635
+1	http://dbpedia.org/resource/Jaunais_laiks	6.64381
+1	http://dbpedia.org/resource/Kursas_Laiks	6.64381
+1	http://dbpedia.org/resource/Latgales_Laiks	6.64381
+5	http://dbpedia.org/resource/Rigas_Laiks	6.64381
+1	http://dbpedia.org/resource/Rīgas_Laiks	4.6884

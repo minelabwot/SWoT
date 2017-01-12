@@ -1,0 +1,17 @@
+Tokyo
+1	http://dbpedia.org/resource/Category:Cities_in_Tokyo
+2	http://dbpedia.org/resource/Category:Greater_Tokyo_Area
+3	http://dbpedia.org/resource/Greater_Tokyo_Area
+1	http://dbpedia.org/resource/Category:Neighborhoods_of_Tokyo
+1	http://dbpedia.org/resource/Category:People_from_Tokyo
+1	http://dbpedia.org/resource/Category:Subprefectures_in_Tokyo
+5	http://dbpedia.org/resource/Tokyo
+3	http://dbpedia.org/resource/Category:Tokyo
+1	http://dbpedia.org/resource/Category:Tokyo_geography_stubs
+1	http://dbpedia.org/resource/Category:Towns_in_Tokyo
+1	http://dbpedia.org/resource/Category:Wards_of_Tokyo
+1	http://dbpedia.org/resource/Wards_of_Tokyo
+1	http://dbpedia.org/resource/Category:Culture_in_Tokyo
+1	http://dbpedia.org/resource/Education_in_Tokyo
+1	http://dbpedia.org/resource/Category:Education_in_Tokyo
+1	http://dbpedia.org/resource/F.C._Tokyo

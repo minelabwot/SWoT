@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/The_Three_Pigs
+http://dbpedia.org/resource/The_Three_Little_Pigs_(Shrek)
+http://dbpedia.org/resource/Category:Works_based_on_The_Three_Little_Pigs
+http://dbpedia.org/resource/Three_Little_Pigs_-_The_Remixes
+http://dbpedia.org/resource/The_True_Story_of_the_Three_Little_Pigs
+http://dbpedia.org/resource/The_Three_Little_Pigs
+http://dbpedia.org/resource/The_Three_Little_Pigs_(film)
+http://dbpedia.org/resource/Three_Little_Pigs_–_The_Remixes

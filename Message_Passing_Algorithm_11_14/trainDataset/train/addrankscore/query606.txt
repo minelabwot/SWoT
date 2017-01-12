@@ -1,0 +1,19 @@
+Raj Kapoor
+5	http://dbpedia.org/resource/Raj_Kapoor	9.51505
+1	http://dbpedia.org/resource/Raj_Kapoor_(Tamil_film_director)	8.48587
+1	http://dbpedia.org/resource/Aditya_Raj_Kapoor	7.07904
+1	http://dbpedia.org/resource/Raj_Kapoor_filmography	6.64381
+1	http://dbpedia.org/resource/Awards_and_Achievements_of_Raj_Kapoor	6.64381
+1	http://dbpedia.org/resource/Awards_and_achievements_of_raj_kapoor	6.64381
+1	http://dbpedia.org/resource/Awards_and_achievements_of_Raj_Kapoor	6.64381
+1	http://dbpedia.org/resource/List_of_awards_and_achievements_of_Raj_Kapoor	6.64381
+1	http://dbpedia.org/resource/List_of_Raj_Kapoor_awards_and_nominations	6.64381
+1	http://dbpedia.org/resource/Raj_Narain_Kapoor	6.64381
+1	http://dbpedia.org/resource/Raj_Kapoor_(Tamil_actor)	6.64381
+1	http://dbpedia.org/resource/Raj_Kapoor_(director)	6.64381
+1	http://dbpedia.org/resource/Raj_Kapoor_(actor)	6.64381
+1	http://dbpedia.org/resource/Ranbir_Raj_Prithviraj_Kapoor	6.64381
+1	http://dbpedia.org/resource/Raj_Kapoor_bibliography	6.64381
+1	http://dbpedia.org/resource/Category:Films_directed_by_Raj_Kapoor	4.85996
+1	http://dbpedia.org/resource/Category:Raj_Kapoor	4.74933
+1	http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Raj_Kapoor	4.74933

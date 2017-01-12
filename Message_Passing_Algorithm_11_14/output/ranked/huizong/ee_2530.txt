@@ -1,0 +1,20 @@
+origin
+5	http://dbpedia.org/resource/St_Anne's_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_St_Anne's_College,_Oxford
+1	http://dbpedia.org/resource/St_Anne's_College
+1	http://dbpedia.org/resource/St_Anne's_Community_College
+1	http://dbpedia.org/resource/Category:Fellows_of_St_Anne's_College,_Oxford
+1	http://dbpedia.org/resource/St._Anne's_Diocesan_College
+1	http://dbpedia.org/resource/St_Anne's_College-Kurunegala
+1	http://dbpedia.org/resource/St._Anne's_College,_Oxford
+1	http://dbpedia.org/resource/Category:St_Anne's_College,_Oxford
+1	http://dbpedia.org/resource/St._Anne's_College,_Kurunegala
+1	http://dbpedia.org/resource/St._Anne's_College_(disambiguation)
+1	http://dbpedia.org/resource/St._Anne's_College
+1	http://dbpedia.org/resource/St._Anne’s_College
+1	http://dbpedia.org/resource/St._Anne's_College_(Sri_Lanka)
+1	http://dbpedia.org/resource/St._Anne's_Community_College
+1	http://dbpedia.org/resource/Category:Principals_of_St_Anne's_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_St._Anne's_College,_Kurunegala
+1	http://dbpedia.org/resource/Category:St._Anne's_College,_Kurunegala
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_St_Anne's_College,_Oxford

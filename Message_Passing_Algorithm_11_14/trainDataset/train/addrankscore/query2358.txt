@@ -1,0 +1,7 @@
+Treasure Planet
+1	http://dbpedia.org/resource/Disney's_Treasure_Planet:_Battle_at_Procyon	6.64381
+1	http://dbpedia.org/resource/The_Treasure_Planet_(1982_film)	6.64381
+5	http://dbpedia.org/resource/Treasure_Planet	4.79017
+1	http://dbpedia.org/resource/Category:Treasure_Planet_characters	4.68878
+1	http://dbpedia.org/resource/Treasure_Planet:_Battle_at_Procyon	4.40991
+1	http://dbpedia.org/resource/The_Treasure_Planet	4.00032

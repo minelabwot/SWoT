@@ -1,0 +1,22 @@
+20	3
+Team	City	Arena
+Boston Celtics	Boston, MA	TD Garden
+Brooklyn Nets	New York, NY	Barclays Center
+New York Knicks	New York, NY	Madison Square Garden
+Chicago Bulls	Chicago, IL	United Center
+Cleveland Cavaliers	Cleveland, OH	Quicken Loans Arena
+Detroit Pistons	Auburn Hills, MI	The Palace of Auburn Hills
+Indiana Pacers	Indianapolis, IN	Bankers Life Fieldhouse
+Atlanta Hawks	Atlanta, GA	Philips Arena
+Miami Heat	Miami, FL	American Airlines Arena
+Denver Nuggets	Denver, CO	Pepsi Center
+Oklahoma City Thunder	Oklahoma City, OK	Chesapeake Energy Arena
+Utah Jazz	Salt Lake City, UT	Vivint Smart Home Arena
+Golden State Warriors	Oakland, CA	Oracle Arena
+Los Angeles Clippers	Los Angeles, CA	Staples Center
+Los Angeles Lakers	Los Angeles, CA	Staples Center
+Phoenix Suns	Phoenix, AZ	Talking Stick Resort Arena
+Dallas Mavericks	Dallas, TX	American Airlines Center
+Houston Rockets	Houston, TX	Toyota Center
+Memphis Grizzlies	Memphis, TN	FedExForum
+San Antonio Spurs	San Antonio, TX	AT&T Center

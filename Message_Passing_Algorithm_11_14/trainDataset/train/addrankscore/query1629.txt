@@ -1,0 +1,8 @@
+Chris Van Allsburg
+5	http://dbpedia.org/resource/Chris_Van_Allsburg	8.39458
+1	http://dbpedia.org/resource/Category:Picture_books_by_Chris_Van_Allsburg	7.0396
+1	http://dbpedia.org/resource/Category:Works_by_Chris_Van_Allsburg	6.64381
+1	http://dbpedia.org/resource/Chris_van_Allsburg	6.64381
+1	http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_novel)	6.64381
+1	http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_book)	4.79017
+1	http://dbpedia.org/resource/Category:Novels_by_Chris_Van_Allsburg	4.00032

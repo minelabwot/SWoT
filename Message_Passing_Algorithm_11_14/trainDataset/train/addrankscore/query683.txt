@@ -1,0 +1,3 @@
+Shadow of a Bull
+1	http://dbpedia.org/resource/The_Shadow_of_a_Bull	6.64381
+5	http://dbpedia.org/resource/Shadow_of_a_Bull	4.00032

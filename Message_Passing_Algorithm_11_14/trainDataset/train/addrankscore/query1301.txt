@@ -1,0 +1,19 @@
+For Your Eyes Only
+5	http://dbpedia.org/resource/For_Your_Eyes_Only_(short_story_collection)	7.23786
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(Blondie_song)	6.64381
+1	http://dbpedia.org/resource/For_your_eyes_only	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only,_James	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_For_Your_Eyes_Only	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_For_Your_Eyes_Only	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_girls_in_For_Your_Eyes_Only	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(short_story)	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(1981_song)	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(1982_song)	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Gossip_Girl:_For_Your_Eyes_Only	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(Sheena_Easton_song)	6.64381
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(film)	4.84221
+1	http://dbpedia.org/resource/Category:For_Your_Eyes_Only_(film)	4.79041
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(song)	4.6884
+1	http://dbpedia.org/resource/For_Your_Eyes_Only	4.59048
+1	http://dbpedia.org/resource/For_Your_Eyes_Only_(soundtrack)	4.40991

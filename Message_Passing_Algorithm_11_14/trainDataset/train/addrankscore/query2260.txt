@@ -1,0 +1,6 @@
+Erin Brockovich
+1	http://dbpedia.org/resource/Erin_Brockovich	7.15907
+1	http://dbpedia.org/resource/Erin_Brockovich_(movie)	6.64381
+1	http://dbpedia.org/resource/Erin_brockovich_(film)	6.64381
+1	http://dbpedia.org/resource/Erin_Brockovich-Ellis	6.64381
+5	http://dbpedia.org/resource/Erin_Brockovich_(film)	4.59048

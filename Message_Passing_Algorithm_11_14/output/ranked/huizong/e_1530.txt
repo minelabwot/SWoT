@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/Royal_Military_College_of_Canada
+http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada_alumni
+http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada_faculty
+http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada
+http://dbpedia.org/resource/Category:Royal_Military_College_of_Canada_people
+http://dbpedia.org/resource/List_of_Royal_Military_College_of_Canada_people
+http://dbpedia.org/resource/Royal_Military_College_of_Canada_Museum
+http://dbpedia.org/resource/Royal_Military_College_of_Canada_chapels
+http://dbpedia.org/resource/Category:Commandants_of_the_Royal_Military_College_of_Canada
+http://dbpedia.org/resource/List_of_Royal_Military_College_of_Canada_Memorials
+http://dbpedia.org/resource/Royal_Military_College_of_Canada_Debating_Society
+http://dbpedia.org/resource/Royal_Military_College_of_Canada_Bands
+http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Royal_Military_College_of_Canada

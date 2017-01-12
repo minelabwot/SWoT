@@ -1,0 +1,20 @@
+Brock_University		
+Carleton_University	Ottawa	
+Lakehead_University	Thunder_Bay,_Ontario	
+Laurentian_University		
+McMaster_University	Hamilton,_Ontario	
+Nipissing_University	North_Bay,_Ontario	
+Ontario_College_of_Art_\amp_Design	Toronto	
+Queen's_University	Kingston,_Ontario	
+Royal_Military_College_of_Canada	Kingston,_Ontario	
+Ryerson_University	Toronto	
+Trent_University		
+University_of_Guelph		
+University_of_Ontario_Institute_of_Technology		
+University_of_Ottawa	Ottawa	
+University_of_Toronto		
+University_of_Waterloo	Waterloo,_Ontario	
+University_of_Western_Ontario	London,_Ontario	
+University_of_Windsor	Windsor,_Ontario	
+Wilfrid_Laurier_University	Waterloo,_Ontario	
+York_University	Toronto	

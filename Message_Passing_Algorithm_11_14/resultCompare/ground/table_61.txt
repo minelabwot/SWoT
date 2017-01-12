@@ -1,0 +1,11 @@
+Con_Mine			
+Giant_Mine			
+			
+Negus_Mine			
+Burwash_Mine			
+			
+Discovery_Mine			
+Camlaren_Mine			
+Beaulieu_Mine			
+Outpost_Island_Mine			
+Ruth_Mine			

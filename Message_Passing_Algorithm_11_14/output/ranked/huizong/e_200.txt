@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Mary_McCormack
+http://dbpedia.org/resource/Mary_Ellen_McCormack
+http://dbpedia.org/resource/Mary_Ellen_McCormack_housing_project
+http://dbpedia.org/resource/Bridget_Mary_McCormack

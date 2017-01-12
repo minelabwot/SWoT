@@ -1,0 +1,6 @@
+Richard Francis Burton
+5	http://dbpedia.org/resource/Richard_Francis_Burton	7.50487
+1	http://dbpedia.org/resource/Sir_Richard_Francis_Burton	6.64381
+1	http://dbpedia.org/resource/Burton,_Richard_Francis,_Sir	6.64381
+1	http://dbpedia.org/resource/Richard_Francis,_Sir_Burton	6.64381
+1	http://dbpedia.org/resource/Category:Books_by_Richard_Francis_Burton	4.00032

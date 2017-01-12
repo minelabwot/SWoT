@@ -1,0 +1,10 @@
+http://dbpedia.org/resource/Category:Fellows_of_Nuffield_College,_Oxford
+http://dbpedia.org/resource/Category:Alumni_of_Nuffield_College,_Oxford
+http://dbpedia.org/resource/Nuffield_College,_Oxford
+http://dbpedia.org/resource/Category:Nuffield_College,_Oxford
+http://dbpedia.org/resource/Nuffield_College
+http://dbpedia.org/resource/Buildings_of_Nuffield_College
+http://dbpedia.org/resource/List_of_Nuffield_College_people
+http://dbpedia.org/resource/Warden_of_Nuffield_College,_Oxford
+http://dbpedia.org/resource/Category:Wardens_of_Nuffield_College,_Oxford
+http://dbpedia.org/resource/Buildings_of_Nuffield_College,_Oxford

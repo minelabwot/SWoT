@@ -1,0 +1,5 @@
+Karen Hesse
+1	http://dbpedia.org/resource/Phoenix_Rising_(Karen_Hesse_novel)	6.64381
+1	http://dbpedia.org/resource/Witness_(Karen_Hesse_novel)	6.64381
+1	http://dbpedia.org/resource/Karen_S._Hesse	6.64381
+5	http://dbpedia.org/resource/Karen_Hesse	4.85996

@@ -1,0 +1,26 @@
+Walter Gilbert
+5	http://dbpedia.org/resource/Walter_Gilbert	7.11885
+1	http://dbpedia.org/resource/Gilbert,_Walter	6.64381
+1	http://dbpedia.org/resource/Gilbert_Walter_Riversdale_Monckton,_2nd_Viscount_Monckton_of_Brenchley	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_Dinsdale	6.64381
+1	http://dbpedia.org/resource/Gilbert_Carlton_Walter	6.64381
+1	http://dbpedia.org/resource/David_fitz_Walter_fitz_Gilbert	6.64381
+1	http://dbpedia.org/resource/Walter_fitz_Gilbert	6.64381
+1	http://dbpedia.org/resource/Walter_Fitz_Gilbert	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_(football)	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_Alexander	6.64381
+1	http://dbpedia.org/resource/Sir_Walter_Gilbert	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_(baronet)	6.64381
+1	http://dbpedia.org/resource/Walter_Raleigh_Gilbert	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_Sculptor	6.64381
+1	http://dbpedia.org/resource/List_of_works_by_Walter_Gilbert	6.64381
+1	http://dbpedia.org/resource/Horace_Walter_Gilbert	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_Fuller	6.64381
+1	http://dbpedia.org/resource/Gilbert_Walter_King	6.64381
+1	http://dbpedia.org/resource/Walter_Gilbert_(cricketer)	4.68878
+1	http://dbpedia.org/resource/Sir_Walter_Gilbert,_1st_Baronet	4.6884
+1	http://dbpedia.org/resource/Walter_Gilbert_(sculptor)	4.6884
+1	http://dbpedia.org/resource/Walter_fitz_Gilbert_of_Cadzow	4.59048
+1	http://dbpedia.org/resource/Walter_Gilbert_(American_football)	4.40991
+1	http://dbpedia.org/resource/Walter_Gilbert_(pilot)	4.00032

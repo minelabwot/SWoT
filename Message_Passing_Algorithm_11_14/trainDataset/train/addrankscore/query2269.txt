@@ -1,0 +1,10 @@
+Henry Dale
+5	http://dbpedia.org/resource/Henry_Hallett_Dale	7.07904
+1	http://dbpedia.org/resource/Sir_Henry_Hallett_Dale	6.64381
+1	http://dbpedia.org/resource/Sir_Henry_Dale	6.64381
+1	http://dbpedia.org/resource/Henry_H._Dale	6.64381
+1	http://dbpedia.org/resource/Henry_Dale_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Dale,_Henry	6.64381
+1	http://dbpedia.org/resource/Thomas_Henry_Dale	4.6884
+1	http://dbpedia.org/resource/Henry_Dale	4.40991
+1	http://dbpedia.org/resource/Dale_Henry	4.40991

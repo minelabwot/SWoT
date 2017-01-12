@@ -1,0 +1,15 @@
+On Her Majesty Secret Service
+1	http://dbpedia.org/resource/List_of_Bond_girls_in_On_Her_Majesty's_Secret_Service	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_On_Her_Majesty's_Secret_Service	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_On_Her_Majesty's_Secret_Service	6.64381
+1	http://dbpedia.org/resource/Ian_Fleming's_On_Her_Majesty's_Secret_Service	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_girls_in_On_Her_Majesty's_Secret_Service	6.64381
+1	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(song)	6.64381
+1	http://dbpedia.org/resource/The_1976_ABC_Edit_of_'On_Her_Majesty's_Secret_Service'	6.64381
+1	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(Propellerheads_song)	6.64381
+1	http://dbpedia.org/resource/Category:On_Her_Majesty's_Secret_Service	4.79041
+5	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(film)	4.79041
+1	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(novel)	4.74904
+1	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service_(soundtrack)	4.74904
+1	http://dbpedia.org/resource/On_Her_Majesty's_Secret_Service	4.68878

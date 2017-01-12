@@ -1,0 +1,5 @@
+Subrahmanyan Chandrasekhar
+5	http://dbpedia.org/resource/Subrahmanyan_Chandrasekhar	7.92355
+1	http://dbpedia.org/resource/Chandrasekhar,_Subrahmanyan	6.64381
+1	http://dbpedia.org/resource/Padma_Vibhushan_Subrahmanyan_Chandrasekhar	6.64381
+1	http://dbpedia.org/resource/Padma_Vibhushan_Subrahmanyan_Chandrasekhar,_FRS	6.64381

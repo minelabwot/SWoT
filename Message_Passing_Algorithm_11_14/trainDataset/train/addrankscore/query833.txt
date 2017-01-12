@@ -1,0 +1,4 @@
+David S. Cohen
+1	http://dbpedia.org/resource/David_S._Cohen	6.64381
+1	http://dbpedia.org/resource/David_S._Cohen_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/S._David_Cohen	6.64381

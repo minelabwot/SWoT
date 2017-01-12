@@ -1,0 +1,4 @@
+Charles Barkla
+1	http://dbpedia.org/resource/Charles_Barkla	6.64381
+1	http://dbpedia.org/resource/Professor_Charles_Barkla	6.64381
+5	http://dbpedia.org/resource/Charles_Glover_Barkla	4.85965

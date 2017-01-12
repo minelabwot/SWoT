@@ -1,0 +1,6 @@
+Get Shorty
+1	http://dbpedia.org/resource/Get_It_Shorty	6.64381
+1	http://dbpedia.org/resource/Get_Shorty_(movie)	6.64381
+1	http://dbpedia.org/resource/Get_Shorty_2	6.64381
+5	http://dbpedia.org/resource/Get_Shorty_(film)	4.59048
+1	http://dbpedia.org/resource/Get_Shorty	4.00032

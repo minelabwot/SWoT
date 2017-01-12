@@ -1,0 +1,3 @@
+David Mirkin
+5	http://dbpedia.org/resource/David_Mirkin	9.17085
+1	http://dbpedia.org/resource/Category:Films_directed_by_David_Mirkin	4.00032

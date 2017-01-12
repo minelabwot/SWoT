@@ -1,0 +1,2 @@
+Armstrong Sperry
+5	http://dbpedia.org/resource/Armstrong_Sperry	4.81996

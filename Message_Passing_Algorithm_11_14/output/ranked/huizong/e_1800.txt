@@ -1,0 +1,17 @@
+http://dbpedia.org/resource/Carleton_University
+http://dbpedia.org/resource/Category:Carleton_University_alumni
+http://dbpedia.org/resource/Category:Carleton_University_faculty
+http://dbpedia.org/resource/Category:Carleton_University
+http://dbpedia.org/resource/Carleton_University_Press
+http://dbpedia.org/resource/Carleton_University_alumni
+http://dbpedia.org/resource/List_of_Carleton_University
+http://dbpedia.org/resource/Category:Presidents_of_Carleton_University
+http://dbpedia.org/resource/List_of_Carleton_University_alumni
+http://dbpedia.org/resource/Carleton_University_Debating_Society
+http://dbpedia.org/resource/Student_life_at_Carleton_University
+http://dbpedia.org/resource/Building_projects_of_Carleton_University
+http://dbpedia.org/resource/Carleton_University's_School_of_Public_Policy_and_Administration
+http://dbpedia.org/resource/List_of_Carleton_University_people
+http://dbpedia.org/resource/Category:Chancellors_of_Carleton_University
+http://dbpedia.org/resource/Carleton_University_Students'_Association
+http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Carleton_University

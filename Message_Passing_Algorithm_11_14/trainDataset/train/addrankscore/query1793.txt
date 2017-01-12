@@ -1,0 +1,4 @@
+Meindert Dejong
+5	http://dbpedia.org/resource/Meindert_DeJong	7.11885
+1	http://dbpedia.org/resource/Meindert_Dejong	6.64381
+1	http://dbpedia.org/resource/Category:Novels_by_Meindert_DeJong	4.00032

@@ -1,0 +1,5 @@
+James Mirrlees
+5	http://dbpedia.org/resource/James_Mirrlees	7.15852
+1	http://dbpedia.org/resource/James_A._Mirrlees	6.64381
+1	http://dbpedia.org/resource/James_Alexander_Mirrlees	6.64381
+1	http://dbpedia.org/resource/Sir_James_Mirrlees	6.64381

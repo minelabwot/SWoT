@@ -1,0 +1,20 @@
+USA
+5	http://dbpedia.org/resource/USA
+1	http://dbpedia.org/resource/Category:Universities_and_colleges_affiliated_with_the_American_Baptist_Churches_USA
+1	http://dbpedia.org/resource/Category:Miss_USA_winners
+1	http://dbpedia.org/resource/Category:Universities_and_colleges_affiliated_with_the_Presbyterian_Church_(USA)
+1	http://dbpedia.org/resource/Conference_USA
+1	http://dbpedia.org/resource/Category:Conference_USA
+1	http://dbpedia.org/resource/Girl_Scouts_of_the_USA
+1	http://dbpedia.org/resource/Category:Girl_Scouts_of_the_USA
+1	http://dbpedia.org/resource/Miss_Teen_USA
+1	http://dbpedia.org/resource/Category:Miss_Teen_USA
+1	http://dbpedia.org/resource/Category:Miss_Teen_USA_delegates
+1	http://dbpedia.org/resource/Category:Miss_Teen_USA_state_pageants
+3	http://dbpedia.org/resource/Category:USA
+1	http://dbpedia.org/resource/Category:USA_Network_shows
+1	http://dbpedia.org/resource/USA_South_Athletic_Conference
+1	http://dbpedia.org/resource/Category:USA_South_Athletic_Conference
+1	http://dbpedia.org/resource/Category:Major_Matt_Mason_USA_albums
+1	http://dbpedia.org/resource/Category:Miss_USA_1998_delegates
+1	http://dbpedia.org/resource/Category:A1_Team_USA_drivers

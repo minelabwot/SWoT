@@ -1,0 +1,21 @@
+Madrid
+1	http://dbpedia.org/resource/Category:Battles_of_the_Joint_Operations_Against_New_Madrid,_Island_No._10,_and_Memphis_of_the_American_Civil_War
+5	http://dbpedia.org/resource/Madrid
+3	http://dbpedia.org/resource/Category:Madrid
+2	http://dbpedia.org/resource/New_Madrid_County,_Missouri
+2	http://dbpedia.org/resource/Category:New_Madrid_County,_Missouri
+1	http://dbpedia.org/resource/Category:Buildings_and_structures_in_Community_of_Madrid
+1	http://dbpedia.org/resource/Category:Buildings_and_structures_in_Madrid
+3	http://dbpedia.org/resource/Community_of_Madrid
+1	http://dbpedia.org/resource/Category:Community_of_Madrid
+2	http://dbpedia.org/resource/Category:Companies_based_in_the_Community_of_Madrid
+1	http://dbpedia.org/resource/Complutense_University_of_Madrid
+1	http://dbpedia.org/resource/Category:Complutense_University_of_Madrid
+2	http://dbpedia.org/resource/Category:Culture_in_Madrid
+1	http://dbpedia.org/resource/Museums_in_Madrid
+1	http://dbpedia.org/resource/Category:People_from_Madrid
+1	http://dbpedia.org/resource/People_from_Madrid
+1	http://dbpedia.org/resource/2004_Madrid_train_bombings
+1	http://dbpedia.org/resource/Category:2004_Madrid_train_bombings
+1	http://dbpedia.org/resource/Category:Dukes_of_Madrid
+1	http://dbpedia.org/resource/Madrid_Metro

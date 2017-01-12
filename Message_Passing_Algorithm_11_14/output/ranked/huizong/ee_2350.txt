@@ -1,0 +1,24 @@
+origin
+5	http://dbpedia.org/resource/Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Category:Fellows_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Exeter_College
+1	http://dbpedia.org/resource/Category:Rectors_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Category:Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Exeter_college_oxford
+1	http://dbpedia.org/resource/Exeter_tutorial_college
+1	http://dbpedia.org/resource/St_Luke's_College,_Exeter
+1	http://dbpedia.org/resource/Adelphi,_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Rector_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/The_Adelphi_Exeter_College
+1	http://dbpedia.org/resource/List_of_Alumni_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Exeter_College_(disambiguation)
+1	http://dbpedia.org/resource/List_of_Rectors_of_Exeter_College
+1	http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Exeter_College,_Exeter
+1	http://dbpedia.org/resource/Exeter_College_Boat_Club
+1	http://dbpedia.org/resource/Adelphi_(Exeter_College,_Oxford)
+1	http://dbpedia.org/resource/List_of_Rectors_of_Exeter_College,_Oxford
+1	http://dbpedia.org/resource/Exeter_College_of_Art_and_Design
+1	http://dbpedia.org/resource/Category:Alumni_of_Exeter_College
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Exeter_College,_Oxford

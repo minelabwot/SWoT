@@ -1,0 +1,4 @@
+Jim Reardon
+5	http://dbpedia.org/resource/Jim_Reardon	8.88479
+1	http://dbpedia.org/resource/Jim_Reardon_(canoer)	6.64381
+1	http://dbpedia.org/resource/Jim_Reardon_(canoeist)	4.00032

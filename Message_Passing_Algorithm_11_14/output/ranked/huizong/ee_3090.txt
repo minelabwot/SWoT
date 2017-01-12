@@ -1,0 +1,8 @@
+origin
+1	http://dbpedia.org/resource/The_Little_Island
+5	http://dbpedia.org/resource/The_Little_Island_(book)
+1	http://dbpedia.org/resource/The_Little_Polar_Bear_2_–_The_Mysterious_Island
+1	http://dbpedia.org/resource/The_Little_Polar_Bear_2:_The_Mysterious_Island
+1	http://dbpedia.org/resource/The_Little_Polar_Bear_2_-_The_Mysterious_Island
+1	http://dbpedia.org/resource/A_Truly_Golden_Little_Book,_No_Less_Beneficial_Than_Entertaining,_of_the_Best_State_of_a_Republic,_and_of_the_New_Island_Utopia
+1	http://dbpedia.org/resource/Little_King_Matty...and_the_Desert_Island

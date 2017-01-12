@@ -1,0 +1,12 @@
+All Souls College
+1	http://dbpedia.org/resource/Category:Fellows_of_All_Souls_College,_Oxford	9.8265
+5	http://dbpedia.org/resource/All_Souls_College,_Oxford	8.45915
+1	http://dbpedia.org/resource/Category:Alumni_of_All_Souls_College,_Oxford	8.13783
+1	http://dbpedia.org/resource/Category:All_Souls_College,_Oxford	7.43268
+1	http://dbpedia.org/resource/Category:Wardens_of_All_Souls_College,_Oxford	7.39423
+1	http://dbpedia.org/resource/All_Souls_College	6.64381
+1	http://dbpedia.org/resource/All_Souls'_College,_Oxford	6.64381
+1	http://dbpedia.org/resource/All_Souls'_College	6.64381
+1	http://dbpedia.org/resource/All_Souls_College_Oxford	6.64381
+1	http://dbpedia.org/resource/The_Warden_and_College_of_the_Souls_of_all_Faithful_People_deceased_in_the_University_of_Oxford	6.64381
+1	http://dbpedia.org/resource/All_Souls_College,_University_of_Oxford	6.64381

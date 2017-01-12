@@ -1,0 +1,3 @@
+Martin Ryle
+1	http://dbpedia.org/resource/Sir_Martin_Ryle	6.64381
+5	http://dbpedia.org/resource/Martin_Ryle	4.84221

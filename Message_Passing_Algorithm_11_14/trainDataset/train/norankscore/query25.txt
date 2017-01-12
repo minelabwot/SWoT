@@ -1,0 +1,21 @@
+Beijing
+5	http://dbpedia.org/resource/Beijing
+2	http://dbpedia.org/resource/Category:Beijing
+1	http://dbpedia.org/resource/Category:Beijing_Subway
+1	http://dbpedia.org/resource/Beijing_Subway
+1	http://dbpedia.org/resource/Transport_in_Beijing
+1	http://dbpedia.org/resource/Category:Transport_in_Beijing
+1	http://dbpedia.org/resource/Category:Wikipedians_in_Beijing
+1	http://dbpedia.org/resource/Category:Bridges_in_Beijing
+1	http://dbpedia.org/resource/Category:Buildings_and_structures_in_Beijing
+1	http://dbpedia.org/resource/Category:Education_in_Beijing
+1	http://dbpedia.org/resource/Education_in_Beijing
+1	http://dbpedia.org/resource/History_of_Beijing
+1	http://dbpedia.org/resource/Beijing_cuisine
+1	http://dbpedia.org/resource/Category:Beijing_cuisine
+1	http://dbpedia.org/resource/Category:Wikipedia_requested_photographs_in_Beijing
+1	http://dbpedia.org/resource/Beijing_Ducks
+1	http://dbpedia.org/resource/Category:Beijing_templates
+1	http://dbpedia.org/resource/Category:Buddhist_temples_in_Beijing
+1	http://dbpedia.org/resource/Category:Churches_in_Beijing
+1	http://dbpedia.org/resource/Category:Gates_of_Beijing

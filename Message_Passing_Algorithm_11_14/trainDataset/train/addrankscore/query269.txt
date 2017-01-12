@@ -1,0 +1,22 @@
+Slave Lake
+1	http://dbpedia.org/resource/Slave_Lake	8.26425
+1	http://dbpedia.org/resource/Great_Slave_Lake	7.31565
+1	http://dbpedia.org/resource/Lesser_Slave_Lake	7.11833
+1	http://dbpedia.org/resource/Lesser_Slave_Lake_Provincial_Park	6.64381
+1	http://dbpedia.org/resource/Lesser_Slave_Lake_No._124,_Alberta	6.64381
+1	http://dbpedia.org/resource/Lake_Great_Slave	6.64381
+1	http://dbpedia.org/resource/Lake_Lesser_Slave	6.64381
+1	http://dbpedia.org/resource/East_Arm_of_Great_Slave_Lake	6.64381
+1	http://dbpedia.org/resource/Lesser_Slave_Lake_(provincial_electoral_district)	6.64381
+1	http://dbpedia.org/resource/Great_slave_lake	6.64381
+1	http://dbpedia.org/resource/Lesser_slave_lake	6.64381
+1	http://dbpedia.org/resource/Slave_Lake_municipal_election,_2007	6.64381
+1	http://dbpedia.org/resource/Muskwa-Slave_Lake_forests	6.64381
+1	http://dbpedia.org/resource/Lesser_Slave_Lake_Settlement,_Alberta	6.64381
+1	http://dbpedia.org/resource/Slave_Lake_Wolves	6.64381
+1	http://dbpedia.org/resource/Slave_Lake_wildfire	6.64381
+1	http://dbpedia.org/resource/2011_Slave_Lake_fire	6.64381
+5	http://dbpedia.org/resource/Slave_Lake,_Alberta	6.64381
+1	http://dbpedia.org/resource/Lesser_Slave_Lake_(electoral_district)	4.74904
+1	http://dbpedia.org/resource/Slave_Lake_Airport	4.59048
+1	http://dbpedia.org/resource/2011_Slave_Lake_wildfire	4.40991

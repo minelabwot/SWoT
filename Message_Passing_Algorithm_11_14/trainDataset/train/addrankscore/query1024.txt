@@ -1,0 +1,17 @@
+The Spy Who Loved Me
+1	http://dbpedia.org/resource/List_of_James_Bond_girls_in_The_Spy_Who_Loved_Me	6.64381
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(song)	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_The_Spy_Who_Loved_Me	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_The_Spy_Who_Loved_Me	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_the_Spy_Who_Loved_me	6.64381
+1	http://dbpedia.org/resource/List_of_henchmen_in_The_Spy_Who_Loved_Me	6.64381
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me(computer_game)	6.64381
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(computer_game)	6.64381
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(film)	4.84221
+1	http://dbpedia.org/resource/Category:The_Spy_Who_Loved_Me_(film)	4.82016
+5	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(novel)	4.79017
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me	4.68878
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(soundtrack)	4.6884
+1	http://dbpedia.org/resource/The_Spy_Who_Loved_Me_(video_game)	4.40991
+1	http://dbpedia.org/resource/James_Bond,_The_Spy_Who_Loved_Me	4.00032

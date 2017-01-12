@@ -1,0 +1,4 @@
+Brian Josephson
+1	http://dbpedia.org/resource/Brian_D._Josephson	6.64381
+5	http://dbpedia.org/resource/Brian_David_Josephson	6.64381
+1	http://dbpedia.org/resource/Brian_Josephson	4.85965

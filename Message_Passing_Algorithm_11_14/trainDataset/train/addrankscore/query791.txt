@@ -1,0 +1,4 @@
+Virginia Sorensen
+1	http://dbpedia.org/resource/Virginia_Eggertsen_Sorensen_Waugh	6.64381
+1	http://dbpedia.org/resource/Virginia_Eggersen_Sorensen_Waugh	6.64381
+1	http://dbpedia.org/resource/Virginia_Sorensen	4.79017

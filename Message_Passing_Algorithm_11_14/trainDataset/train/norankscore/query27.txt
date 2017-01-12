@@ -1,0 +1,21 @@
+Paris
+2	http://dbpedia.org/resource/Category:Arrondissements_of_Paris
+2	http://dbpedia.org/resource/Arrondissements_of_Paris
+1	http://dbpedia.org/resource/Category:Mayors_of_Paris
+5	http://dbpedia.org/resource/Paris
+3	http://dbpedia.org/resource/Category:Paris
+1	http://dbpedia.org/resource/Category:Paris_RER
+1	http://dbpedia.org/resource/Paris_RER
+1	http://dbpedia.org/resource/Category:University_of_Paris
+1	http://dbpedia.org/resource/University_of_Paris
+1	http://dbpedia.org/resource/Category:University_of_Paris_alumni
+1	http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Paris
+1	http://dbpedia.org/resource/Category:Bridges_in_Paris
+1	http://dbpedia.org/resource/Disneyland_Resort_Paris
+3	http://dbpedia.org/resource/Category:Districts_of_Paris
+2	http://dbpedia.org/resource/Districts_of_Paris
+1	http://dbpedia.org/resource/Education_in_Paris
+1	http://dbpedia.org/resource/Category:Museums_in_Paris
+1	http://dbpedia.org/resource/Category:Nightlife_in_Paris
+1	http://dbpedia.org/resource/Category:Paris_Commune
+1	http://dbpedia.org/resource/Paris_Commune

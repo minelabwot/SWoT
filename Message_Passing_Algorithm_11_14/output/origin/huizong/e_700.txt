@@ -1,0 +1,3 @@
+http://dbpedia.org/resource/Arnold_Lobel
+http://dbpedia.org/resource/Arnold_Stark_Lobel
+http://dbpedia.org/resource/Category:Picture_books_by_Arnold_Lobel

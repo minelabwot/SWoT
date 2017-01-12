@@ -1,0 +1,21 @@
+Aarhus
+5	http://dbpedia.org/resource/Aarhus
+3	http://dbpedia.org/resource/Category:Aarhus
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_University_of_Aarhus
+1	http://dbpedia.org/resource/Category:Aarhus_Gymnastikforening
+1	http://dbpedia.org/resource/Aarhus_Gymnastikforening
+1	http://dbpedia.org/resource/Category:Aarhus_Gymnastikforening_managers
+1	http://dbpedia.org/resource/Category:Aarhus_Gymnastikforening_players
+1	http://dbpedia.org/resource/Category:Education_in_Aarhus
+1	http://dbpedia.org/resource/Category:Neighborhoods_of_Aarhus
+1	http://dbpedia.org/resource/Category:People_from_Aarhus
+1	http://dbpedia.org/resource/Category:People_from_Aarhus_Municipality
+1	http://dbpedia.org/resource/Aarhus_County
+2	http://dbpedia.org/resource/Aarhus_C
+2	http://dbpedia.org/resource/Aarhus_N
+1	http://dbpedia.org/resource/Category:Aarhus_N
+1	http://dbpedia.org/resource/Aarhus_V
+1	http://dbpedia.org/resource/Aarhus_Convention
+1	http://dbpedia.org/resource/Aarhus_convention
+1	http://dbpedia.org/resource/Aarhus_Cathedral
+1	http://dbpedia.org/resource/Aarhus_Domkirke

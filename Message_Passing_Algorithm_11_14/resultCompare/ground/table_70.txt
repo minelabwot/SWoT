@@ -1,0 +1,8 @@
+		
+		
+	Windows_3.0	
+	Windows_3.1	
+	Windows_95	
+	Windows_98	
+		
+	Windows_Me	

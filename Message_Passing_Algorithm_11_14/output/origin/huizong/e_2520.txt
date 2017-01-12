@@ -1,0 +1,13 @@
+http://dbpedia.org/resource/Category:Alumni_of_The_Queen's_College,_Oxford
+http://dbpedia.org/resource/The_Queen's_College,_Oxford
+http://dbpedia.org/resource/Category:Fellows_of_The_Queen's_College,_Oxford
+http://dbpedia.org/resource/Category:Provosts_of_The_Queen's_College,_Oxford
+http://dbpedia.org/resource/Category:The_Queen's_College,_Oxford
+http://dbpedia.org/resource/The_Queen's_College
+http://dbpedia.org/resource/Provost,_Fellows_and_Scholars_of_the_College_of_the_Holy_and_Undivided_Trinity_of_Queen_Elizabeth_near_Dublin
+http://dbpedia.org/resource/The_Queen's_College,_Edgbaston
+http://dbpedia.org/resource/Mary_the_Queen_College_(Pampanga),_Inc.
+http://dbpedia.org/resource/College_of_the_Holy_and_Undivided_Trinity_of_Queen_Elizabeth_near_Dublin
+http://dbpedia.org/resource/List_of_Honorary_Fellows_of_The_Queen's_College,_Oxford
+http://dbpedia.org/resource/The_Queen's_College_Boat_Club
+http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_The_Queen's_College,_Oxford
