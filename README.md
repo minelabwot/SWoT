@@ -57,7 +57,7 @@ Since domain knowledge are linked to commonsense knowledge via EL model, for exa
 
 #### Step 3: Entity Linking for domain WoT Knowledge
 
-There is an Entity Linking function at the device infobox web page. By clicking on the "EL" button, the system will automatically run the EL algorithm and instances of Region, SensorType, Owner and Unit are linked and aligned to entities of Location, Organization and UnitofMeasurement in DBpedia.
+There is an Entity Linking function at the device infobox web page. By clicking on the "EL" button, the system will automatically run the [EL algorithm](./Message_Passing_Algorithm_11_14), and instances of Region, SensorType, Owner and Unit are linked and aligned to entities of Location, Organization and UnitofMeasurement in DBpedia.
 <br>
 To annotate the linking relationship between domain and commonsense knowledge, the "linkTo" property is used to represent the linkage. The EL results will be:
 <br>
