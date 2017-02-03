@@ -1,7 +1,9 @@
 # Semantic Web of Things Project-A Hybrid Semantic Annotation, Extraction and Reasoning Framework for Cyber Physical System
 ## 1.SWoT Architecture
-The whole system is composed of four main components: SWoT-O Annotator, EL Annotator, Knowledge Storage and Semantic Reasoner. 
+The whole system is composed of four main components: SWoT-O Annotator, EL Annotator, Knowledge Storage and Semantic Reasoner.
+ 
 <img src="./Github_src_readme_files/Paper/1.tif"/>
+
 #### •	SWoT-O Annotator
 This building block is designed for generating metadata representations templates and annotating semantics of WoT resources with SWoT-O vocabulary. The SWoT-O is extended from SSN upper ontology and reuses some other IoT ontologies. It describes a Sensor-Observation-Event-Rule-Actuator-Action model that is useful for further reasoning tasks in most of intelligent and automatic CPS applications, and it also describes some common necessary attributes of physical devices (including sensors and actuators), such as Location, Ownership, Unit and DeviceType. The annotator provides a graphical user interface (UI) for service modeler to create domain services.
 #### •	EL Annotator
@@ -13,8 +15,10 @@ This building block is aimed at providing a semantic reasoning capability based 
 
 ## 2.SWoT-O Ontology
 To provide a uniform ontology of CPS applications, the SWoT base ontology (SWoT-O) is mainly referred to and extended from SSN ontology, as well as reusing other IoT ontologies, such as Semantic Actuator Network (SAN) for actuator, Stream Annotation Ontology (SAO) for streaming data and QUDT ontology for units of measure. 
+
 <img src="./Github_src_readme_files/Paper/2-new.jp2"/>
 <br>
+
 According to SWoT-O vocabulary, we then setup a basic domain knowledge base of how these sensors and actuators collaborate with each other via SWoT-O Annotator. The temperature sensor and camera are annotated as ssn:Sensor with :WoTProperty, such as qu:Unit, :Location (:Region and :Spot), :Owner and :EntityType, while the CAC is annotated as san:Actuator with :Action. The ssn:FeatureofInterest is modeled as the target scenario composed with :SensorProperty of temperature sensor, camera and CAC. The :PhysicalProcess is modeled as the causal relation among these there devices with their :SensorProperty as input and output parameters. In this use case, the causal relations are categorized into two kind (:PositiveCorrelationProcess and :NegativeCorrelationProcess) as a reference knowledge for diagnosing the cause of anomaly.
 <img src="./Github_src_readme_files/Paper/8-new.jp2"/>
 
@@ -28,20 +32,29 @@ The scenarios are composed of a temperature sensor, a camera sensor and a Coolin
 #### Step 1: UI for Creating New Devices with SWoT-O
 <img src="./Github_src_readme_files/1.jp2"/>
 <br>
+
 The instances of WoT Entities are created by a editing tools. The tool provide a UI for service modeler to define the descriptive information of a WoT resources. The descriptors are annotated with SWoT-O, such as SensorType, Observations(Propoerty), Unit, Owner, Location／Region and Location/Spot. Once the WoT Entity is initialized, then the data will be stored into the knowledge stotage ([Jena TDB](./graph1.db) and [Neo4j](./tdb))
 <br>
 
 <img src="./Github_src_readme_files/13.jp2"/>
 #### Step 2: View constructed domain KB via protege
-The annotated WoT resources are stored in the Jeba TDB, and protege could be used to view the domain KB
+The annotated WoT resources are stored in the Jeba TDB, and protege could be used to view the domain KB. The picture below illustrates the domain knoweldge constructed based on SWoT-O ontology, according to the anomaly diagnosis and automatic temperature adjusting services scenario.
 
 <img src="./Github_src_readme_files/Paper/8-2.tif"/>
 <br>
+
+The contents of "hasType", "hasLocation", "hasSpot", "hasUnit", "defaultObserved' and "isOwnedBy" are filled by service modeler in Step 1.
+
 <img src="./Github_src_readme_files/2.jp2"/>
-<br>
+
+The observed features are labled by axiom annotations in Protege. For instance, the temperature sensor is labled with "Temperature" as "defaultObserved" feature
+
 <img src="./Github_src_readme_files/3.jp2"/>
-<br>
+
+Since domain knowledge are linked to commonsense knowledge via EL model, for example the instances of Region, SensorType, Owner and Unit are linked and aligned to entities of Location, Organization and UnitofMeasurement in DBpedia, the common relationships are inherited to the domain knowledge as well. The enriched knowledge could be used to facilitate searching for semantic entities which has common relationships. To annotate the linking relationship between domain and commonsense knowledge, the linkTo property is used to represent the linkage.
+
 <img src="./Github_src_readme_files/4.jp2"/>
+
 #### Step 3: Entity Linking for domain WoT Knowledge
 <img src="./Github_src_readme_files/5.jp2"/>
 <br>
