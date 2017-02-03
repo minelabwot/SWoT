@@ -25,7 +25,7 @@ According to SWoT-O vocabulary, we then setup a basic domain knowledge base of h
 
 **The SWoT-O ontology could be referred [here](./swot-o.owl)**
 
-## 3.Proof-of-Concept Demostration
+## 3.Proof-of-Concept Demonstration
 The scenarios are composed of a temperature sensor, a camera sensor and a Cooling Air Condition (CAC) deployed in each room of buildings at different locations. The temperature sensor could directly detect the indoor temperature, while the CAC could tune the indoor temperature by turn on/off/up/down of the machine. The camera is used to detect the occupation of the room and the exact number of persons in the room. Our goal is to provide anomaly diagnosis and automatic temperature adjusting services according to indoor temperature anomaly events. 
 
 * According to SWoT-O vocabulary, we then setup a basic domain knowledge base of how these sensors and actuators collaborate with each other via SWoT-O Annotator.
