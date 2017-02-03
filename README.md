@@ -25,13 +25,17 @@ The scenarios are composed of a temperature sensor, a camera sensor and a Coolin
 - To link the knowledge base with common knowledge in DBpedia, we run EL Annotator to execute EL task. In this use case, the instances of :Region, qu:Unit, :Onwer and :EntityType are linked to the DBpedia., and the linking relations are stored into both [Jena TDB](./graph1.db) and [Neo4j](./tdb). 
 - Based on the hybrid knowledge base, the system will perform semantic search and reasoning tasks. Since devices are created and deployed in a distributed manner, the first step is to query the target devices which could be composed into temperature adjusting and anomaly diagnosis scenario. While, the second step is to inference the cause of the anomaly once anomaly event occurs, and the system will automatically adjust the indoor temperature by controlling CAC.
 <br>
+
 #### Step 1: UI for Creating New Devices with SWoT-O
 <img src="./Github_src_readme_files/1.jp2"/>
+<br>
 The instances of WoT Entities are created by a editing tools. The tool provide a UI for service modeler to define the descriptive information of a WoT resources. The descriptors are annotated with SWoT-O, such as SensorType, Observations(Propoerty), Unit, Owner, Location／Region and Location/Spot. Once the WoT Entity is initialized, then the data will be stored into the knowledge stotage ([Jena TDB](./graph1.db) and [Neo4j](./tdb))
 <br>
-<img src="./Github_src_readme_files/Paper/8-2.tif"/>
+
 <img src="./Github_src_readme_files/13.jp2"/>
 #### Step 2: View constructed domain KB via protege
+<img src="./Github_src_readme_files/Paper/8-2.tif"/>
+<br>
 <img src="./Github_src_readme_files/2.jp2"/>
 <br>
 <img src="./Github_src_readme_files/3.jp2"/>
