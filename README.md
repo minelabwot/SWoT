@@ -47,32 +47,69 @@ The contents of "hasType", "hasLocation", "hasSpot", "hasUnit", "defaultObserved
 
 <img src="./Github_src_readme_files/2.jp2"/>
 
-The observed features are labled by axiom annotations in Protege. For instance, the temperature sensor is labled with "Temperature" as "defaultObserved" feature
+The observed features are labled by axiom annotations in Protege. For instance, the temperature sensor is labled with "Temperature" as "defaultObserved" feature.
+<br>
+Since domain knowledge are linked to commonsense knowledge via EL model, for example the instances of Region, SensorType, Owner and Unit are linked and aligned to entities of Location, Organization and UnitofMeasurement in DBpedia, the common relationships are inherited to the domain knowledge as well. The enriched knowledge could be used to facilitate searching for semantic entities which has common relationships. To annotate the linking relationship between domain and commonsense knowledge, the "linkTo" property is used to represent the linkage.
 
 <img src="./Github_src_readme_files/3.jp2"/>
 
-Since domain knowledge are linked to commonsense knowledge via EL model, for example the instances of Region, SensorType, Owner and Unit are linked and aligned to entities of Location, Organization and UnitofMeasurement in DBpedia, the common relationships are inherited to the domain knowledge as well. The enriched knowledge could be used to facilitate searching for semantic entities which has common relationships. To annotate the linking relationship between domain and commonsense knowledge, the linkTo property is used to represent the linkage.
-
-<img src="./Github_src_readme_files/4.jp2"/>
-
 #### Step 3: Entity Linking for domain WoT Knowledge
+
+There is an Entity Linking function at the device infobox web page. By clicking on the "EL" button, the system will automatically run the EL algorithm and instances of Region, SensorType, Owner and Unit are linked and aligned to entities of Location, Organization and UnitofMeasurement in DBpedia.
+<br>
+To annotate the linking relationship between domain and commonsense knowledge, the "linkTo" property is used to represent the linkage. The EL results will be:
+<br>
+1. updated in the Neo4j for KB display
+<br>
+2. updateed in Jena TDB for further semantic search and reasoning via Jena Reasoner
+
 <img src="./Github_src_readme_files/5.jp2"/>
 <br>
 <img src="./Github_src_readme_files/6.jp2"/>
 <br>
+
+The EL results are stored in Neo4i graph database. The blue circles represent the linked entities and types to DBpedia. It is annotated as “linkTo” property
+
 <img src="./Github_src_readme_files/Paper/16.jp2"/>
 <br>
 <img src="./Github_src_readme_files/Paper/16-2.jp2"/>
-#### Step 4: Initialize Aomaly Diagnosis Model
+#### Step 4: Initialize Aomaly Diagnosis Model and Exectue Reasoning Rules
+In our case, it is assumed that the anomaly events have been detected via anomaly detection algorithms and annotated with SWoT-O ontology. By triggering a “High_Temperature_Anomaly_Event”, the reasoner will infer that the Occupation of the room and the State of the CAC have either positive or negative correlations with the high temperature Event, thus to adjust the temperature to normal state, the “Turn-down” operation of CAC will be actioned automatically. 
+
+The system provides APIs to syncronize sensory data and a simulator could also be used for generating simulating sensor data for experiments.
+
 <img src="./Github_src_readme_files/7.jp2"/>
 <br>
+
+
+A high temperature anomaly event (temp_high_237) is modeled via protege before searching and reasoning.
+
 <img src="./Github_src_readme_files/8.jp2"/>
 <br>
-<img src="./Github_src_readme_files/9.jp2"/>
-<br>
+
+In our systems, there are lots of WoT devices. To compose related devices into our proposed scenario, a semantic fuzzy search is executed based on the hybrid KB (domain and linked commonsense knowledge). There is a search UI to edit the search parameters. For instance, Beijing and Shanghai are both a city of China, and these knowledge have already been stored in the DBpedia already. If a query of “Searching the sensors located in China”, then the commonsense knowledge could be used for inference the correlations among sensors have similar properties. The inference process could be divided into two steps that one is to search for the domain Region instances which has linkTo properties with entities in DBpedia and the other is to search these linked entities which meets the queried relations (located in China). The SPARQL query is illustrated below:
+
+	SELECT DISTINTC ?deviceID
+	WHERE{
+	?device swot:deviceID ?deviceID.
+	?device dul:hasLocation ?loc_local.
+	?loc_local swot:linkTo ?loc_el.
+	BIND(URI(?loc_el) as ?loc_el_uri).
+	?loc_local a swot:Region.
+		Service <http://dbpedia.org/sparql> {
+			?loc_el_uri ?rel ?loc_db.
+			FILTER regex(str(?loc_db), "China")
+		}
+	}
+	
+The Three figures belew illustrate fuzzy search according to the Location and Owner of the WoT devices. Matched resources could be composed as the proposed building automation scenarios. 
+
 <img src="./Github_src_readme_files/10.jp2"/>
 <br>
 <img src="./Github_src_readme_files/11.jp2"/>
 <br>
 <img src="./Github_src_readme_files/12.jp2"/>
-<br>
+
+After the Anomaly Diagnosis Model is initialized, the system will execute reasoning rules via Jena Reasoner, according to the predefined semantic rules (modeled as a set of SPARUL statements). Once anomaly events are detected, the system will deduce the cause of the anomalies and the diagnosis results will be recorded. A semantic fuzzy search could be used to lists the anaomaly events with their causal devices. For instance, the temp_high_237 anomaly event is caused by device2 (Camera-Occupation of the room is high) and CAC (the state of the CAC is turned off).  
+
+<img src="./Github_src_readme_files/9.jp2"/>
