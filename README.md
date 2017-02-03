@@ -22,6 +22,8 @@ To provide a uniform ontology of CPS applications, the SWoT base ontology (SWoT-
 According to SWoT-O vocabulary, we then setup a basic domain knowledge base of how these sensors and actuators collaborate with each other via SWoT-O Annotator. The temperature sensor and camera are annotated as ssn:Sensor with :WoTProperty, such as qu:Unit, :Location (:Region and :Spot), :Owner and :EntityType, while the CAC is annotated as san:Actuator with :Action. The ssn:FeatureofInterest is modeled as the target scenario composed with :SensorProperty of temperature sensor, camera and CAC. The :PhysicalProcess is modeled as the causal relation among these there devices with their :SensorProperty as input and output parameters. In this use case, the causal relations are categorized into two kind (:PositiveCorrelationProcess and :NegativeCorrelationProcess) as a reference knowledge for diagnosing the cause of anomaly.
 <img src="./Github_src_readme_files/Paper/8-new.jp2"/>
 
+`**The SWoT-O ontology could be referred [here](./swot-o.owl)**~
+
 ## 3.Proof-of-Concept Demostration
 The scenarios are composed of a temperature sensor, a camera sensor and a Cooling Air Condition (CAC) deployed in each room of buildings at different locations. The temperature sensor could directly detect the indoor temperature, while the CAC could tune the indoor temperature by turn on/off/up/down of the machine. The camera is used to detect the occupation of the room and the exact number of persons in the room. Our goal is to provide anomaly diagnosis and automatic temperature adjusting services according to indoor temperature anomaly events. 
 
@@ -38,7 +40,7 @@ The instances of WoT Entities are created by a editing tools. The tool provide a
 
 <img src="./Github_src_readme_files/13.jp2"/>
 #### Step 2: View constructed domain KB via protege
-The annotated WoT resources are stored in the Jeba TDB, and protege could be used to view the domain KB. The picture below illustrates the domain knoweldge constructed based on SWoT-O ontology, according to the anomaly diagnosis and automatic temperature adjusting services scenario.
+The annotated WoT resources are stored in the Jebn TDB, and protege could be used to view the domain KB. The picture below illustrates the domain knoweldge constructed based on SWoT-O ontology, according to the anomaly diagnosis and automatic temperature adjusting services scenario. 
 
 <img src="./Github_src_readme_files/Paper/8-2.tif"/>
 <br>
