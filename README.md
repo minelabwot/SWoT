@@ -1,5 +1,4 @@
-# Semantic Web of Things Project
-### *A Hybrid Semantic Annotation, Extraction and Reasoning Framework for Cyber Physical System*
+# Semantic Web of Things Project<br><small><small>*A Hybrid Semantic Annotation, Extraction and Reasoning Framework for Cyber Physical System*</small>
 ## 1.SWoT Architecture
 The whole system is composed of four main components: SWoT-O Annotator, EL Annotator, Knowledge Storage and Semantic Reasoner.
  
