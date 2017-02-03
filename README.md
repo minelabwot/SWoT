@@ -8,7 +8,7 @@ This building block is designed for generating metadata representations template
 This building block is designed for extracting semantic entities from the metadata of WoT resources and aligning SWoT ontologies with the concepts in the commonsense KB. In our testbed, DBpedia is used for the referent commonsense KB. The input of this module is the annotated WoT instances according to SWoT-O ontology, and the output is the annotated WoT metadata data with linked entities and aligned ontological concepts to DBpedia. The subtasks are divided into Schema Type Extraction & Identification, Candidate Entity Generation & Ranking and Relation Extraction, The extraction model is extended from EL framework that is usually used for semantic extraction and alignment on relational Web data.
 #### •	Knowledge Storage
 This building block provides common APIs for storing knowledge graph into persistent database. For storage efficiency and scalability, the graph database is proposed to be used. Concepts, properties, entities and relationships in Resource Description Framework (RDF) formats are transferred to graphical data structures. For compatible with existing semantic reasoner, RDF-based knowledge storage is also used. The query of the KB is based on a SPARQL-compatible language which could be also used for graph database.
->> #### •	Semantic Reasoner
+#### •	Semantic Reasoner
 This building block is aimed at providing a semantic reasoning capability based on the linked hybrid knowledge. The reasoning process could be both based on logical rules or statistical method or hybrid method. The query is based on a SPARQL language, and a list of ranked entities that matches the query are returned. The rule is modeled based on Jena’s rule language, and the reasoning process is based on Jena API and Jena Reasoner. 
 
 ## SWoT-O Ontology
@@ -20,6 +20,7 @@ According to SWoT-O vocabulary, we then setup a basic domain knowledge base of h
 ## Proof-of-Concept Demostration
 #### Step 1: UI for Creating New Devices with SWoT-O
 <img src="./Github_src_readme_files/1.jp2"/>
+The instances of WoT Entities are created by a editing tools. The tool provide a UI for service modeler to define the descriptive information of a WoT resources. The descriptors are annotated with SWoT-O, such as SensorType, Observations(Propoerty), Unit, Owner, Location／Region and Location/Spot. Once the WoT Entity is initialized, then the data will be stored into the knowledge stotage ([Jena TDB](./graph1.db) and [Neo4j](./tdb))
 #### Step 2: View constructed domain KB via protege
 <img src="./Github_src_readme_files/2.jp2"/>
 <br>
