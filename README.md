@@ -116,3 +116,6 @@ The Three figures below illustrate fuzzy search according to the Location and Ow
 After the Anomaly Diagnosis Model is initialized, the system will execute reasoning rules via Jena Reasoner, according to the predefined semantic rules (modeled as a set of SPARUL statements). Once anomaly events are detected, the system will deduce the cause of the anomalies and the diagnosis results will be recorded. A semantic fuzzy search could be used to lists the anaomaly events with their causal devices. For instance, the temp_high_237 anomaly event is caused by device2 (Camera-Occupation of the room is high) and CAC (the state of the CAC is turned off).  
 
 <img src="./Github_src_readme_files/9.jp2"/>
+## Future Works
+1. Deep Learning for Pattern/State Recognition and Prediction of Time Seires ([link](https://github.com/minelabwot/DeepLearning_WoT))
+2. Semantic State Finder for Time Seires via Cluster and Hidden Markov Model model ([link](https://github.com/minelabwot/Semantic_State_Finder_Time_Series))
