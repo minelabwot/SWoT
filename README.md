@@ -102,7 +102,7 @@ In our systems, there are lots of WoT devices. To compose related devices into o
 		}
 	}
 	
-The Three figures belew illustrate fuzzy search according to the Location and Owner of the WoT devices. Matched resources could be composed as the proposed building automation scenarios. 
+The Three figures below illustrate fuzzy search according to the Location and Owner of the WoT devices. Matched resources could be composed as the proposed building automation scenarios. 
 
 <img src="./Github_src_readme_files/10.jp2"/>
 <br>
