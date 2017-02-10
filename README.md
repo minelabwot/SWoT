@@ -117,5 +117,5 @@ After the Anomaly Diagnosis Model is initialized, the system will execute reason
 
 <img src="./Github_src_readme_files/9.jp2"/>
 ## Future Works
-1. Deep Learning for Pattern/State Recognition and Prediction of Time Seires ([link](https://github.com/minelabwot/DeepLearning_WoT))
-2. Semantic State Finder for Time Seires via Cluster and Hidden Markov Model model ([link](https://github.com/minelabwot/Semantic_State_Finder_Time_Series))
+1. Deep Learning for Pattern/State Recognition and Prediction of Time Series ([link](https://github.com/minelabwot/DeepLearning_WoT))
+2. Semantic State Finder for Time Series via Cluster and Hidden Markov model ([link](https://github.com/minelabwot/Semantic_State_Finder_Time_Series))
