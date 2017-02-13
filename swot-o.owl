@@ -332,28 +332,6 @@ The Stimulus itself will be serving as a proxy for (see isProxyOf) some observab
     </owl:ObjectProperty>
     
 
-
-    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasOperatingProperty -->
-
-    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasOperatingProperty">
-        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
-        <comment>Relation from an OperatingRange to a Property.  For example, to a battery lifetime.</comment>
-        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
-        <label>has operating property</label>
-        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#OperatingRestriction</seeAlso>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://purl.oclc.org/NET/ssnx/ssn#hasOperatingRange -->
-
-    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#hasOperatingRange">
-        <subPropertyOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
-        <comment>Relation from a System to an OperatingRange describing the normal operating environment of the System.</comment>
-        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
-        <label>has operating range</label>
-        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#OperatingRestriction</seeAlso>
-    </owl:ObjectProperty>
     
 
 
