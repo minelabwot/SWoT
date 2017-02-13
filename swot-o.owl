@@ -130,7 +130,7 @@
     <!-- &swot;hasNegInfl -->
 
     <owl:AnnotationProperty rdf:about="&swot;hasNegInfl">
-        <WoT_domain:equalsProcess rdf:resource="&swot;NegativeCorrelationProcess"/>
+        <swot:equalsProcess rdf:resource="&swot;NegativeCorrelationProcess"/>
         <subPropertyOf rdf:resource="&swot;hasIntInfl"/>
     </owl:AnnotationProperty>
     
@@ -139,7 +139,7 @@
     <!-- &swot;hasPosInfl -->
 
     <owl:AnnotationProperty rdf:about="&swot;hasPosInfl">
-        <WoT_domain:equalsProcess rdf:resource="&swot;PositiveCorrelationProcess"/>
+        <swot:equalsProcess rdf:resource="&swot;PositiveCorrelationProcess"/>
         <subPropertyOf rdf:resource="&swot;hasIntInfl"/>
     </owl:AnnotationProperty>
     
@@ -1105,7 +1105,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;AirCleaner">
         <subClassOf rdf:resource="&swot;SensorProperty"/>
-        <WoT_domain:hasPosInfl rdf:resource="&swot;AirQuality"/>
+        <swot:hasPosInfl rdf:resource="&swot;AirQuality"/>
     </owl:Class>
     
 
@@ -1114,8 +1114,8 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;AirQuality">
         <subClassOf rdf:resource="&swot;SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="&swot;CarbonDioxide"/>
-        <WoT_domain:hasNegInfl rdf:resource="&swot;PM"/>
+        <swot:hasNegInfl rdf:resource="&swot;CarbonDioxide"/>
+        <swot:hasNegInfl rdf:resource="&swot;PM"/>
     </owl:Class>
     
 
@@ -1163,9 +1163,9 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;Cooling">
         <subClassOf rdf:resource="&swot;SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="&swot;Energy"/>
-        <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
-        <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
+        <swot:hasNegInfl rdf:resource="&swot;Energy"/>
+        <swot:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</swot:highThreshold>
+        <swot:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</swot:lowThreshold>
     </owl:Class>
     
 
@@ -1174,7 +1174,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;Energy">
         <subClassOf rdf:resource="&swot;SensorProperty"/>
-        <WoT_domain:hasPosInfl rdf:resource="&swot;Temperature"/>
+        <swot:hasPosInfl rdf:resource="&swot;Temperature"/>
     </owl:Class>
     
 
@@ -1208,11 +1208,11 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;IndoorAirQuality">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;AirCleaner"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;CarbonDioxide"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;Occupation"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;PM"/>
-        <WoT_domain:requiresProperty rdf:resource="&swot;AirQuality"/>
+        <swot:optionalProp rdf:resource="&swot;AirCleaner"/>
+        <swot:optionalProp rdf:resource="&swot;CarbonDioxide"/>
+        <swot:optionalProp rdf:resource="&swot;Occupation"/>
+        <swot:optionalProp rdf:resource="&swot;PM"/>
+        <swot:requiresProperty rdf:resource="&swot;AirQuality"/>
     </owl:Class>
     
 
@@ -1221,10 +1221,10 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;IndoorTemperature">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;Cooling"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;Occupation"/>
-        <WoT_domain:optionalProp rdf:resource="&swot;Temperature"/>
-        <WoT_domain:requiresProperty rdf:resource="&swot;Energy"/>
+        <swot:optionalProp rdf:resource="&swot;Cooling"/>
+        <swot:optionalProp rdf:resource="&swot;Occupation"/>
+        <swot:optionalProp rdf:resource="&swot;Temperature"/>
+        <swot:requiresProperty rdf:resource="&swot;Energy"/>
     </owl:Class>
     
 
@@ -1283,9 +1283,9 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;Occupation">
         <subClassOf rdf:resource="&swot;SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="&swot;AirQuality"/>
-        <WoT_domain:hasPosInfl rdf:resource="&swot;Energy"/>
-        <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</WoT_domain:highThreshold>
+        <swot:hasNegInfl rdf:resource="&swot;AirQuality"/>
+        <swot:hasPosInfl rdf:resource="&swot;Energy"/>
+        <swot:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</swot:highThreshold>
     </owl:Class>
     
 
@@ -1391,8 +1391,8 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="&swot;Temperature">
         <subClassOf rdf:resource="&swot;SensorProperty"/>
-        <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
-        <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
+        <swot:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</swot:highThreshold>
+        <swot:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</swot:lowThreshold>
     </owl:Class>
     
 
