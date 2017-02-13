@@ -16,7 +16,7 @@
     <owl:Ontology rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl">
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yunong Yang and Zhenyu Wu, BUPT</dc:creator>
         <dc:title>Semantic Web of Things Ontology</dc:title>
-        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.com&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.cn&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
         <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To provide a uniform ontology of CPS applications, the SWoT base ontology (SWoT-O) is mainly referred to and extended from SSN ontology, as well as reusing other IoT ontologies, such as Semantic Actuator Network (SAN) for actuator, Stream Annotation Ontology (SAO) for streaming data and QUDT ontology for units of measure.</comment>
     </owl:Ontology>
     
