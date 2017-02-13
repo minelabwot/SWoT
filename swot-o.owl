@@ -2,21 +2,22 @@
 <rdf:RDF xmlns="http://www.w3.org/2000/01/rdf-schema#"
      xml:base="http://www.w3.org/2000/01/rdf-schema"
      xmlns:cc="http://creativecommons.org/ns#"
-     xmlns:dct="http://purl.org/dc/terms/"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-     xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:swot="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
-     xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#">
+     xmlns:WoT_domain="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#"
+     xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#"
+     xmlns:dct="http://purl.org/dc/terms/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:swot-o="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl">
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.cn&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yunong Yang and Zhenyu Wu, BUPT</dc:creator>
         <dc:title>Semantic Web of Things Ontology</dc:title>
-        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.cn&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
         <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To provide a uniform ontology of CPS applications, the SWoT base ontology (SWoT-O) is mainly referred to and extended from SSN ontology, as well as reusing other IoT ontologies</comment>
     </owl:Ontology>
     
@@ -87,6 +88,30 @@
     
 
 
+    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#isDefinedBy -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#seeAlso -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+    
+
+
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#changeStateTo -->
 
     <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#changeStateTo"/>
@@ -114,7 +139,7 @@
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasNegInfl -->
 
     <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasNegInfl">
-        <swot:equalsProcess rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#NegativeCorrelationProcess"/>
+        <swot-o:equalsProcess rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#NegativeCorrelationProcess"/>
         <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasIntInfl"/>
     </owl:AnnotationProperty>
     
@@ -123,7 +148,7 @@
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPosInfl -->
 
     <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPosInfl">
-        <swot:equalsProcess rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PositiveCorrelationProcess"/>
+        <swot-o:equalsProcess rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PositiveCorrelationProcess"/>
         <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasIntInfl"/>
     </owl:AnnotationProperty>
     
@@ -150,30 +175,6 @@
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#requiresProperty -->
 
     <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#requiresProperty"/>
-    
-
-
-    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
-
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
-    
-
-
-    <!-- http://www.w3.org/2000/01/rdf-schema#isDefinedBy -->
-
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
-    
-
-
-    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
-
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
-    
-
-
-    <!-- http://www.w3.org/2000/01/rdf-schema#seeAlso -->
-
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
     
 
 
@@ -330,8 +331,6 @@ The Stimulus itself will be serving as a proxy for (see isProxyOf) some observab
         <label>has measurement property</label>
         <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Sensor#MeasuringCapability</seeAlso>
     </owl:ObjectProperty>
-    
-
     
 
 
@@ -1037,6 +1036,12 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
+    <!-- http://www.w3.org/2001/XMLSchema#dateTime -->
+
+    <owl:Class rdf:about="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    
+
+
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action">
@@ -1076,7 +1081,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirCleaner">
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <swot:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
+        <swot-o:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
     </owl:Class>
     
 
@@ -1085,8 +1090,8 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality">
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <swot:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#CarbonDioxide"/>
-        <swot:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM"/>
+        <swot-o:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#CarbonDioxide"/>
+        <swot-o:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM"/>
     </owl:Class>
     
 
@@ -1134,9 +1139,9 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Cooling">
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <swot:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
-        <swot:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</swot:highThreshold>
-        <swot:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</swot:lowThreshold>
+        <swot-o:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
+        <swot-o:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</swot-o:highThreshold>
+        <swot-o:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</swot-o:lowThreshold>
     </owl:Class>
     
 
@@ -1145,7 +1150,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy">
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <swot:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature"/>
+        <swot-o:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature"/>
     </owl:Class>
     
 
@@ -1179,11 +1184,11 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#IndoorAirQuality">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirCleaner"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#CarbonDioxide"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM"/>
-        <swot:requiresProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirCleaner"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#CarbonDioxide"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM"/>
+        <swot-o:requiresProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
     </owl:Class>
     
 
@@ -1192,10 +1197,10 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#IndoorTemperature">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Cooling"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation"/>
-        <swot:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature"/>
-        <swot:requiresProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Cooling"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation"/>
+        <swot-o:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature"/>
+        <swot-o:requiresProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
     </owl:Class>
     
 
@@ -1254,9 +1259,9 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation">
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <swot:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
-        <swot:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
-        <swot:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</swot:highThreshold>
+        <swot-o:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
+        <swot-o:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
+        <swot-o:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</swot-o:highThreshold>
     </owl:Class>
     
 
@@ -1289,6 +1294,18 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasInput"/>
+                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasOutput"/>
+                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+            </owl:Restriction>
+        </subClassOf>
         <label>PhysicalProcess</label>
     </owl:Class>
     
@@ -1362,8 +1379,8 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature">
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <swot:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</swot:highThreshold>
-        <swot:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</swot:lowThreshold>
+        <swot-o:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</swot-o:highThreshold>
+        <swot-o:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</swot-o:lowThreshold>
     </owl:Class>
     
 
@@ -1447,12 +1464,6 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.w3.org/2001/XMLSchema#dateTime -->
-
-    <owl:Class rdf:about="http://www.w3.org/2001/XMLSchema#dateTime"/>
-    
-
-
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -1490,3 +1501,4 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
 
 <!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
