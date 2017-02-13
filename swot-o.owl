@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
-     xml:base="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl"
+<rdf:RDF xmlns="http://www.w3.org/2000/01/rdf-schema#"
+     xml:base="http://www.w3.org/2000/01/rdf-schema"
      xmlns:cc="http://creativecommons.org/ns#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -11,10 +11,9 @@
      xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:WoT_domain="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
-     xmlns:swot="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
+     xmlns:WoT_domain="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#"
      xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#">
-    <owl:Ontology rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain">
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yunong Yang and Zhenyu Wu, BUPT</dc:creator>
         <dc:title>Semantic Web of Things Ontology</dc:title>
         <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.com&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
@@ -88,69 +87,69 @@
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#changeStateTo -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#changeStateTo"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#defaultObserved -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#defaultObserved -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#defaultObserved"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#defaultObserved"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#equalsProcess -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#equalsProcess -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#equalsProcess"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#equalsProcess"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasIntInfl -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasIntInfl"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasNegInfl -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasNegInfl -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasNegInfl">
-        <WoT_domain:equalsProcess rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#NegativeCorrelationProcess"/>
-        <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasIntInfl"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasNegInfl">
+        <WoT_domain:equalsProcess rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess"/>
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
     </owl:AnnotationProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPosInfl -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPosInfl -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPosInfl">
-        <WoT_domain:equalsProcess rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PositiveCorrelationProcess"/>
-        <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasIntInfl"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPosInfl">
+        <WoT_domain:equalsProcess rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess"/>
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
     </owl:AnnotationProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#highThreshold -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#highThreshold -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#highThreshold"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#highThreshold"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#lowThreshold -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#lowThreshold -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#lowThreshold"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#lowThreshold"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#optionalProp -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#optionalProp -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#optionalProp"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#optionalProp"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#requiresProperty -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#requiresProperty -->
 
-    <owl:AnnotationProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#requiresProperty"/>
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#requiresProperty"/>
     
 
 
@@ -670,7 +669,7 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation -->
 
     <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation">
-        <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has"/>
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
         <label>hasLocation</label>
     </owl:ObjectProperty>
     
@@ -780,87 +779,87 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#generate -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#generate">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate">
         <label>generate</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasDevice -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasDevice"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPotCause -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPotCause">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause">
         <label>hasPotCause</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasSpot -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasSpot">
-        <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot">
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasState -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasState">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState">
         <subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <label>hasState</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasType -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasType">
-        <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType">
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasUnit -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasUnit">
-        <subPropertyOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit">
+        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
         <label>hasUnit</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#isOwnedBy -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#isOwnedBy">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy">
         <label>isOwnedBy</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#subscribe -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#subscribe">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe">
         <label>subscribe</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#triggers -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers -->
 
-    <owl:ObjectProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#triggers">
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers">
         <label>triggers</label>
     </owl:ObjectProperty>
     
@@ -877,40 +876,40 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#description -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description -->
 
-    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#description">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description">
         <label>description</label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#deviceID -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#deviceID -->
 
-    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#deviceID"/>
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#deviceID"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasValue -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue -->
 
-    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasValue">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue">
         <domain rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#linkTo -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#linkTo -->
 
-    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#linkTo">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#linkTo">
         <label>linkTo</label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#name -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name -->
 
-    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#name">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name">
         <label>name</label>
     </owl:DatatypeProperty>
     
@@ -930,46 +929,46 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     <!-- http://purl.oclc.org/NET/ssnx/ssn#Device -->
 
     <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Device">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoT_Entity"/>
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasSpot"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Spot"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasState"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasUnit"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Unit"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#isOwnedBy"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Owner"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation"/>
-                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Region"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasType"/>
-                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#EntityType"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasValue"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue"/>
                 <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
             </owl:Restriction>
         </subClassOf>
@@ -988,19 +987,19 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasDevice"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice"/>
                 <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasSpot"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Spot"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot"/>
             </owl:Restriction>
         </subClassOf>
         <label>FeatureOfInterest</label>
@@ -1014,7 +1013,7 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#generate"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate"/>
                 <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
             </owl:Restriction>
         </subClassOf>
@@ -1060,34 +1059,34 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action">
         <label>Action</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Actuator -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Actuator -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Actuator">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Actuator">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#generate"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#subscribe"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe"/>
                 <owl:someValuesFrom rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#Event"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#triggers"/>
-                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
             </owl:Restriction>
         </subClassOf>
         <label>Actuator</label>
@@ -1095,33 +1094,33 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirCleaner -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirCleaner">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <WoT_domain:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#CarbonDioxide"/>
-        <WoT_domain:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Anomaly -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Anomaly -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Anomaly">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Anomaly">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasPotCause"/>
-                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause"/>
             </owl:Restriction>
         </subClassOf>
         <label>Anomaly</label>
@@ -1129,223 +1128,223 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Carbon_Dioxide -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Dioxide -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Carbon_Dioxide">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Dioxide">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Carbon_Monoxide -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Monoxide -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Carbon_Monoxide">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Monoxide">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Congestion -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Congestion -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Congestion">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Congestion">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Cooling -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Cooling">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
         <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
         <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <WoT_domain:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#EntityType -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#EntityType">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
         <label>EntityType</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#High -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#High">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Humidity -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Humidity -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Humidity">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Humidity">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#IndoorAirQuality -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorAirQuality -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#IndoorAirQuality">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorAirQuality">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirCleaner"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#CarbonDioxide"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM"/>
-        <WoT_domain:requiresProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM"/>
+        <WoT_domain:requiresProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#IndoorTemperature -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorTemperature -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#IndoorTemperature">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorTemperature">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Cooling"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation"/>
-        <WoT_domain:optionalProp rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature"/>
-        <WoT_domain:requiresProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation"/>
+        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature"/>
+        <WoT_domain:requiresProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Location -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Location">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
         <label>Location</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Low -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Low">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#NegativeCorrelationProcess -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#NegativeCorrelationProcess">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Nitrogen_Dioxide -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nitrogen_Dioxide -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Nitrogen_Dioxide">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nitrogen_Dioxide">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Nomal -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Nomal">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
         <label>ObservedCause</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Occupation">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#AirQuality"/>
-        <WoT_domain:hasPosInfl rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Energy"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
+        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
         <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</WoT_domain:highThreshold>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Owner -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Owner">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
         <label>Owner</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Oxygen -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Oxygen -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Oxygen">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Oxygen">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PM">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess">
         <label>PhysicalProcess</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PositiveCorrelationProcess -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PositiveCorrelationProcess">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Pressure -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Pressure -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Pressure">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Pressure">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Region -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Region">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Location"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location"/>
         <comment>large scale location</comment>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf"/>
@@ -1356,95 +1355,95 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Spot -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Spot">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Location"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location"/>
         <comment>small scale location</comment>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State">
         <label>State</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Sulfur_Dioxide -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Sulfur_Dioxide -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Sulfur_Dioxide">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Sulfur_Dioxide">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Temperature">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
         <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
         <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnDown -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnDown -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnDown">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnDown">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnUp -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnUp -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnUp">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnUp">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Unit -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Unit">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
         <label>Unit</label>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Wind_direction -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_direction -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Wind_direction">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_direction">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Wind_speed -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_speed -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Wind_speed">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_speed">
+        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoT_Entity -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoT_Entity">
+    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity">
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#has"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
@@ -1455,13 +1454,13 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#description"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description"/>
                 <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#name"/>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name"/>
                 <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
             </owl:Restriction>
         </subClassOf>
@@ -1487,26 +1486,26 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#high -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#high -->
 
-    <owl:NamedIndividual rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#high">
-        <rdf:type rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#High"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#high">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High"/>
     </owl:NamedIndividual>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#low -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#low -->
 
-    <owl:NamedIndividual rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#low">
-        <rdf:type rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Low"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#low">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low"/>
     </owl:NamedIndividual>
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#nomal -->
+    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal -->
 
-    <owl:NamedIndividual rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#nomal">
-        <rdf:type rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Nomal"/>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal"/>
     </owl:NamedIndividual>
 </rdf:RDF>
 
