@@ -12,10 +12,11 @@
     <!ENTITY DUL "http://www.loa-cnr.it/ontologies/DUL.owl#" >
     <!ENTITY ssn "http://purl.oclc.org/NET/ssnx/ssn#" >
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY swot "https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#" >
 ]>
 
-<rdf:RDF xmlns="http://www.w3.org/2000/01/rdf-schema#"
-     xml:base="http://www.w3.org/2000/01/rdf-schema"
+<rdf:RDF xmlns="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
+     xml:base="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl"
      xmlns:cc="http://creativecommons.org/ns#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -26,9 +27,9 @@
      xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:WoT_domain="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#"
+     xmlns:swot="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
      xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain">
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl">
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yunong Yang and Zhenyu Wu, BUPT</dc:creator>
         <dc:title>Semantic Web of Things Ontology</dc:title>
         <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.com&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
@@ -102,69 +103,69 @@
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo -->
+    <!-- &swot;changeStateTo -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo"/>
+    <owl:AnnotationProperty rdf:about="&swot;changeStateTo"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#defaultObserved -->
+    <!-- &swot;defaultObserved -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#defaultObserved"/>
+    <owl:AnnotationProperty rdf:about="&swot;defaultObserved"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#equalsProcess -->
+    <!-- &swot;equalsProcess -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#equalsProcess"/>
+    <owl:AnnotationProperty rdf:about="&swot;equalsProcess"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl -->
+    <!-- &swot;hasIntInfl -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
+    <owl:AnnotationProperty rdf:about="&swot;hasIntInfl"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasNegInfl -->
+    <!-- &swot;hasNegInfl -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasNegInfl">
-        <WoT_domain:equalsProcess rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess"/>
-        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
+    <owl:AnnotationProperty rdf:about="&swot;hasNegInfl">
+        <WoT_domain:equalsProcess rdf:resource="&swot;NegativeCorrelationProcess"/>
+        <subPropertyOf rdf:resource="&swot;hasIntInfl"/>
     </owl:AnnotationProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPosInfl -->
+    <!-- &swot;hasPosInfl -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPosInfl">
-        <WoT_domain:equalsProcess rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess"/>
-        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasIntInfl"/>
+    <owl:AnnotationProperty rdf:about="&swot;hasPosInfl">
+        <WoT_domain:equalsProcess rdf:resource="&swot;PositiveCorrelationProcess"/>
+        <subPropertyOf rdf:resource="&swot;hasIntInfl"/>
     </owl:AnnotationProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#highThreshold -->
+    <!-- &swot;highThreshold -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#highThreshold"/>
+    <owl:AnnotationProperty rdf:about="&swot;highThreshold"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#lowThreshold -->
+    <!-- &swot;lowThreshold -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#lowThreshold"/>
+    <owl:AnnotationProperty rdf:about="&swot;lowThreshold"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#optionalProp -->
+    <!-- &swot;optionalProp -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#optionalProp"/>
+    <owl:AnnotationProperty rdf:about="&swot;optionalProp"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#requiresProperty -->
+    <!-- &swot;requiresProperty -->
 
-    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#requiresProperty"/>
+    <owl:AnnotationProperty rdf:about="&swot;requiresProperty"/>
     
 
 
@@ -216,16 +217,7 @@
     
 
 
-    <!-- http://purl.oclc.org/NET/ssnx/ssn#deployedOnPlatform -->
 
-    <owl:ObjectProperty rdf:about="http://purl.oclc.org/NET/ssnx/ssn#deployedOnPlatform">
-        <subPropertyOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasParticipant"/>
-        <owl:inverseOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#inDeployment"/>
-        <comment>Relation between a deployment and the platform on which the system was deployed.</comment>
-        <isDefinedBy>http://purl.oclc.org/NET/ssnx/ssn</isDefinedBy>
-        <label>deployed on platform</label>
-        <seeAlso>http://www.w3.org/2005/Incubator/ssn/wiki/SSN_Deploy#Deployment</seeAlso>
-    </owl:ObjectProperty>
     
 
 
@@ -684,7 +676,7 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     <!-- http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation -->
 
     <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation">
-        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
+        <subPropertyOf rdf:resource="&swot;has"/>
         <label>hasLocation</label>
     </owl:ObjectProperty>
     
@@ -794,87 +786,87 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate -->
+    <!-- &swot;generate -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate">
+    <owl:ObjectProperty rdf:about="&swot;generate">
         <label>generate</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has -->
+    <!-- &swot;has -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
+    <owl:ObjectProperty rdf:about="&swot;has"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice -->
+    <!-- &swot;hasDevice -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice"/>
+    <owl:ObjectProperty rdf:about="&swot;hasDevice"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause -->
+    <!-- &swot;hasPotCause -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause">
+    <owl:ObjectProperty rdf:about="&swot;hasPotCause">
         <label>hasPotCause</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot -->
+    <!-- &swot;hasSpot -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot">
-        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
+    <owl:ObjectProperty rdf:about="&swot;hasSpot">
+        <subPropertyOf rdf:resource="&swot;has"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState -->
+    <!-- &swot;hasState -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState">
+    <owl:ObjectProperty rdf:about="&swot;hasState">
         <subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <label>hasState</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType -->
+    <!-- &swot;hasType -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType">
-        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
+    <owl:ObjectProperty rdf:about="&swot;hasType">
+        <subPropertyOf rdf:resource="&swot;has"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit -->
+    <!-- &swot;hasUnit -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit">
-        <subPropertyOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
+    <owl:ObjectProperty rdf:about="&swot;hasUnit">
+        <subPropertyOf rdf:resource="&swot;has"/>
         <label>hasUnit</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy -->
+    <!-- &swot;isOwnedBy -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy">
+    <owl:ObjectProperty rdf:about="&swot;isOwnedBy">
         <label>isOwnedBy</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe -->
+    <!-- &swot;subscribe -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe">
+    <owl:ObjectProperty rdf:about="&swot;subscribe">
         <label>subscribe</label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers -->
+    <!-- &swot;triggers -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers">
+    <owl:ObjectProperty rdf:about="&swot;triggers">
         <label>triggers</label>
     </owl:ObjectProperty>
     
@@ -891,40 +883,40 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description -->
+    <!-- &swot;description -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description">
+    <owl:DatatypeProperty rdf:about="&swot;description">
         <label>description</label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#deviceID -->
+    <!-- &swot;deviceID -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#deviceID"/>
+    <owl:DatatypeProperty rdf:about="&swot;deviceID"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue -->
+    <!-- &swot;hasValue -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue">
+    <owl:DatatypeProperty rdf:about="&swot;hasValue">
         <domain rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#linkTo -->
+    <!-- &swot;linkTo -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#linkTo">
+    <owl:DatatypeProperty rdf:about="&swot;linkTo">
         <label>linkTo</label>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name -->
+    <!-- &swot;name -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name">
+    <owl:DatatypeProperty rdf:about="&swot;name">
         <label>name</label>
     </owl:DatatypeProperty>
     
@@ -944,46 +936,46 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     <!-- http://purl.oclc.org/NET/ssnx/ssn#Device -->
 
     <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Device">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity"/>
+        <subClassOf rdf:resource="&swot;WoT_Entity"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot"/>
+                <owl:onProperty rdf:resource="&swot;hasSpot"/>
+                <owl:someValuesFrom rdf:resource="&swot;Spot"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasState"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+                <owl:onProperty rdf:resource="&swot;hasState"/>
+                <owl:someValuesFrom rdf:resource="&swot;State"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasUnit"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit"/>
+                <owl:onProperty rdf:resource="&swot;hasUnit"/>
+                <owl:someValuesFrom rdf:resource="&swot;Unit"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#isOwnedBy"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner"/>
+                <owl:onProperty rdf:resource="&swot;isOwnedBy"/>
+                <owl:someValuesFrom rdf:resource="&swot;Owner"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#hasLocation"/>
-                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region"/>
+                <owl:allValuesFrom rdf:resource="&swot;Region"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasType"/>
-                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType"/>
+                <owl:onProperty rdf:resource="&swot;hasType"/>
+                <owl:allValuesFrom rdf:resource="&swot;EntityType"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasValue"/>
+                <owl:onProperty rdf:resource="&swot;hasValue"/>
                 <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
             </owl:Restriction>
         </subClassOf>
@@ -1002,19 +994,19 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasProperty"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+                <owl:someValuesFrom rdf:resource="&swot;SensorProperty"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasDevice"/>
+                <owl:onProperty rdf:resource="&swot;hasDevice"/>
                 <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasSpot"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot"/>
+                <owl:onProperty rdf:resource="&swot;hasSpot"/>
+                <owl:someValuesFrom rdf:resource="&swot;Spot"/>
             </owl:Restriction>
         </subClassOf>
         <label>FeatureOfInterest</label>
@@ -1028,7 +1020,7 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate"/>
+                <owl:onProperty rdf:resource="&swot;generate"/>
                 <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
             </owl:Restriction>
         </subClassOf>
@@ -1074,34 +1066,34 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action -->
+    <!-- &swot;Action -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action">
+    <owl:Class rdf:about="&swot;Action">
         <label>Action</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Actuator -->
+    <!-- &swot;Actuator -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Actuator">
+    <owl:Class rdf:about="&swot;Actuator">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause"/>
+                <owl:onProperty rdf:resource="&swot;generate"/>
+                <owl:someValuesFrom rdf:resource="&swot;ObservedCause"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#subscribe"/>
+                <owl:onProperty rdf:resource="&swot;subscribe"/>
                 <owl:someValuesFrom rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#Event"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#triggers"/>
-                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
+                <owl:onProperty rdf:resource="&swot;triggers"/>
+                <owl:allValuesFrom rdf:resource="&swot;Action"/>
             </owl:Restriction>
         </subClassOf>
         <label>Actuator</label>
@@ -1109,33 +1101,33 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner -->
+    <!-- &swot;AirCleaner -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
-        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
+    <owl:Class rdf:about="&swot;AirCleaner">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
+        <WoT_domain:hasPosInfl rdf:resource="&swot;AirQuality"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality -->
+    <!-- &swot;AirQuality -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide"/>
-        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM"/>
+    <owl:Class rdf:about="&swot;AirQuality">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="&swot;CarbonDioxide"/>
+        <WoT_domain:hasNegInfl rdf:resource="&swot;PM"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Anomaly -->
+    <!-- &swot;Anomaly -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Anomaly">
+    <owl:Class rdf:about="&swot;Anomaly">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#hasPotCause"/>
-                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause"/>
+                <owl:onProperty rdf:resource="&swot;hasPotCause"/>
+                <owl:allValuesFrom rdf:resource="&swot;ObservedCause"/>
             </owl:Restriction>
         </subClassOf>
         <label>Anomaly</label>
@@ -1143,223 +1135,223 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Dioxide -->
+    <!-- &swot;Carbon_Dioxide -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Dioxide">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Carbon_Dioxide">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Monoxide -->
+    <!-- &swot;Carbon_Monoxide -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Carbon_Monoxide">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Carbon_Monoxide">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Congestion -->
+    <!-- &swot;Congestion -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Congestion">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Congestion">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling -->
+    <!-- &swot;Cooling -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
+    <owl:Class rdf:about="&swot;Cooling">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="&swot;Energy"/>
         <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
         <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy -->
+    <!-- &swot;Energy -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
-        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature"/>
+    <owl:Class rdf:about="&swot;Energy">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
+        <WoT_domain:hasPosInfl rdf:resource="&swot;Temperature"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType -->
+    <!-- &swot;EntityType -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#EntityType">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    <owl:Class rdf:about="&swot;EntityType">
+        <subClassOf rdf:resource="&swot;WoTProperty"/>
         <label>EntityType</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High -->
+    <!-- &swot;High -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+    <owl:Class rdf:about="&swot;High">
+        <subClassOf rdf:resource="&swot;State"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Humidity -->
+    <!-- &swot;Humidity -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Humidity">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Humidity">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorAirQuality -->
+    <!-- &swot;IndoorAirQuality -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorAirQuality">
+    <owl:Class rdf:about="&swot;IndoorAirQuality">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirCleaner"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#CarbonDioxide"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM"/>
-        <WoT_domain:requiresProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;AirCleaner"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;CarbonDioxide"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;Occupation"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;PM"/>
+        <WoT_domain:requiresProperty rdf:resource="&swot;AirQuality"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorTemperature -->
+    <!-- &swot;IndoorTemperature -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#IndoorTemperature">
+    <owl:Class rdf:about="&swot;IndoorTemperature">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Cooling"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation"/>
-        <WoT_domain:optionalProp rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature"/>
-        <WoT_domain:requiresProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;Cooling"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;Occupation"/>
+        <WoT_domain:optionalProp rdf:resource="&swot;Temperature"/>
+        <WoT_domain:requiresProperty rdf:resource="&swot;Energy"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location -->
+    <!-- &swot;Location -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    <owl:Class rdf:about="&swot;Location">
+        <subClassOf rdf:resource="&swot;WoTProperty"/>
         <label>Location</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low -->
+    <!-- &swot;Low -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+    <owl:Class rdf:about="&swot;Low">
+        <subClassOf rdf:resource="&swot;State"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess -->
+    <!-- &swot;NegativeCorrelationProcess -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#NegativeCorrelationProcess">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess"/>
+    <owl:Class rdf:about="&swot;NegativeCorrelationProcess">
+        <subClassOf rdf:resource="&swot;PhysicalProcess"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nitrogen_Dioxide -->
+    <!-- &swot;Nitrogen_Dioxide -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nitrogen_Dioxide">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Nitrogen_Dioxide">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal -->
+    <!-- &swot;Nomal -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State"/>
+    <owl:Class rdf:about="&swot;Nomal">
+        <subClassOf rdf:resource="&swot;State"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause -->
+    <!-- &swot;ObservedCause -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#ObservedCause">
+    <owl:Class rdf:about="&swot;ObservedCause">
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
         <label>ObservedCause</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation -->
+    <!-- &swot;Occupation -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Occupation">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
-        <WoT_domain:hasNegInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#AirQuality"/>
-        <WoT_domain:hasPosInfl rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Energy"/>
+    <owl:Class rdf:about="&swot;Occupation">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
+        <WoT_domain:hasNegInfl rdf:resource="&swot;AirQuality"/>
+        <WoT_domain:hasPosInfl rdf:resource="&swot;Energy"/>
         <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.0</WoT_domain:highThreshold>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner -->
+    <!-- &swot;Owner -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Owner">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    <owl:Class rdf:about="&swot;Owner">
+        <subClassOf rdf:resource="&swot;WoTProperty"/>
         <label>Owner</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Oxygen -->
+    <!-- &swot;Oxygen -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Oxygen">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Oxygen">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM -->
+    <!-- &swot;PM -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PM">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;PM">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess -->
+    <!-- &swot;PhysicalProcess -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess">
+    <owl:Class rdf:about="&swot;PhysicalProcess">
         <label>PhysicalProcess</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess -->
+    <!-- &swot;PositiveCorrelationProcess -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PositiveCorrelationProcess">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#PhysicalProcess"/>
+    <owl:Class rdf:about="&swot;PositiveCorrelationProcess">
+        <subClassOf rdf:resource="&swot;PhysicalProcess"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Pressure -->
+    <!-- &swot;Pressure -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Pressure">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Pressure">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region -->
+    <!-- &swot;Region -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Region">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location"/>
+    <owl:Class rdf:about="&swot;Region">
+        <subClassOf rdf:resource="&swot;Location"/>
         <comment>large scale location</comment>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty -->
+    <!-- &swot;SensorProperty -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    <owl:Class rdf:about="&swot;SensorProperty">
+        <subClassOf rdf:resource="&swot;WoTProperty"/>
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf"/>
@@ -1370,95 +1362,95 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot -->
+    <!-- &swot;Spot -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Spot">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Location"/>
+    <owl:Class rdf:about="&swot;Spot">
+        <subClassOf rdf:resource="&swot;Location"/>
         <comment>small scale location</comment>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State -->
+    <!-- &swot;State -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#State">
+    <owl:Class rdf:about="&swot;State">
         <label>State</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Sulfur_Dioxide -->
+    <!-- &swot;Sulfur_Dioxide -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Sulfur_Dioxide">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Sulfur_Dioxide">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature -->
+    <!-- &swot;Temperature -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Temperature">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Temperature">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
         <WoT_domain:highThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">26.0</WoT_domain:highThreshold>
         <WoT_domain:lowThreshold rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20.0</WoT_domain:lowThreshold>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnDown -->
+    <!-- &swot;TurnDown -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnDown">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
+    <owl:Class rdf:about="&swot;TurnDown">
+        <subClassOf rdf:resource="&swot;Action"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnUp -->
+    <!-- &swot;TurnUp -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#TurnUp">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Action"/>
+    <owl:Class rdf:about="&swot;TurnUp">
+        <subClassOf rdf:resource="&swot;Action"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit -->
+    <!-- &swot;Unit -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Unit">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    <owl:Class rdf:about="&swot;Unit">
+        <subClassOf rdf:resource="&swot;WoTProperty"/>
         <label>Unit</label>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_direction -->
+    <!-- &swot;Wind_direction -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_direction">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Wind_direction">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_speed -->
+    <!-- &swot;Wind_speed -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Wind_speed">
-        <subClassOf rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#SensorProperty"/>
+    <owl:Class rdf:about="&swot;Wind_speed">
+        <subClassOf rdf:resource="&swot;SensorProperty"/>
     </owl:Class>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty -->
+    <!-- &swot;WoTProperty -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+    <owl:Class rdf:about="&swot;WoTProperty"/>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity -->
+    <!-- &swot;WoT_Entity -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoT_Entity">
+    <owl:Class rdf:about="&swot;WoT_Entity">
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#has"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#WoTProperty"/>
+                <owl:onProperty rdf:resource="&swot;has"/>
+                <owl:someValuesFrom rdf:resource="&swot;WoTProperty"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
@@ -1469,13 +1461,13 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#description"/>
+                <owl:onProperty rdf:resource="&swot;description"/>
                 <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#name"/>
+                <owl:onProperty rdf:resource="&swot;name"/>
                 <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
             </owl:Restriction>
         </subClassOf>
@@ -1501,26 +1493,26 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#high -->
+    <!-- &swot;high -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#high">
-        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#High"/>
+    <owl:NamedIndividual rdf:about="&swot;high">
+        <rdf:type rdf:resource="&swot;High"/>
     </owl:NamedIndividual>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#low -->
+    <!-- &swot;low -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#low">
-        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Low"/>
+    <owl:NamedIndividual rdf:about="&swot;low">
+        <rdf:type rdf:resource="&swot;Low"/>
     </owl:NamedIndividual>
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal -->
+    <!-- &swot;nomal -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal">
-        <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal"/>
+    <owl:NamedIndividual rdf:about="&swot;nomal">
+        <rdf:type rdf:resource="&swot;Nomal"/>
     </owl:NamedIndividual>
 </rdf:RDF>
 
