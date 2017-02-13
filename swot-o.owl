@@ -14,17 +14,10 @@
      xmlns:WoT_domain="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#"
      xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain">
-        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the Semantic Sensor Network Incubator Activity via the public W3C list public-xg-ssn@w3.org</comment>
-        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W3C Semantic Sensor Network Incubator Group</dc:creator>
-        <seeAlso>http://www.w3.org/2005/Incubator/ssn/</seeAlso>
-        <dc:title>Semantic Sensor Network Ontology</dc:title>
-        <dct:modified>2011-06-20</dct:modified>
-        <cc:license rdf:resource="http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html"/>
-        <dc:identifier>http://purl.oclc.org/NET/ssnx/ssn</dc:identifier>
-        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This ontology is developed by the W3C Semantic Sensor Networks Incubator Group (SSN-XG). The concepts and structure of the ontology were discussed in the group&apos;s meetings and on the mailing list. For more information on the group&apos;s activities see: http://www.w3.org/2005/Incubator/ssn/</comment>
-        <dc:rights>Copyright 2009 - 2011 W3C.</dc:rights>
-        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This ontology describes sensors and observations, and related concepts.  It does not describe domain concepts, time, locations, etc. these are intended to be included from other ontologies via OWL imports.</comment>
-        <dct:created>2009-12-02</dct:created>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yunong Yang and Zhenyu Wu, BUPT</dc:creator>
+        <dc:title>Semantic Web of Things Ontology</dc:title>
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.com&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
+        <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">To provide a uniform ontology of CPS applications, the SWoT base ontology (SWoT-O) is mainly referred to and extended from SSN ontology, as well as reusing other IoT ontologies, such as Semantic Actuator Network (SAN) for actuator, Stream Annotation Ontology (SAO) for streaming data and QUDT ontology for units of measure.</comment>
     </owl:Ontology>
     
 
@@ -786,12 +779,6 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo"/>
-    
-
-
     <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#generate">
@@ -1520,32 +1507,6 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#nomal">
         <rdf:type rdf:resource="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#Nomal"/>
     </owl:NamedIndividual>
-    
-
-
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnDown -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnDown"/>
-    
-
-
-    <!-- http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnUp -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#turnUp"/>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Annotations
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
-
-    <rdf:Description rdf:about="http://www.semanticweb.org/yangyunong/ontologies/2016/7/WoT_domain#changeStateTo">
-        <label>changeStateTo</label>
-    </rdf:Description>
 </rdf:RDF>
 
 
