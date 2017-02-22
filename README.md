@@ -1,5 +1,11 @@
 # Semantic Web of Things Project<br>
 ###*A Hybrid Semantic Annotation, Extraction and Reasoning Framework for Cyber Physical System*
+
+> Please cite these papers in your publications<br>
+> [1] Wu Z, Xu Y, Yang Y, Zhang C, Zhu X, Ji Y. Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System. Sensors. 2017; 17(2):403.<br>
+> [2] Wu Z, Xu Y, Zhang C, et al. Towards Semantic Web of Things: From Manual to Semi-automatic Semantic Annotation on Web of Things[M]// Big Data Computing and Communications. Springer International Publishing, 2016.<br>
+> [3] Wu Z, Itälä T, Tang T, et al. A web-based two-layered integration framework for smart devices[J]. EURASIP Journal on Wireless Communications and Networking, 2012, 2012(1):150.
+
 ## 1.SWoT Architecture
 The whole system is composed of four main components: SWoT-O Annotator, EL Annotator, Knowledge Storage and Semantic Reasoner.
  
