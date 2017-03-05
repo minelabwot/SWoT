@@ -1,0 +1,14 @@
+Beverly Cleary
+5	http://dbpedia.org/resource/Beverly_Cleary	8.91185
+1	http://dbpedia.org/resource/Category:Novels_by_Beverly_Cleary	7.65467
+1	http://dbpedia.org/resource/Cleary,_Beverly	6.64381
+1	http://dbpedia.org/resource/Beverly_Atlee_Cleary	6.64381
+1	http://dbpedia.org/resource/Beverly_Cleary_bibliography	6.64381
+1	http://dbpedia.org/resource/Socks_(Beverly_Cleary)	6.64381
+1	http://dbpedia.org/resource/Bibliography_of_beverly_cleary	6.64381
+1	http://dbpedia.org/resource/Bibliography_of_Beverly_Cleary	6.64381
+1	http://dbpedia.org/resource/Beverly_Cleary_School	6.64381
+1	http://dbpedia.org/resource/Fifteen_(Beverly_Cleary)	6.64381
+1	http://dbpedia.org/resource/Beverly_Cleary_Sculpture_Garden	6.64381
+1	http://dbpedia.org/resource/Category:Beverly_Cleary_characters	4.84256
+1	http://dbpedia.org/resource/Category:Beverly_Cleary_books	5.88129e-14

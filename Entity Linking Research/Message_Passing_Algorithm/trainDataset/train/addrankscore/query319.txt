@@ -1,0 +1,5 @@
+Katherine Paterson
+5	http://dbpedia.org/resource/Katherine_Paterson	8.10695
+1	http://dbpedia.org/resource/Bibliography_of_katherine_paterson	6.64381
+1	http://dbpedia.org/resource/Bibliography_of_Katherine_Paterson	6.64381
+1	http://dbpedia.org/resource/Katherine_Paterson_bibliography	4.40991

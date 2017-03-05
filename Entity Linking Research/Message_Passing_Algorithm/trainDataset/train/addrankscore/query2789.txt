@@ -1,0 +1,6 @@
+Kate Harper
+1	http://dbpedia.org/resource/Kate_Harper_(The_West_Wing)	6.64381
+1	http://dbpedia.org/resource/Commander_Kate_Harper	6.64381
+1	http://dbpedia.org/resource/Kate_Harper_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Kate_M._Harper	4.85965
+5	http://dbpedia.org/resource/Kate_Harper	4.59048

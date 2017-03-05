@@ -1,0 +1,3 @@
+Robert McCloskey
+5	http://dbpedia.org/resource/Robert_McCloskey	7.39269
+1	http://dbpedia.org/resource/Robert_J._McCloskey	4.81996

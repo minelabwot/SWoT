@@ -1,0 +1,3 @@
+Laura Armer
+1	http://dbpedia.org/resource/Laura_May_Armer	6.64381
+5	http://dbpedia.org/resource/Laura_Adams_Armer	4.79017

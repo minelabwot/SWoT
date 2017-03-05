@@ -1,0 +1,3 @@
+Kathy Tyers
+5	http://dbpedia.org/resource/Kathy_Tyers	7.19871
+1	http://dbpedia.org/resource/Category:Novels_by_Kathy_Tyers	4.40991

@@ -1,0 +1,10 @@
+Maurice Sendak
+5	http://dbpedia.org/resource/Maurice_Sendak	8.67491
+1	http://dbpedia.org/resource/Maurice_Bernard_Sendak	6.64381
+1	http://dbpedia.org/resource/Maurice_sendak	6.64381
+1	http://dbpedia.org/resource/Maurice_Sendak_Elementary_School	6.64381
+1	http://dbpedia.org/resource/Maurice_sendak_elementary_school	6.64381
+1	http://dbpedia.org/resource/Tell_Them_Anything_You_Want:_A_Portrait_of_Maurice_Sendak	6.64381
+1	http://dbpedia.org/resource/Category:Adaptations_of_works_by_Maurice_Sendak	4.74933
+1	http://dbpedia.org/resource/Category:Books_by_Maurice_Sendak	4.74933
+1	http://dbpedia.org/resource/Category:Maurice_Sendak	4.74933

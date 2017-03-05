@@ -1,0 +1,5 @@
+Archibald Hill
+5	http://dbpedia.org/resource/Archibald_Hill	7.39192
+1	http://dbpedia.org/resource/Archibald_Vivian_Hill	6.64381
+1	http://dbpedia.org/resource/Archibald_V._Hill	6.64381
+1	http://dbpedia.org/resource/Archibald_Hill_Carmichael	4.79017

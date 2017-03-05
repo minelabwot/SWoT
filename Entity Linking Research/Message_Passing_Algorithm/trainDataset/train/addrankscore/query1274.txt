@@ -1,0 +1,20 @@
+Man With The Golden Gun
+1	http://dbpedia.org/resource/The_Man_With_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/The_Man_With_The_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/The_man_with_the_golden_gun	6.64381
+1	http://dbpedia.org/resource/Man_with_the_golden_gun	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_The_Man_with_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/Ian_Fleming's_The_Man_with_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_The_Man_with_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_The_Man_With_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_girls_in_The_Man_with_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/The_Man_With_The_Golden_Gun_(film)	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_The_Man_With_The_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/List_of_Bond_Girls_in_The_Man_with_the_Golden_Gun	6.64381
+1	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun_(song)	6.64381
+1	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun_(novel)	4.84221
+1	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun	4.79041
+5	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun_(film)	4.6884
+1	http://dbpedia.org/resource/Category:The_Man_with_the_Golden_Gun_(film)	4.40991
+1	http://dbpedia.org/resource/The_Man_with_the_Golden_Gun_(soundtrack)	4.40991

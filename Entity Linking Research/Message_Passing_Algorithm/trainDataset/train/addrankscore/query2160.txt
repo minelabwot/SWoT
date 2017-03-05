@@ -1,0 +1,4 @@
+Michel Chasles
+5	http://dbpedia.org/resource/Michel_Chasles	7.11833
+1	http://dbpedia.org/resource/Michel_chasles	6.64381
+1	http://dbpedia.org/resource/Michel_Floréal_Chasles	4.00032

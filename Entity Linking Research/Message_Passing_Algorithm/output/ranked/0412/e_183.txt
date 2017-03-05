@@ -1,0 +1,2 @@
+http://dbpedia.org/resource/Beijing_University_of_Posts_and_Telecommunications
+http://dbpedia.org/resource/Category:Beijing_University_of_Posts_and_Telecommunications_faculty

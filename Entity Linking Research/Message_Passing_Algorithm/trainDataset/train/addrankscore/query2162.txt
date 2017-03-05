@@ -1,0 +1,11 @@
+Augustin Louis Cauchy
+1	http://dbpedia.org/resource/Augustin-Louis_Cauchy	7.39269
+1	http://dbpedia.org/resource/Augustin_Louis,_Baron_Cauchy	6.64381
+1	http://dbpedia.org/resource/Augustin-Louis,_Baron_Cauchy	6.64381
+1	http://dbpedia.org/resource/Cauchy,_Augustin_Louis	6.64381
+1	http://dbpedia.org/resource/Augustin_Louis_Baron_Cauchy	6.64381
+1	http://dbpedia.org/resource/Augustin_louis_cauchy	6.64381
+1	http://dbpedia.org/resource/Baron_Augustin-Louis_Cauchy	6.64381
+5	http://dbpedia.org/resource/Augustin_Louis_Cauchy	6.64381
+1	http://dbpedia.org/resource/List_of_topics_named_after_Augustin-Louis_Cauchy	6.64381
+1	http://dbpedia.org/resource/List_of_things_named_after_Augustin-Louis_Cauchy	4.59048

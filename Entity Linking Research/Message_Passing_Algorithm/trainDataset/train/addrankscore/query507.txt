@@ -1,0 +1,15 @@
+The Queen College
+1	http://dbpedia.org/resource/Category:Alumni_of_The_Queen's_College,_Oxford	9.89759
+5	http://dbpedia.org/resource/The_Queen's_College,_Oxford	9.42886
+1	http://dbpedia.org/resource/Category:Fellows_of_The_Queen's_College,_Oxford	9.26549
+1	http://dbpedia.org/resource/Category:Provosts_of_The_Queen's_College,_Oxford	7.35586
+1	http://dbpedia.org/resource/Category:The_Queen's_College,_Oxford	7.15907
+1	http://dbpedia.org/resource/The_Queen's_College	6.64381
+1	http://dbpedia.org/resource/Provost,_Fellows_and_Scholars_of_the_College_of_the_Holy_and_Undivided_Trinity_of_Queen_Elizabeth_near_Dublin	6.64381
+1	http://dbpedia.org/resource/The_Queen's_College,_Edgbaston	6.64381
+1	http://dbpedia.org/resource/The_Queen's_college,_Oxford	6.64381
+1	http://dbpedia.org/resource/Mary_the_Queen_College_(Pampanga),_Inc.	6.64381
+1	http://dbpedia.org/resource/College_of_the_Holy_and_Undivided_Trinity_of_Queen_Elizabeth_near_Dublin	6.64381
+1	http://dbpedia.org/resource/List_of_Honorary_Fellows_of_The_Queen's_College,_Oxford	6.64381
+1	http://dbpedia.org/resource/The_Queen's_College_Boat_Club	4.00032
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_The_Queen's_College,_Oxford	5.88129e-14

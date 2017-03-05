@@ -1,0 +1,15 @@
+http://dbpedia.org/resource/Brasenose_College,_Oxford
+http://dbpedia.org/resource/Brasenose_College
+http://dbpedia.org/resource/Category:Alumni_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/Category:Fellows_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/Category:Brasenose_College,_Oxford
+http://dbpedia.org/resource/Category:Principals_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/List_of_Brasenose_College,_Oxford_people
+http://dbpedia.org/resource/Chapel_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/History_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/Principal_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Brasenose_College,_Oxford
+http://dbpedia.org/resource/Brasenose_College_Boat_Club_(Oxford)
+http://dbpedia.org/resource/List_of_people_associated_with_Brasenose_College,_Oxford
+http://dbpedia.org/resource/Brasenose_College_Boat_Club
+http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Brasenose_College,_Oxford

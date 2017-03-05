@@ -1,0 +1,3 @@
+Linda Sue Park
+5	http://dbpedia.org/resource/Linda_Sue_Park	7.19871
+1	http://dbpedia.org/resource/Category:Novels_by_Linda_Sue_Park	4.68878

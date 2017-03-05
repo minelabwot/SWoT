@@ -1,0 +1,5 @@
+James Daugherty
+1	http://dbpedia.org/resource/James_A._Daugherty	6.64381
+1	http://dbpedia.org/resource/James_Alexander_Daugherty	4.74904
+5	http://dbpedia.org/resource/James_Daugherty	4.74904
+1	http://dbpedia.org/resource/James_Harden_Daugherty	4.00032

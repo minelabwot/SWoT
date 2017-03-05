@@ -1,0 +1,24 @@
+McMaster University
+5	http://dbpedia.org/resource/McMaster_University	9.6604
+1	http://dbpedia.org/resource/Category:McMaster_University_alumni	9.65109
+1	http://dbpedia.org/resource/Category:McMaster_University_faculty	9.00014
+1	http://dbpedia.org/resource/Category:McMaster_University	8.13783
+1	http://dbpedia.org/resource/Category:Chancellors_of_McMaster_University	7.07952
+1	http://dbpedia.org/resource/Category:Classical_scholars_of_McMaster_University	6.64381
+1	http://dbpedia.org/resource/McMaster_University_Chinese_Students'_Association	6.64381
+1	http://dbpedia.org/resource/Mcmaster_University_Chinese_Students'_Association	6.64381
+1	http://dbpedia.org/resource/Mcmaster_university	6.64381
+1	http://dbpedia.org/resource/McMaster_University_Special_Constable_Service	6.64381
+1	http://dbpedia.org/resource/McMaster_University_Bus_Terminal	6.64381
+1	http://dbpedia.org/resource/List_of_McMaster_University_Olympic_athletes,_coaches_and_officials	6.64381
+1	http://dbpedia.org/resource/List_of_McMaster_University_Chancellors_and_Vice-Chancellors	6.64381
+1	http://dbpedia.org/resource/Brandon_Hall_(McMaster_University)	6.64381
+1	http://dbpedia.org/resource/Brandon_Hall_Mcmaster_University	6.64381
+1	http://dbpedia.org/resource/Mcmaster_University_Marauders	6.64381
+1	http://dbpedia.org/resource/McMaster_University_Libraries	6.64381
+1	http://dbpedia.org/resource/McMaster_University_Library	6.64381
+1	http://dbpedia.org/resource/McMaster_University_Medical_School	4.68878
+1	http://dbpedia.org/resource/List_of_McMaster_University_people	4.59048
+1	http://dbpedia.org/resource/McMaster_University_Security_Service	4.00032
+1	http://dbpedia.org/resource/McMaster_University_Medical_Centre	4.00032
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_McMaster_University	5.88129e-14

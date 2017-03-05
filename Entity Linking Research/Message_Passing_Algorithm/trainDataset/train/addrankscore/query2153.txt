@@ -1,0 +1,23 @@
+Thunderball
+1	http://dbpedia.org/resource/Operation_Thunderball	6.64381
+1	http://dbpedia.org/resource/Thunderball_Rally_(d20)	6.64381
+1	http://dbpedia.org/resource/Thunderball_(book)	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_henchmen_in_Thunderball	6.64381
+1	http://dbpedia.org/resource/Ian_Fleming's_Thunderball	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_allies_in_Thunderball	6.64381
+1	http://dbpedia.org/resource/Thunderball_soundtrack	6.64381
+1	http://dbpedia.org/resource/List_of_James_Bond_girls_in_Thunderball	6.64381
+1	http://dbpedia.org/resource/Thunderball_(game)	6.64381
+1	http://dbpedia.org/resource/List_of_Bond_girls_in_Thunderball	6.64381
+1	http://dbpedia.org/resource/Thunderball_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Thunderball_(fictional_game)	6.64381
+1	http://dbpedia.org/resource/Thunderball_(lottery_game)	6.64381
+1	http://dbpedia.org/resource/Thunderball_(album)	6.64381
+1	http://dbpedia.org/resource/Thunderball_(band)	6.64381
+5	http://dbpedia.org/resource/Thunderball_(novel)	4.84221
+1	http://dbpedia.org/resource/Thunderball_(soundtrack)	4.79017
+1	http://dbpedia.org/resource/Thunderball_(film)	4.74933
+1	http://dbpedia.org/resource/Category:Thunderball_(film)	4.74933
+1	http://dbpedia.org/resource/Thunderball	4.59048
+1	http://dbpedia.org/resource/Thunderball_(comics)	4.59048
+1	http://dbpedia.org/resource/Thunderball_(U.D.O._album)	4.00032

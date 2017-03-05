@@ -1,0 +1,6 @@
+South American Snipe
+1	http://dbpedia.org/resource/South_American_painted-snipe	7.0396
+1	http://dbpedia.org/resource/South_American_Painted_Snipe	6.64381
+5	http://dbpedia.org/resource/South_American_Snipe	6.64381
+1	http://dbpedia.org/resource/South_American_Painted-snipe	6.64381
+1	http://dbpedia.org/resource/South_American_snipe	4.68878

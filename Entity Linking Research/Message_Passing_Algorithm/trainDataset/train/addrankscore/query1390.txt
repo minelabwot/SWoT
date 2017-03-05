@@ -1,0 +1,3 @@
+Island of the Blue Dolphins
+1	http://dbpedia.org/resource/Island_of_the_Blue_Dolphins_(film)	6.64381
+5	http://dbpedia.org/resource/Island_of_the_Blue_Dolphins	4.84221

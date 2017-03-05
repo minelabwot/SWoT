@@ -1,0 +1,14 @@
+http://dbpedia.org/resource/Category:Alumni_of_Hertford_College,_Oxford
+http://dbpedia.org/resource/Hertford_College,_Oxford
+http://dbpedia.org/resource/Category:Fellows_of_Hertford_College,_Oxford
+http://dbpedia.org/resource/Category:Principals_of_Hertford_College,_Oxford
+http://dbpedia.org/resource/Category:Hertford_College,_Oxford
+http://dbpedia.org/resource/Hertford_College
+http://dbpedia.org/resource/Hertford_College_Oxford
+http://dbpedia.org/resource/Hertford_Regional_College
+http://dbpedia.org/resource/Hertford_College,_Oxford_University
+http://dbpedia.org/resource/List_of_Principals_of_Hertford_College
+http://dbpedia.org/resource/List_of_alumni_of_Hertford_College
+http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Hertford_College,_Oxford
+http://dbpedia.org/resource/Hertford_College_Boat_Club
+http://dbpedia.org/resource/List_of_Principals_of_Hertford_College,_Oxford

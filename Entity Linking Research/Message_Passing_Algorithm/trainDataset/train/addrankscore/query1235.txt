@@ -1,0 +1,3 @@
+West Branch Iowa
+5	http://dbpedia.org/resource/West_Branch,_Iowa	7.31565
+1	http://dbpedia.org/resource/Category:People_from_West_Branch,_Iowa	4.79041

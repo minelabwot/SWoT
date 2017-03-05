@@ -1,0 +1,4 @@
+Johnny Tremain
+1	http://dbpedia.org/resource/Johnny_Tremain_(1957_film)	6.64381
+5	http://dbpedia.org/resource/Johnny_Tremain	4.74904
+1	http://dbpedia.org/resource/Johnny_Tremain_(film)	4.40991

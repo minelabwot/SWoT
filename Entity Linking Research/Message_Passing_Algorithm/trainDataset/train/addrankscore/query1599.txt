@@ -1,0 +1,13 @@
+European Free Trade Association
+5	http://dbpedia.org/resource/European_Free_Trade_Association	7.15796
+1	http://dbpedia.org/resource/Category:European_Free_Trade_Association	7.11936
+1	http://dbpedia.org/resource/Canada-European_Free_Trade_Association	6.64381
+1	http://dbpedia.org/resource/European_Free_Trade_Association_Court	6.64381
+1	http://dbpedia.org/resource/Canada_&_European_Free_Trade_Association	6.64381
+1	http://dbpedia.org/resource/Canada-European_Free_Trade_Association_Free_Trade_Agreement	6.64381
+1	http://dbpedia.org/resource/Canada_-_European_Free_Trade_Association_Free_Trade_Agreement	6.64381
+1	http://dbpedia.org/resource/Member_states_of_the_European_Free_Trade_Association	6.64381
+1	http://dbpedia.org/resource/European_Free_Trade_Association_summary	6.64381
+1	http://dbpedia.org/resource/Canada–European_Free_Trade_Association_Free_Trade_Agreement	4.79041
+1	http://dbpedia.org/resource/European_Free_Trade_Association_Surveillance_Authority	4.00032
+1	http://dbpedia.org/resource/Canada_–_European_Free_Trade_Association_Free_Trade_Agreement	4.00032

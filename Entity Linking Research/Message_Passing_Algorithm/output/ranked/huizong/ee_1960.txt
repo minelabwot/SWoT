@@ -1,0 +1,21 @@
+origin
+5	http://dbpedia.org/resource/Trent_University
+1	http://dbpedia.org/resource/Nottingham_Trent_University
+1	http://dbpedia.org/resource/Category:Trent_University_alumni
+1	http://dbpedia.org/resource/Category:Alumni_of_Nottingham_Trent_University
+1	http://dbpedia.org/resource/Category:Trent_University_faculty
+1	http://dbpedia.org/resource/Category:Nottingham_Trent_University
+1	http://dbpedia.org/resource/Trent_University_Debating_Union
+1	http://dbpedia.org/resource/The_Nottingham_Trent_University
+1	http://dbpedia.org/resource/Category:Academics_of_Nottingham_Trent_University
+1	http://dbpedia.org/resource/Category:Presidents_of_Trent_University
+1	http://dbpedia.org/resource/Nottingham_Trent_University_tram_stop
+1	http://dbpedia.org/resource/List_of_Nottingham_Trent_University_alumni
+1	http://dbpedia.org/resource/List_of_Nottingham_Trent_university_people
+1	http://dbpedia.org/resource/Category:Trent_University
+1	http://dbpedia.org/resource/Category:Trent_University_people
+1	http://dbpedia.org/resource/Nottingham_Trent_University,_School_of_Art_and_Design
+1	http://dbpedia.org/resource/Category:Chancellors_of_Trent_University
+1	http://dbpedia.org/resource/Category:People_associated_with_Nottingham_Trent_University
+1	http://dbpedia.org/resource/Category:Trent_University_presidents
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Nottingham_Trent_University

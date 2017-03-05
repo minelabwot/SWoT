@@ -1,0 +1,3 @@
+Willem Barents
+1	http://dbpedia.org/resource/Willem_Barents	6.64381
+5	http://dbpedia.org/resource/Willem_Barentsz	4.84221

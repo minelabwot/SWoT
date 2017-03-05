@@ -1,0 +1,3 @@
+Esther Forbes
+1	http://dbpedia.org/resource/Esther_Louise_Forbes	6.64381
+5	http://dbpedia.org/resource/Esther_Forbes	4.74904

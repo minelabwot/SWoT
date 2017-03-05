@@ -1,0 +1,5 @@
+http://dbpedia.org/resource/Air_Quality_Index
+http://dbpedia.org/resource/Air_Quality_Index_(China)
+http://dbpedia.org/resource/Category:Air_quality_index
+http://dbpedia.org/resource/Nowcast_(Air_Quality_Index)
+http://dbpedia.org/resource/Air_Quality_Health_Index

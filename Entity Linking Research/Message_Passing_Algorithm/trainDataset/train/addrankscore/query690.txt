@@ -1,0 +1,4 @@
+Elizabeth Speare
+5	http://dbpedia.org/resource/Elizabeth_George_Speare	7.11936
+1	http://dbpedia.org/resource/Elizabeth_G._Speare	6.64381
+1	http://dbpedia.org/resource/Elizabeth_Speare	6.64381

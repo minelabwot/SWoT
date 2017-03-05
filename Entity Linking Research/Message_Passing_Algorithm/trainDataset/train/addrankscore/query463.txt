@@ -1,0 +1,7 @@
+Austen Chamberlain
+5	http://dbpedia.org/resource/Austen_Chamberlain	8.34458
+1	http://dbpedia.org/resource/Joseph_Austen_Chamberlain	6.64381
+1	http://dbpedia.org/resource/Sir_Austen_Chamberlain	6.64381
+1	http://dbpedia.org/resource/Sir_Joseph_Austen_Chamberlain	6.64381
+1	http://dbpedia.org/resource/Sir_Joseph_Austen_Chamberlain_KG	6.64381
+1	http://dbpedia.org/resource/Sir_Joseph_Austen_Chamberlain,_KG	6.64381

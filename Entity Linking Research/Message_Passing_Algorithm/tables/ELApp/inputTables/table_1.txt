@@ -1,0 +1,29 @@
+27	5
+sensorType	unit	owner	location	Observation Measurement
+Camera	frame	COWI	Aarhus,Denmark	Vehicle Traffic
+GPS	degree	COWI	Aarhus,Denmark	Vehicle Traffic
+Dew Point	degree celsius	CCSR,Surrey,UK	Aarhus, Denmark	Weather Data
+Humidity	percentage	CCSR,Surrey,UK	Aarhus, Denmark	Weather Data
+Pressure	mBar	CCSR,Surrey,UK	Aarhus, Denmark	Weather Data
+Wind direction	degrees	Surrey,UK	Aarhus	Weather Data
+Wind speed	kph	CCSR,UK	Aarhus, Denmark	Weather Data
+Electricity Meter	KWH	EIA,US	USA	Energy Consumption
+Parking Sensor	None	CCSR,Surrey,UK	Skolebakken,Aarhus	Parking lot and Transportation
+carbon_monoxide	percentage(ppm)	CCSR,Surrey,UK	Aarhus, Denmark	Air Pollution
+nitrogen_dioxide	percentage	CCSR	Univsersity of Surrey,UK	Air Quality Index
+sulfur_dioxide	percentage	CCSR	Surrey	Air Pollution
+particulate_matter	None	CCSR,Surrey,UK	Aarhus, Denmark	Air Pollution
+ozone index	None	CCSR,Surrey,UK	Aarhus, Denmark	Air Pollution
+Humidity	percentage in atmosphere	Ericsson	Kista	environmental measurements in a meeting room
+Oxygen concentration	percentage in atmosphere	Ericsson	Stockholm	environmental measurements in a meeting room
+Presence	boolean	Ericsson	Stockholm	environmental measurements in a meeting room
+Carbon Dioxide	parts per million (ppm)	Ericsson	Kista	environmental measurements in a meeting room
+Arduino DHT	degree	MINE lab	Beijing University of Posts and Telecommunications	Indoor Weather Station
+Solar Heating	None	Thingspeak	Morpeth,UK	Solar Controller
+Arduino esp8266	Celsius	Thingspeak	Csorna	Solar Collector and Boiler
+GPS Positioning	none	BMW	NH,USA	Vehicle Location
+anemometer	ms	Thingspeak	Madrid	Wind Speed
+Fridge	Degrees Celsius	Thingspeak	Brattberg,Los,Sweden	Fridge temperature
+Compressor	boolean	Thingspeak	Brattberg,Los,Sweden	Fridge availability
+Arduino Motor	boolean	Thingspeak	United States	Pump Controller
+temperature	Celsius	CEH,UK	Llyn Conwy	In-lake temperature environment

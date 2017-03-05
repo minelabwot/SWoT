@@ -1,0 +1,5 @@
+Vitus Bering
+1	http://dbpedia.org/resource/Vitus_Jonassen_Bering	6.64381
+1	http://dbpedia.org/resource/HDMS_Vitus_Bering	6.64381
+5	http://dbpedia.org/resource/Vitus_Bering	4.81996
+1	http://dbpedia.org/resource/Vitus_Bering_(icebreaker)	4.00032

@@ -1,0 +1,11 @@
+origin
+1	http://dbpedia.org/resource/Nuffield_College
+5	http://dbpedia.org/resource/Nuffield_College,_Oxford
+1	http://dbpedia.org/resource/Category:Fellows_of_Nuffield_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_Nuffield_College,_Oxford
+1	http://dbpedia.org/resource/Category:Nuffield_College,_Oxford
+1	http://dbpedia.org/resource/Warden_of_Nuffield_College,_Oxford
+1	http://dbpedia.org/resource/Buildings_of_Nuffield_College
+1	http://dbpedia.org/resource/List_of_Nuffield_College_people
+1	http://dbpedia.org/resource/Buildings_of_Nuffield_College,_Oxford
+1	http://dbpedia.org/resource/Category:Wardens_of_Nuffield_College,_Oxford

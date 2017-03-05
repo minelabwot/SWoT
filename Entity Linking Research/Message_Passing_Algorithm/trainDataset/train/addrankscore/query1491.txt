@@ -1,0 +1,4 @@
+The Hidden Staircase
+1	http://dbpedia.org/resource/Nancy_Drew_and_the_Hidden_Staircase	6.64381
+1	http://dbpedia.org/resource/Nancy_Drew_and_the_Hidden_Staircase_(film)	6.64381
+5	http://dbpedia.org/resource/The_Hidden_Staircase	4.74904

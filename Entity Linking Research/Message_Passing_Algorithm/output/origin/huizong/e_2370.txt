@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/Harris_Manchester_College,_Oxford
+http://dbpedia.org/resource/Category:Alumni_of_Harris_Manchester_College,_Oxford
+http://dbpedia.org/resource/Category:Harris_Manchester_College,_Oxford
+http://dbpedia.org/resource/Category:Principals_of_Harris_Manchester_College,_Oxford
+http://dbpedia.org/resource/Harris_Manchester_College
+http://dbpedia.org/resource/Category:Fellows_of_Harris_Manchester_College,_Oxford

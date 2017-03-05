@@ -1,0 +1,5 @@
+Ann Clark
+1	http://dbpedia.org/resource/Ann_Clark	6.64381
+1	http://dbpedia.org/resource/Ann_N._Clark	6.64381
+1	http://dbpedia.org/resource/Lesley_Ann_Clark	6.64381
+5	http://dbpedia.org/resource/Ann_Nolan_Clark	4.74904

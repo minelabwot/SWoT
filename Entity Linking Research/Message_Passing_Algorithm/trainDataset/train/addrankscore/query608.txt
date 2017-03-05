@@ -1,0 +1,13 @@
+Lata Mangeshkar
+5	http://dbpedia.org/resource/Lata_Mangeshkar	9.36913
+1	http://dbpedia.org/resource/Category:Lata_Mangeshkar_songs	7.11936
+1	http://dbpedia.org/resource/Mangeshkar,_Lata	6.64381
+1	http://dbpedia.org/resource/Awards_conferred_on_lata_mangeshkar	6.64381
+1	http://dbpedia.org/resource/Awards_conferred_on_Lata_Mangeshkar	6.64381
+1	http://dbpedia.org/resource/List_of_awards_conferred_on_Lata_Mangeshkar	6.64381
+1	http://dbpedia.org/resource/List_of_Lata_Mangeshkar_awards_and_nominations	6.64381
+1	http://dbpedia.org/resource/List_of_Lata_Mangeshkar_awards	6.64381
+1	http://dbpedia.org/resource/List_of_songs_by_Lata_Mangeshkar	6.64381
+1	http://dbpedia.org/resource/Lata_Mangeshkar_Award_for_Lifetime_Achievement	6.64381
+1	http://dbpedia.org/resource/List_of_awards_received_by_Lata_Mangeshkar	4.74933
+1	http://dbpedia.org/resource/Lata_Mangeshkar_Award	4.00032

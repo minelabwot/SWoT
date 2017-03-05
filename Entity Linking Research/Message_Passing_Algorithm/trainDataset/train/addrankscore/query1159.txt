@@ -1,0 +1,3 @@
+William Pene Du Bois
+1	http://dbpedia.org/resource/William_Pene_Du_Bois	6.64381
+1	http://dbpedia.org/resource/William_Pene_du_Bois	6.64381

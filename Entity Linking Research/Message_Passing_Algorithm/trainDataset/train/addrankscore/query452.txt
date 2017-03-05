@@ -1,0 +1,9 @@
+Tiesa
+1	http://dbpedia.org/resource/Torrecillas_de_la_Tiesa,_Spain	6.64381
+1	http://dbpedia.org/resource/Torrecillas_de_la_Tiesa,_Caceres	6.64381
+1	http://dbpedia.org/resource/Kauno_Tiesa	6.64381
+1	http://dbpedia.org/resource/Tiesa_(disambiguation)	6.64381
+5	http://dbpedia.org/resource/Torrecillas_de_la_Tiesa	4.6884
+1	http://dbpedia.org/resource/Torrecillas_de_la_Tiesa,_Cáceres	4.00032
+1	http://dbpedia.org/resource/Tiesa	4.00032
+1	http://dbpedia.org/resource/Tiesa_(New_York)	4.00032

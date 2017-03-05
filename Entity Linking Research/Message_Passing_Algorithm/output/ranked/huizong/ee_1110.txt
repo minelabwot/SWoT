@@ -1,0 +1,3 @@
+origin
+5	http://dbpedia.org/resource/Lynd_Ward
+1	http://dbpedia.org/resource/Category:Wordless_novels_by_Lynd_Ward

@@ -1,0 +1,3 @@
+Prithviraj Kapoor
+5	http://dbpedia.org/resource/Prithviraj_Kapoor	8.87058
+1	http://dbpedia.org/resource/Ranbir_Raj_Prithviraj_Kapoor	6.64381

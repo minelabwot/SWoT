@@ -1,0 +1,8 @@
+Alan Hodgkin
+5	http://dbpedia.org/resource/Alan_Lloyd_Hodgkin	7.19812
+1	http://dbpedia.org/resource/Sir_Alan_Lloyd_Hodgkin	6.64381
+1	http://dbpedia.org/resource/Alan_Hodgkin	6.64381
+1	http://dbpedia.org/resource/Sir_Alan_Hodgkin	6.64381
+1	http://dbpedia.org/resource/Alan_L._Hodgkin	6.64381
+1	http://dbpedia.org/resource/Alan_Loyd_Hodgkin	6.64381
+1	http://dbpedia.org/resource/Jonathan_Alan_Hodgkin	6.64381

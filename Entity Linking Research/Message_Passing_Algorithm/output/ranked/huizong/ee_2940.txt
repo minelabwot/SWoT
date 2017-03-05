@@ -1,0 +1,4 @@
+origin
+1	http://dbpedia.org/resource/Animals_of_the_bible
+1	http://dbpedia.org/resource/List_of_animals_in_the_bible
+1	http://dbpedia.org/resource/List_of_the_animals_in_the_Bible

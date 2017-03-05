@@ -1,0 +1,4 @@
+Stackpole Michael A.
+5	http://dbpedia.org/resource/Michael_A._Stackpole	8.44089
+1	http://dbpedia.org/resource/Conan_the_Barbarian_(Michael_A._Stackpole_novel)	6.64381
+1	http://dbpedia.org/resource/Category:Novels_by_Michael_A._Stackpole	4.00032

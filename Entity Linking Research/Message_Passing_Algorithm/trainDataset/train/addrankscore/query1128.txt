@@ -1,0 +1,3 @@
+Marguerite De Angeli
+1	http://dbpedia.org/resource/Marguerite_De_Angeli	6.64381
+5	http://dbpedia.org/resource/Marguerite_de_Angeli	4.8598

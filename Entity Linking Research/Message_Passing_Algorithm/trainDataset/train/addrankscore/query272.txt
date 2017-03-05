@@ -1,0 +1,3 @@
+Red Deer College
+1	http://dbpedia.org/resource/Red_deer_college	6.64381
+5	http://dbpedia.org/resource/Red_Deer_College	4.74904

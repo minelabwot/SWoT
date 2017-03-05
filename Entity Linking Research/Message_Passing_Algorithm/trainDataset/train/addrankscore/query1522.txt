@@ -1,0 +1,4 @@
+Sir Frederick Hopkins
+1	http://dbpedia.org/resource/Sir_Frederick_Gowland_Hopkins	6.64381
+1	http://dbpedia.org/resource/Sir_Frederick_Hopkins	6.64381
+1	http://dbpedia.org/resource/Hopkins,_Sir_Frederick_Gowland	6.64381

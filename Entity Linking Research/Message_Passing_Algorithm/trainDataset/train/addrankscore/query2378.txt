@@ -1,0 +1,9 @@
+Lady Margaret Hall
+1	http://dbpedia.org/resource/Category:Alumni_of_Lady_Margaret_Hall,_Oxford	9.24513
+5	http://dbpedia.org/resource/Lady_Margaret_Hall,_Oxford	8.73197
+1	http://dbpedia.org/resource/Category:Fellows_of_Lady_Margaret_Hall,_Oxford	7.72599
+1	http://dbpedia.org/resource/Lady_Margaret_Hall	6.64381
+1	http://dbpedia.org/resource/Lady_Margaret_of_Branksome_Hall	6.64381
+1	http://dbpedia.org/resource/Category:Lady_Margaret_Hall,_Oxford	4.82016
+1	http://dbpedia.org/resource/Category:Principals_of_Lady_Margaret_Hall,_Oxford	4.59099
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Lady_Margaret_Hall,_Oxford	5.88129e-14

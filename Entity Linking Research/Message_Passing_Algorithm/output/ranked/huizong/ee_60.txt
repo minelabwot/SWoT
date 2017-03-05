@@ -1,0 +1,7 @@
+origin
+5	http://dbpedia.org/resource/Stockard_Channing
+1	http://dbpedia.org/resource/Stockard_Channing_awards
+1	http://dbpedia.org/resource/Stockard_Channing_filmography
+1	http://dbpedia.org/resource/The_Stockard_Channing_Show
+1	http://dbpedia.org/resource/Stockard_Channing_in_Just_Friends
+1	http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Stockard_Channing

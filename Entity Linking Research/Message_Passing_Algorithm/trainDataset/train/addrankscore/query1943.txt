@@ -1,0 +1,7 @@
+David Silverman
+1	http://dbpedia.org/resource/David_Silverman_(animator)	9.51567
+1	http://dbpedia.org/resource/David_Silverman_(sociologist)	6.64381
+1	http://dbpedia.org/resource/David_Silverman_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/David_Silverman_(activist)	4.74904
+1	http://dbpedia.org/resource/Category:Films_directed_by_David_Silverman	4.40991
+5	http://dbpedia.org/resource/David_Silverman	4.40991

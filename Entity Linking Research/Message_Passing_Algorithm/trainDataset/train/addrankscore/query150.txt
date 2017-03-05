@@ -1,0 +1,9 @@
+The Three Pigs
+1	http://dbpedia.org/resource/Category:Works_based_on_The_Three_Little_Pigs	7.27805
+1	http://dbpedia.org/resource/The_True_Story_of_the_Three_Little_Pigs	6.64381
+1	http://dbpedia.org/resource/Three_Little_Pigs_-_The_Remixes	6.64381
+1	http://dbpedia.org/resource/The_Three_Little_Pigs_(Shrek)	6.64381
+1	http://dbpedia.org/resource/The_Three_Little_Pigs_(film)	4.84221
+1	http://dbpedia.org/resource/The_Three_Little_Pigs	4.81996
+5	http://dbpedia.org/resource/The_Three_Pigs	4.6884
+1	http://dbpedia.org/resource/Three_Little_Pigs_–_The_Remixes	4.00032

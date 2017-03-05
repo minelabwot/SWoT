@@ -1,0 +1,7 @@
+Salvatore R. A.
+5	http://dbpedia.org/resource/R._A._Salvatore	9.21123
+1	http://dbpedia.org/resource/Category:Novels_by_R._A._Salvatore	8.62887
+1	http://dbpedia.org/resource/R_A_Salvatore	6.64381
+1	http://dbpedia.org/resource/List_of_characters_in_R._A._Salvatore's_Forgotten_Realms_Series	6.64381
+1	http://dbpedia.org/resource/Homeland_(R._A._Salvatore_novel)	6.64381
+1	http://dbpedia.org/resource/Transcendence_(R._A._Salvatore_novel)	4.6884

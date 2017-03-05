@@ -1,0 +1,3 @@
+origin
+5	http://dbpedia.org/resource/Ezra_Jack_Keats
+1	http://dbpedia.org/resource/Category:Books_by_Ezra_Jack_Keats

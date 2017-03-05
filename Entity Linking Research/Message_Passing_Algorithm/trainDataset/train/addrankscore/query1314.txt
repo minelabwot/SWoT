@@ -1,0 +1,13 @@
+The Sword in the Stone
+1	http://dbpedia.org/resource/The_Sword_in_the_Stone	7.07904
+5	http://dbpedia.org/resource/The_Sword_in_the_Stone_(film)	7.03916
+1	http://dbpedia.org/resource/The_Sword_in_The_Stone	6.64381
+1	http://dbpedia.org/resource/Sword_in_the_Stone	6.64381
+1	http://dbpedia.org/resource/The_Sword_In_the_Stone	6.64381
+1	http://dbpedia.org/resource/The_Sword_in_the_Stone_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Sword_in_the_stone	6.64381
+1	http://dbpedia.org/resource/The_sword_in_the_stone	6.64381
+1	http://dbpedia.org/resource/Sword_in_the_stone_(King_Arthur)	6.64381
+1	http://dbpedia.org/resource/Characters_in_Disney's_The_Sword_in_the_Stone	6.64381
+1	http://dbpedia.org/resource/The_Sword_In_The_Stone	6.64381
+1	http://dbpedia.org/resource/The_Sword_in_the_Stone_(1963_film)	6.64381

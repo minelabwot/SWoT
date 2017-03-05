@@ -1,0 +1,4 @@
+Hendrik van Loon
+5	http://dbpedia.org/resource/Hendrik_Willem_van_Loon	7.07857
+1	http://dbpedia.org/resource/Hendrik_Willem_Van_Loon	6.64381
+1	http://dbpedia.org/resource/Hendrik_van_Loon	6.64381

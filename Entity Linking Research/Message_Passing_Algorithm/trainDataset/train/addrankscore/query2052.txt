@@ -1,0 +1,4 @@
+Moira Kelly
+5	http://dbpedia.org/resource/Moira_Kelly	8.29706
+1	http://dbpedia.org/resource/Moira_Kelly,_AO	6.64381
+1	http://dbpedia.org/resource/Moira_Kelly_(humanitarian)	4.40991

@@ -1,0 +1,5 @@
+Adrien Marie Legendre
+1	http://dbpedia.org/resource/Adrien_Marie_Legendre	6.64381
+1	http://dbpedia.org/resource/Adrien-marie_legendre	6.64381
+1	http://dbpedia.org/resource/List_of_things_named_after_Adrien-Marie_Legendre	6.64381
+5	http://dbpedia.org/resource/Adrien-Marie_Legendre	4.84221

@@ -1,0 +1,10 @@
+Whimbrel
+5	http://dbpedia.org/resource/Whimbrel	7.07952
+1	http://dbpedia.org/resource/Common_Whimbrel	6.64381
+1	http://dbpedia.org/resource/Little_Whimbrel	6.64381
+1	http://dbpedia.org/resource/Eurasian_Whimbrel	6.64381
+1	http://dbpedia.org/resource/Hudsonian_Whimbrel	6.64381
+1	http://dbpedia.org/resource/Common_whimbrel	6.64381
+1	http://dbpedia.org/resource/Eurasian_whimbrel	6.64381
+1	http://dbpedia.org/resource/Hudsonian_whimbrel	6.64381
+1	http://dbpedia.org/resource/HMS_Whimbrel_(U29)	4.00032

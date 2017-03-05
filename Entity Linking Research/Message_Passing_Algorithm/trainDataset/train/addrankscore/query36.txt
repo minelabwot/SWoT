@@ -1,0 +1,15 @@
+Selwyn College
+1	http://dbpedia.org/resource/Category:Alumni_of_Selwyn_College,_Cambridge	9.37439
+5	http://dbpedia.org/resource/Selwyn_College,_Cambridge	8.60746
+1	http://dbpedia.org/resource/Category:Fellows_of_Selwyn_College,_Cambridge	7.89354
+1	http://dbpedia.org/resource/Category:Masters_of_Selwyn_College,_Cambridge	7.15963
+1	http://dbpedia.org/resource/Selwyn_College_JCRS	6.64381
+1	http://dbpedia.org/resource/Selwyn_college_cambridge	6.64381
+1	http://dbpedia.org/resource/Selwyn_College_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Selwyn_College_Preparatory_School	6.64381
+1	http://dbpedia.org/resource/Category:Selwyn_College,_Cambridge	4.82016
+1	http://dbpedia.org/resource/List_of_Masters_of_Selwyn_College,_Cambridge	4.81996
+1	http://dbpedia.org/resource/Selwyn_College,_Auckland	4.79041
+1	http://dbpedia.org/resource/Selwyn_College,_Otago	4.40991
+1	http://dbpedia.org/resource/Selwyn_College	4.00032
+1	http://dbpedia.org/resource/Selwyn_College_Boat_Club	4.00032

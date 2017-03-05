@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Category:Alumni_of_Somerville_College,_Oxford
+http://dbpedia.org/resource/Somerville_College,_Oxford
+http://dbpedia.org/resource/Category:Fellows_of_Somerville_College,_Oxford
+http://dbpedia.org/resource/Somerville_College
+http://dbpedia.org/resource/Somerville_Baptist_College
+http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Somerville_College,_Oxford
+http://dbpedia.org/resource/Category:Principals_of_Somerville_College,_Oxford
+http://dbpedia.org/resource/Category:Somerville_College,_Oxford

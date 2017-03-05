@@ -1,0 +1,6 @@
+Charles Augustin de Coulomb
+5	http://dbpedia.org/resource/Charles-Augustin_de_Coulomb	7.03872
+1	http://dbpedia.org/resource/Charles_Augustin_de_Coulomb	6.64381
+1	http://dbpedia.org/resource/Charles_Augustin_De_Coulomb	6.64381
+1	http://dbpedia.org/resource/Charles-Augustin_De_Coulomb	6.64381
+1	http://dbpedia.org/resource/Charles_Augustin_de_Coulomb's_Law	6.64381

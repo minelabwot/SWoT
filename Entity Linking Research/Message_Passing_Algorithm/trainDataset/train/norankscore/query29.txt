@@ -1,0 +1,21 @@
+Melbourne
+1	http://dbpedia.org/resource/Category:Bridges_in_Melbourne
+1	http://dbpedia.org/resource/Category:Buildings_and_structures_in_Melbourne
+1	http://dbpedia.org/resource/Category:Closed_Melbourne_railway_lines
+1	http://dbpedia.org/resource/Cycling_in_Melbourne
+1	http://dbpedia.org/resource/Category:Cycling_in_Melbourne
+1	http://dbpedia.org/resource/Category:Education_in_Melbourne
+1	http://dbpedia.org/resource/Education_in_Melbourne
+2	http://dbpedia.org/resource/Category:Geography_of_Melbourne
+2	http://dbpedia.org/resource/Geography_of_Melbourne
+1	http://dbpedia.org/resource/Category:Hospitals_in_Melbourne
+1	http://dbpedia.org/resource/Category:Mayors_and_Lord_Mayors_of_Melbourne
+1	http://dbpedia.org/resource/Category:Media_in_Melbourne
+1	http://dbpedia.org/resource/Media_in_Melbourne
+5	http://dbpedia.org/resource/Melbourne
+3	http://dbpedia.org/resource/Category:Melbourne
+1	http://dbpedia.org/resource/Category:Melbourne_Tigers_players
+1	http://dbpedia.org/resource/Category:Melbourne_culture
+1	http://dbpedia.org/resource/Category:Melbourne_rail_rollingstock
+1	http://dbpedia.org/resource/Category:Premium_Melbourne_railway_stations
+1	http://dbpedia.org/resource/Category:Sporting_clubs_in_Melbourne

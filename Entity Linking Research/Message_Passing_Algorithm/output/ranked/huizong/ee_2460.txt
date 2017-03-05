@@ -1,0 +1,13 @@
+origin
+1	http://dbpedia.org/resource/Mansfield_College
+5	http://dbpedia.org/resource/Mansfield_College,_Oxford
+1	http://dbpedia.org/resource/Category:Alumni_of_Mansfield_College,_Oxford
+1	http://dbpedia.org/resource/Mansfield_State_College
+1	http://dbpedia.org/resource/South_Mansfield_College
+1	http://dbpedia.org/resource/Mansfield_College_of_Art
+1	http://dbpedia.org/resource/Mansfield_College_of_Arts
+1	http://dbpedia.org/resource/Category:Fellows_of_Mansfield_College,_Oxford
+1	http://dbpedia.org/resource/Mansfield_College,_Oxford_University
+1	http://dbpedia.org/resource/Mansfield_College_of_Art_and_Design
+1	http://dbpedia.org/resource/Category:Mansfield_College,_Oxford
+1	http://dbpedia.org/resource/Mansfield_College_Boat_Club

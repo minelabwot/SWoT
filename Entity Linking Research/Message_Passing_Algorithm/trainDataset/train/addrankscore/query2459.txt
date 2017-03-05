@@ -1,0 +1,3 @@
+Lemon Of Troy
+1	http://dbpedia.org/resource/Lemon_of_Troy_(The_Simpsons)	6.64381
+5	http://dbpedia.org/resource/Lemon_of_Troy	4.40991

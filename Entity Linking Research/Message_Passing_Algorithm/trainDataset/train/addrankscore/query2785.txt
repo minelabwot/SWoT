@@ -1,0 +1,7 @@
+Charlie Young
+1	http://dbpedia.org/resource/Charlie_Young_(actress)	7.92691
+1	http://dbpedia.org/resource/Charlie_Young_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Charlie_W._Young	6.64381
+5	http://dbpedia.org/resource/Charlie_Young	4.59048
+1	http://dbpedia.org/resource/Charlie_Young_(footballer)	4.40991
+1	http://dbpedia.org/resource/Charlie_Young_(baseball)	4.00032

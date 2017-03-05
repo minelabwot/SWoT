@@ -1,0 +1,20 @@
+Chicago
+3	http://dbpedia.org/resource/Category:Chicago
+5	http://dbpedia.org/resource/Chicago
+1	http://dbpedia.org/resource/Category:Chicago_American_Gears_players
+1	http://dbpedia.org/resource/Category:Chicago_Bears_players
+1	http://dbpedia.org/resource/Chicago_Bears_players
+1	http://dbpedia.org/resource/Category:Chicago_Blackhawks
+1	http://dbpedia.org/resource/Chicago_Blackhawks
+1	http://dbpedia.org/resource/Category:Chicago_Blackhawks_coaches
+1	http://dbpedia.org/resource/Category:Chicago_Blackhawks_players
+1	http://dbpedia.org/resource/Category:Chicago_Bulls_players
+1	http://dbpedia.org/resource/Category:Chicago_Cardinals_players
+1	http://dbpedia.org/resource/Category:Chicago_Colts_players
+1	http://dbpedia.org/resource/Category:Chicago_Cubs
+1	http://dbpedia.org/resource/Chicago_Cubs
+1	http://dbpedia.org/resource/Chicago_Outfit
+1	http://dbpedia.org/resource/Category:Chicago_Outfit
+1	http://dbpedia.org/resource/Category:Chicago_Pirates_players
+1	http://dbpedia.org/resource/Category:Chicago_Stags_players
+1	http://dbpedia.org/resource/Chicago_Transit_Authority

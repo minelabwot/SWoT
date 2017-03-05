@@ -1,0 +1,8 @@
+origin
+5	http://dbpedia.org/resource/Lakehead_University
+1	http://dbpedia.org/resource/Category:Lakehead_University_alumni
+1	http://dbpedia.org/resource/Category:Lakehead_University
+1	http://dbpedia.org/resource/Faculty_of_Law,_Lakehead_University
+1	http://dbpedia.org/resource/Faculty_of_Medicine_-_Lakehead_University
+1	http://dbpedia.org/resource/Category:Lakehead_University_faculty
+1	http://dbpedia.org/resource/Lakehead_University_Faculty_of_Law

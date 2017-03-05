@@ -1,0 +1,13 @@
+Fear of Flying
+1	http://dbpedia.org/resource/Fear_of_flying	7.23786
+1	http://dbpedia.org/resource/Fear_of_Flying	6.64381
+1	http://dbpedia.org/resource/Fear_of_Flying_(Simpsons)	6.64381
+1	http://dbpedia.org/resource/Fear_Of_Flying	6.64381
+1	http://dbpedia.org/resource/Fear_of_flying_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Fear_of_Flying_(The_Simpsons_Episode)	6.64381
+1	http://dbpedia.org/resource/Fear_of_Flying_(The_Simpsons_episode)	6.64381
+1	http://dbpedia.org/resource/Fear_of_flying_(book)	6.64381
+1	http://dbpedia.org/resource/Turbulence_2:_Fear_of_Flying	6.64381
+1	http://dbpedia.org/resource/Fear_of_Flying_(album)	4.8598
+5	http://dbpedia.org/resource/Fear_of_Flying_(The_Simpsons)	4.79041
+1	http://dbpedia.org/resource/Fear_of_Flying_(novel)	4.6884

@@ -1,0 +1,11 @@
+Kellogg College
+1	http://dbpedia.org/resource/Category:Fellows_of_Kellogg_College,_Oxford	7.23849
+1	http://dbpedia.org/resource/Category:Kellogg_College,_Oxford	7.07952
+1	http://dbpedia.org/resource/Kellogg_College	6.64381
+1	http://dbpedia.org/resource/Kellogg_college	6.64381
+1	http://dbpedia.org/resource/Kellogg_college_oxford	6.64381
+1	http://dbpedia.org/resource/Category:Alumni_of_Kellogg_College,_Oxford	4.79041
+5	http://dbpedia.org/resource/Kellogg_College,_Oxford	4.79041
+1	http://dbpedia.org/resource/Kellogg_Community_College	4.6884
+1	http://dbpedia.org/resource/Category:Presidents_of_Kellogg_College,_Oxford	4.00032
+1	http://dbpedia.org/resource/Category:Kellogg_College	5.88129e-14

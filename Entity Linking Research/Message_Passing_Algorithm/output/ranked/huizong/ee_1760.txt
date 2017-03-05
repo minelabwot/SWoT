@@ -1,0 +1,21 @@
+origin
+5	http://dbpedia.org/resource/Windows_2000
+1	http://dbpedia.org/resource/MS_Windows_2000
+1	http://dbpedia.org/resource/Windows_2000_server
+1	http://dbpedia.org/resource/Windows_Server_2000
+1	http://dbpedia.org/resource/Windows_2000_builds
+1	http://dbpedia.org/resource/Windows_2000_security
+1	http://dbpedia.org/resource/Windows_2000_editions
+1	http://dbpedia.org/resource/Microsoft_Windows_2000
+1	http://dbpedia.org/resource/Windows_95/98/ME/NT/2000
+1	http://dbpedia.org/resource/Windows_95/98/NT/2000
+1	http://dbpedia.org/resource/Windows_2000_Professional
+1	http://dbpedia.org/resource/Windows_2000_source_leak
+1	http://dbpedia.org/resource/Windows_2000_Advanced_Server
+1	http://dbpedia.org/resource/Architecture_of_Windows_2000
+1	http://dbpedia.org/resource/Microsoft_Windows_2000_Server
+1	http://dbpedia.org/resource/Windows_2000_Datacenter_Server
+1	http://dbpedia.org/resource/Category:Windows_2000
+1	http://dbpedia.org/resource/Windows_95/98/ME/NT/2000/XP
+1	http://dbpedia.org/resource/Windows_95/98/NT/2000/XP
+1	http://dbpedia.org/resource/Category:Screenshots_of_Windows_2000

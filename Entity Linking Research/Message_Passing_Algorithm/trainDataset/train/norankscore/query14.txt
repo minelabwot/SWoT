@@ -1,0 +1,21 @@
+Surrey
+1	http://dbpedia.org/resource/Category:Buildings_and_structures_in_Surrey
+1	http://dbpedia.org/resource/Category:Education_in_Surrey
+1	http://dbpedia.org/resource/Category:History_of_Surrey
+1	http://dbpedia.org/resource/History_of_Surrey
+1	http://dbpedia.org/resource/Category:Local_government_in_Surrey
+1	http://dbpedia.org/resource/Category:Schools_in_Surrey
+1	http://dbpedia.org/resource/Category:Sport_in_Surrey
+5	http://dbpedia.org/resource/Surrey
+3	http://dbpedia.org/resource/Category:Surrey
+1	http://dbpedia.org/resource/Category:Surrey_cricketers
+1	http://dbpedia.org/resource/Category:Wikipedians_in_Surrey
+1	http://dbpedia.org/resource/Category:Environment_of_Surrey
+1	http://dbpedia.org/resource/Category:Geography_of_Surrey
+1	http://dbpedia.org/resource/Category:Hills_of_Surrey
+1	http://dbpedia.org/resource/Category:Companies_based_in_Surrey
+1	http://dbpedia.org/resource/Category:Earls_of_Surrey
+1	http://dbpedia.org/resource/Earls_of_Surrey
+1	http://dbpedia.org/resource/Category:People_from_Surrey,_British_Columbia
+1	http://dbpedia.org/resource/Category:Surrey_monarchs
+1	http://dbpedia.org/resource/University_of_Surrey

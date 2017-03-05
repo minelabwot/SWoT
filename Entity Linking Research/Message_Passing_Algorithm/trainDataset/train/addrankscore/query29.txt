@@ -1,0 +1,16 @@
+Magdalene College
+1	http://dbpedia.org/resource/Category:Alumni_of_Magdalene_College,_Cambridge	9.8775
+5	http://dbpedia.org/resource/Magdalene_College,_Cambridge	9.34852
+1	http://dbpedia.org/resource/Category:Fellows_of_Magdalene_College,_Cambridge	8.73313
+1	http://dbpedia.org/resource/Category:Masters_of_Magdalene_College,_Cambridge	7.54597
+1	http://dbpedia.org/resource/List_of_Masters_of_Magdalene_College,_Cambridge	7.47022
+1	http://dbpedia.org/resource/Magdalene_College	6.64381
+1	http://dbpedia.org/resource/St_Mary_Magdalene_College,_Cambridge	6.64381
+1	http://dbpedia.org/resource/Magdalene_College,_Oxford	6.64381
+1	http://dbpedia.org/resource/Master_of_Magdalene_College,_Cambridge	6.64381
+1	http://dbpedia.org/resource/Master_of_Magdalene_College	6.64381
+1	http://dbpedia.org/resource/Category:Magdalene_College,_Cambridge	4.81996
+1	http://dbpedia.org/resource/John_Palmer_(Master_of_Magdalene_College)	4.6884
+1	http://dbpedia.org/resource/Walter_Hamilton_(Master_of_Magdalene_College)	4.59048
+1	http://dbpedia.org/resource/Thomas_Chapman_(Master_of_Magdalene_College)	4.40991
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Magdalene_College,_Cambridge	5.88129e-14

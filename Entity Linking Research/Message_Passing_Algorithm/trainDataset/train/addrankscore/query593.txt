@@ -1,0 +1,4 @@
+Devika Rani
+5	http://dbpedia.org/resource/Devika_Rani	7.68992
+1	http://dbpedia.org/resource/Devika_Rani_Roerich	6.64381
+1	http://dbpedia.org/resource/Devika_Rani_Chaudhuri_Roerich	6.64381

@@ -1,0 +1,5 @@
+Many Moons
+1	http://dbpedia.org/resource/Many_Moons_(Song)	6.64381
+1	http://dbpedia.org/resource/How_Many_Moons	6.64381
+1	http://dbpedia.org/resource/Many_Moons_(song)	4.59048
+5	http://dbpedia.org/resource/Many_Moons	4.40991

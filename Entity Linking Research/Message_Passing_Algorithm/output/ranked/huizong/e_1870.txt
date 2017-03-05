@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/Nipissing_University
+http://dbpedia.org/resource/Nipissing_University_Student_Union
+http://dbpedia.org/resource/Category:Nipissing_University
+http://dbpedia.org/resource/Category:Nipissing_University_alumni
+http://dbpedia.org/resource/Category:Nipissing_University_faculty
+http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Nipissing_University

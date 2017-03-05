@@ -1,0 +1,9 @@
+Michael Kamen
+5	http://dbpedia.org/resource/Michael_Kamen	9.67002
+1	http://dbpedia.org/resource/Category:Film_scores_by_Michael_Kamen	8.37263
+1	http://dbpedia.org/resource/Category:Michael_Kamen_albums	6.64381
+1	http://dbpedia.org/resource/Michael_Arnold_Kamen	6.64381
+1	http://dbpedia.org/resource/Michael_kamen	6.64381
+1	http://dbpedia.org/resource/Category:Songs_written_by_Michael_Kamen	4.82016
+1	http://dbpedia.org/resource/Category:Albums_produced_by_Michael_Kamen	4.59099
+1	http://dbpedia.org/resource/Category:Works_by_Michael_Kamen	4.59099

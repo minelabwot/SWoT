@@ -1,0 +1,12 @@
+Kristin Chenoweth
+5	http://dbpedia.org/resource/Kristin_Chenoweth	9.3107
+1	http://dbpedia.org/resource/Category:Kristin_Chenoweth_songs	6.64381
+1	http://dbpedia.org/resource/Let_Yourself_Go_(Kristin_Chenoweth_album)	6.64381
+1	http://dbpedia.org/resource/Coming_Home_(Kristin_Chenoweth)	6.64381
+1	http://dbpedia.org/resource/Kristin_Chenoweth_discography	6.64381
+1	http://dbpedia.org/resource/Kristin_Chenoweth_In_Concert	6.64381
+1	http://dbpedia.org/resource/Kristin_Chenoweth_Credits	6.64381
+1	http://dbpedia.org/resource/Category:Kristin_Chenoweth_albums	4.68878
+1	http://dbpedia.org/resource/As_I_Am_(Kristin_Chenoweth_album)	4.6884
+1	http://dbpedia.org/resource/Coming_Home_(Kristin_Chenoweth_album)	4.00032
+1	http://dbpedia.org/resource/Kristin_Chenoweth_credits	4.00032

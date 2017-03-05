@@ -1,0 +1,18 @@
+origin
+5	http://dbpedia.org/resource/Carleton_University
+1	http://dbpedia.org/resource/Category:Carleton_University_alumni
+1	http://dbpedia.org/resource/Category:Carleton_University_faculty
+1	http://dbpedia.org/resource/Category:Carleton_University
+1	http://dbpedia.org/resource/Carleton_University_Press
+1	http://dbpedia.org/resource/Carleton_University_alumni
+1	http://dbpedia.org/resource/List_of_Carleton_University
+1	http://dbpedia.org/resource/Category:Presidents_of_Carleton_University
+1	http://dbpedia.org/resource/List_of_Carleton_University_alumni
+1	http://dbpedia.org/resource/Carleton_University_Debating_Society
+1	http://dbpedia.org/resource/Student_life_at_Carleton_University
+1	http://dbpedia.org/resource/Building_projects_of_Carleton_University
+1	http://dbpedia.org/resource/Carleton_University's_School_of_Public_Policy_and_Administration
+1	http://dbpedia.org/resource/List_of_Carleton_University_people
+1	http://dbpedia.org/resource/Category:Chancellors_of_Carleton_University
+1	http://dbpedia.org/resource/Carleton_University_Students'_Association
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Carleton_University

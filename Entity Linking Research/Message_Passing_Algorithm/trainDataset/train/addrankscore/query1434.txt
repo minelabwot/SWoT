@@ -1,0 +1,4 @@
+Jerry Spinelli
+5	http://dbpedia.org/resource/Jerry_Spinelli	7.89354
+1	http://dbpedia.org/resource/Category:Novels_by_Jerry_Spinelli	7.15963
+1	http://dbpedia.org/resource/Eggs_Jerry_Spinelli	6.64381

@@ -1,0 +1,7 @@
+William Lyon Mackenzie King
+5	http://dbpedia.org/resource/William_Lyon_Mackenzie_King	9.48048
+1	http://dbpedia.org/resource/Category:William_Lyon_Mackenzie_King	7.0396
+1	http://dbpedia.org/resource/William_Lyon_MacKenzie_King	6.64381
+1	http://dbpedia.org/resource/William_Lyon_Mackenzie-King	6.64381
+1	http://dbpedia.org/resource/William_Lyon_Mackenzie_King_Village	6.64381
+1	http://dbpedia.org/resource/William_lyon_mackenzie_king_village	6.64381

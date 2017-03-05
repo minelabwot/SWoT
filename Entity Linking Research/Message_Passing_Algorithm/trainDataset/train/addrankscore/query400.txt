@@ -1,0 +1,5 @@
+Elizabeth Lewis
+1	http://dbpedia.org/resource/Elizabeth_Lewis_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Lewis,_Elizabeth	6.64381
+1	http://dbpedia.org/resource/Elizabeth_Lewis	4.59048
+5	http://dbpedia.org/resource/Elizabeth_Foreman_Lewis	4.40991

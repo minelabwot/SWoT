@@ -1,0 +1,8 @@
+Dew Point
+5	http://dbpedia.org/resource/Dew_point
+5	http://dbpedia.org/resource/Dew_Point
+5	http://dbpedia.org/resource/Dew_point_temperature
+1	http://dbpedia.org/resource/Dew_point_line
+3	http://dbpedia.org/resource/Dew_point_factor
+1	http://dbpedia.org/resource/Hydrocarbon_dew_point
+3	http://dbpedia.org/resource/Dew_point_depression

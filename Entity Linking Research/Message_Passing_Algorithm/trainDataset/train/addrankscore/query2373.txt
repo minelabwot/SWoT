@@ -1,0 +1,7 @@
+Harris Manchester College
+5	http://dbpedia.org/resource/Harris_Manchester_College,_Oxford	7.57936
+1	http://dbpedia.org/resource/Category:Alumni_of_Harris_Manchester_College,_Oxford	7.47105
+1	http://dbpedia.org/resource/Category:Harris_Manchester_College,_Oxford	7.23786
+1	http://dbpedia.org/resource/Category:Principals_of_Harris_Manchester_College,_Oxford	6.64381
+1	http://dbpedia.org/resource/Harris_Manchester_College	6.64381
+1	http://dbpedia.org/resource/Category:Fellows_of_Harris_Manchester_College,_Oxford	4.85996

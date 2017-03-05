@@ -1,0 +1,4 @@
+http://dbpedia.org/resource/Alan_Alda
+http://dbpedia.org/resource/Alda,_Alan
+http://dbpedia.org/resource/Category:Films_directed_by_Alan_Alda
+http://dbpedia.org/resource/Alan_Alda_Center_for_Communicating_Science

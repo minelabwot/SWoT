@@ -1,0 +1,13 @@
+Oriel College
+1	http://dbpedia.org/resource/Category:Alumni_of_Oriel_College,_Oxford	9.89259
+5	http://dbpedia.org/resource/Oriel_College,_Oxford	9.57294
+1	http://dbpedia.org/resource/Category:Fellows_of_Oriel_College,_Oxford	9.26633
+1	http://dbpedia.org/resource/Category:Oriel_College,_Oxford	7.47022
+1	http://dbpedia.org/resource/Category:Provosts_of_Oriel_College,_Oxford	7.31705
+1	http://dbpedia.org/resource/Oriel_College	6.64381
+1	http://dbpedia.org/resource/The_House_of_Blessed_Mary_the_Virgin_in_Oxford_commonly_called_Oriel_College,_of_the_Foundation_of_Edward_the_Second_of_famous_memory,_sometime_King_of_England	6.64381
+1	http://dbpedia.org/resource/Oriel_college	6.64381
+1	http://dbpedia.org/resource/Oriel_Specialist_Maths_and_Computing_College	6.64381
+1	http://dbpedia.org/resource/Oriel_College,_Oxford_University	6.64381
+1	http://dbpedia.org/resource/List_of_Oriel_College_people	4.40991
+1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Oriel_College,_Oxford	5.88129e-14

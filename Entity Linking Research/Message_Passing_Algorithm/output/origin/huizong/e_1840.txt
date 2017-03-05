@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Laurentian_University
+http://dbpedia.org/resource/Category:Laurentian_University_alumni
+http://dbpedia.org/resource/Category:Laurentian_University_faculty
+http://dbpedia.org/resource/Category:Laurentian_University
+http://dbpedia.org/resource/Laurentian_University_Museum_and_Arts_Centre
+http://dbpedia.org/resource/Category:Presidents_of_Laurentian_University
+http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Laurentian_University

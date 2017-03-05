@@ -1,0 +1,83 @@
+Hendrik_Willem_van_Loon	The_Story_of_Mankind	
+Hugh_Lofting	The_Voyages_of_Doctor_Dolittle	
+Charles_Hawes	The_Dark_Frigate	
+Charles_Finger	Tales_from_Silver_Lands	
+Arthur_Bowie_Chrisman	Shen_of_the_Sea	
+Will_James	Smoky_the_Cow_Horse	
+Dhan_Gopal_Mukerji	Gay_Neck,_the_Story_of_a_Pigeon	
+Eric_P._Kelly	The_Trumpeter_of_Krakow	
+Rachel_Field	Hitty,_Her_First_Hundred_Years	
+Elizabeth_Coatsworth	The_Cat_Who_Went_to_Heaven	
+Laura_Adams_Armer	Waterless_Mountain	
+Elizabeth_Foreman_Lewis	Young_Fu_of_the_Upper_Yangtze	
+Cornelia_Meigs	Invincible_Louisa	
+Monica_Shannon	Dobry	
+Carol_Ryrie_Brink	Caddie_Woodlawn	
+Ruth_Sawyer	NULL	
+Kate_Seredy	The_White_Stag	
+Elizabeth_Enright	Thimble_Summer	
+James_Daugherty	Daniel_Boone	
+Armstrong_Sperry	Call_It_Courage	
+Walter_D._Edmonds	The_Matchlock_Gun	
+Elizabeth_Gray_Vining	Adam_of_the_Road	
+Esther_Forbes	Johnny_Tremain	
+Robert_Lawson_(author)	Rabbit_Hill	
+Lois_Lenski	Strawberry_Girl	
+Carolyn_Sherwin_Bailey	Miss_Hickory	
+William_Pène_du_Bois	The_Twenty-One_Balloons	
+Marguerite_Henry	King_of_the_Wind	
+Marguerite_de_Angeli	The_Door_in_the_Wall	
+Elizabeth_Yates	Amos_Fortune,_Free_Man	
+Eleanor_Estes	Ginger_Pye	
+Ann_Nolan_Clark	Secret_of_the_Andes	
+Joseph_Krumgold	?And_Now_Miguel	
+Meindert_DeJong	The_Wheel_on_the_School	
+Jean_Lee_Latham	Carry_On,_Mr._Bowditch	
+Virginia_Sorenson	Miracles_on_Maple_Hill	
+Harold_Keith	Rifles_for_Watie	
+Elizabeth_George_Speare	The_Witch_of_Blackbird_Pond	
+Joseph_Krumgold	Onion_John	
+	Island_of_the_Blue_Dolphins	
+Elizabeth_George_Speare	The_Bronze_Bow	
+	A_Wrinkle_in_Time	
+Emily_Cheney_Neville		
+Maia_Wojciechowska	Shadow_of_a_Bull	
+Elizabeth_Borton_de_Treviño	I,_Juan_de_Pareja	
+Irene_Hunt	Up_a_Road_Slowly	
+E._L._Konigsburg	From_the_Mixed-Up_Files_of_Mrs._Basil_E._Frankweiler	
+Lloyd_Alexander	The_High_King	
+William_H._Armstrong	NULL	
+Betsy_Byars	Summer_of_the_Swans	
+		
+Jean_Craighead_George	Julie_of_the_Wolves	
+Paula_Fox	The_Slave_Dancer	
+Virginia_Hamilton	M._C._Higgins,_the_Great	
+Susan_Cooper	The_Grey_King	
+	Roll_of_Thunder,_Hear_My_Cry	
+Katherine_Paterson	Bridge_to_Terabithia_(novel)	
+Ellen_Raskin	The_Westing_Game	
+Joan_Blos		
+Katherine_Paterson	Jacob_Have_I_Loved	
+Nancy_Willard		
+Cynthia_Voigt		
+Beverly_Cleary	Dear_Mr._Henshaw	
+Robin_McKinley		
+Patricia_MacLachlan		
+Sid_Fleischman	The_Whipping_Boy	
+Russell_Freedman		
+Paul_Fleischman		
+Lois_Lowry	Number_the_Stars	
+Jerry_Spinelli	Maniac_Magee	
+Phyllis_Reynolds_Naylor	Shiloh_(novel)	
+Cynthia_Rylant	Missing_May	
+Lois_Lowry	The_Giver	
+Sharon_Creech	Walk_Two_Moons	
+Karen_Cushman		
+E._L._Konigsburg	The_View_from_Saturday	
+Karen_Hesse	Out_of_the_Dust	
+Louis_Sachar	Holes_(novel)	
+Christopher_Paul_Curtis	Bud,_Not_Buddy	
+Richard_Peck	A_Year_Down_Yonder	
+Linda_Sue_Park	A_Single_Shard	
+		
+Kate_DiCamillo	The_Tale_of_Despereaux	

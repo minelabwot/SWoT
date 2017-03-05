@@ -1,0 +1,3 @@
+Richard Schiff
+5	http://dbpedia.org/resource/Richard_Schiff	8.48466
+1	http://dbpedia.org/resource/USS_Bonhomme_Richard_(1765)	4.74933

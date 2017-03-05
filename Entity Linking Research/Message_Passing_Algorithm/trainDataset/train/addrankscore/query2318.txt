@@ -1,0 +1,6 @@
+Richard Synge
+1	http://dbpedia.org/resource/Richard_Synge	6.64381
+1	http://dbpedia.org/resource/Richard_Laurence_Synge	6.64381
+1	http://dbpedia.org/resource/Richard_Millington_Synge	6.64381
+1	http://dbpedia.org/resource/Richard_L.M._Synge	6.64381
+5	http://dbpedia.org/resource/Richard_Laurence_Millington_Synge	4.81996

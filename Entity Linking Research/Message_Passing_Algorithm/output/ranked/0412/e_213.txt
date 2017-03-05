@@ -1,0 +1,2 @@
+http://dbpedia.org/resource/Concord,_NH_USA
+http://dbpedia.org/resource/Laconia,_NH_USA

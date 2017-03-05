@@ -1,0 +1,4 @@
+Pyotr Kapitsa
+5	http://dbpedia.org/resource/Pyotr_Kapitsa	7.57936
+1	http://dbpedia.org/resource/Pyotr_Leonidovich_Kapitsa	6.64381
+1	http://dbpedia.org/resource/Pyotr_L._Kapitsa	6.64381

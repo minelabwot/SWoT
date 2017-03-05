@@ -1,0 +1,9 @@
+Gaspard Monge
+5	http://dbpedia.org/resource/Gaspard_Monge	7.35439
+1	http://dbpedia.org/resource/Gaspard_Monge's_mausoleum	6.64381
+1	http://dbpedia.org/resource/Gaspard,_Comte_de_Peluse_Monge	6.64381
+1	http://dbpedia.org/resource/Gaspard_monge	6.64381
+1	http://dbpedia.org/resource/Monge,_Gaspard,_Comte_de_Peluse	6.64381
+1	http://dbpedia.org/resource/Gaspard,_Comte_de_Péluse_Monge	4.00032
+1	http://dbpedia.org/resource/Monge,_Gaspard,_Comte_de_Péluse	4.00032
+1	http://dbpedia.org/resource/Institut_Gaspard_Monge	4.00032

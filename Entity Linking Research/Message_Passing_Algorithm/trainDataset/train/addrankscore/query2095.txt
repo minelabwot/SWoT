@@ -1,0 +1,15 @@
+Saint Brendan
+1	http://dbpedia.org/resource/Saint_Brendan_the_Navigator	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan_the_Navigator_Church	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan_of_Clonfert	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan's_College,_Bray	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan_High_School	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan's_Irish_Cream_Liqueur	6.64381
+1	http://dbpedia.org/resource/Saint_brendan's_grangegorman	6.64381
+1	http://dbpedia.org/resource/Saint_brendan's_hospital	6.64381
+1	http://dbpedia.org/resource/Saint_Brendan's_Island	4.81996
+1	http://dbpedia.org/resource/Saint_Brendan's	4.40991
+1	http://dbpedia.org/resource/Ardfert_Cathedral	4.00032
+1	http://dbpedia.org/resource/Saint_Brendan's_College	4.00032
+1	http://dbpedia.org/resource/Saint_Brendan’s_Isle	4.00032

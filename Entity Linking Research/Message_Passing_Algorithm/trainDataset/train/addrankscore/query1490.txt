@@ -1,0 +1,5 @@
+The Secret of the Old Clock
+1	http://dbpedia.org/resource/Secret_of_the_Old_Clock_(computer_game)	6.64381
+1	http://dbpedia.org/resource/Secret_of_the_Old_Clock_(video_game)	6.64381
+1	http://dbpedia.org/resource/Nancy_Drew:_Secret_of_the_Old_Clock	4.6884
+5	http://dbpedia.org/resource/The_Secret_of_the_Old_Clock	4.59048

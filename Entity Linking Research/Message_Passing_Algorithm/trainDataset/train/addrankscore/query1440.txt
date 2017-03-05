@@ -1,0 +1,4 @@
+Lois Lowry
+5	http://dbpedia.org/resource/Lois_Lowry	8.41775
+1	http://dbpedia.org/resource/Category:Novels_by_Lois_Lowry	7.61837
+1	http://dbpedia.org/resource/Category:Lois_Lowry_Giver_series	4.68878

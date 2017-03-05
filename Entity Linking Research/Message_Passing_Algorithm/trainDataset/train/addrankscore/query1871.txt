@@ -1,0 +1,3 @@
+Kate DiCamillo
+5	http://dbpedia.org/resource/Kate_DiCamillo	7.35513
+1	http://dbpedia.org/resource/Kate_Dicamillo	6.64381

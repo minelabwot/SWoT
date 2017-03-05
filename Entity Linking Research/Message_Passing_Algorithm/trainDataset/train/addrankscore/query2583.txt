@@ -1,0 +1,17 @@
+One Fine Day
+1	http://dbpedia.org/resource/One_Fine_Spring_Day	6.64381
+1	http://dbpedia.org/resource/One_fine_day-Music	6.64381
+1	http://dbpedia.org/resource/One_fine_day_in_the_middle_of_the_night	6.64381
+1	http://dbpedia.org/resource/One_Fine_Day!	6.64381
+1	http://dbpedia.org/resource/One_Fine_Day_(David_Byrne_and_Brian_Eno_song)	6.64381
+1	http://dbpedia.org/resource/One_Fine_Day_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/One_Fine_Day_(Katherine_Jenkins_album)	6.64381
+1	http://dbpedia.org/resource/One_Fine_Day_(song)	4.74933
+1	http://dbpedia.org/resource/One_Fine_Day_(album)	4.6884
+1	http://dbpedia.org/resource/One_Fine_Day_(film)	4.59099
+1	http://dbpedia.org/resource/One_Fine_Day_in_the_Middle_of_the_Night	4.59048
+1	http://dbpedia.org/resource/One_Fine_Day_(TV_series)	4.59048
+1	http://dbpedia.org/resource/One_Fine_Day_(IPTV_series)	4.59048
+1	http://dbpedia.org/resource/One_Fine_Day_(band)	4.40991
+1	http://dbpedia.org/resource/One_Fine_Day	4.00032
+5	http://dbpedia.org/resource/One_Fine_Day_(book)	4.00032

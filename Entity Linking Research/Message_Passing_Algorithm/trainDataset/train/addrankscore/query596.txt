@@ -1,0 +1,13 @@
+Sulochana
+1	http://dbpedia.org/resource/Sulochana_Brahaspati	6.64381
+1	http://dbpedia.org/resource/Sulochana_Gadgil	6.64381
+1	http://dbpedia.org/resource/Sati_Sulochana	6.64381
+1	http://dbpedia.org/resource/Sulochana_(Ramayana)	6.64381
+1	http://dbpedia.org/resource/Raja_Sulochana	6.64381
+1	http://dbpedia.org/resource/Sulochana_(disambiguation)	6.64381
+1	http://dbpedia.org/resource/Sulochana_Devi	6.64381
+1	http://dbpedia.org/resource/Sulochana_Latkar	4.81996
+1	http://dbpedia.org/resource/Yaddanapudi_Sulochana_Rani	4.74933
+5	http://dbpedia.org/resource/Ruby_Myers	4.40991
+1	http://dbpedia.org/resource/Sulochana	4.00032
+1	http://dbpedia.org/resource/Sulochana_Chavan	4.00032

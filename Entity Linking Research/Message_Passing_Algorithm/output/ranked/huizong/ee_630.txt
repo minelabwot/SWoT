@@ -1,0 +1,7 @@
+origin
+5	http://dbpedia.org/resource/Chris_Van_Allsburg
+1	http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_novel)
+1	http://dbpedia.org/resource/Category:Picture_books_by_Chris_Van_Allsburg
+1	http://dbpedia.org/resource/Category:Works_by_Chris_Van_Allsburg
+1	http://dbpedia.org/resource/The_Stranger_(Chris_Van_Allsburg_book)
+1	http://dbpedia.org/resource/Category:Novels_by_Chris_Van_Allsburg

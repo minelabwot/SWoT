@@ -1,0 +1,3 @@
+Grant MacEwan College
+1	http://dbpedia.org/resource/Grant_MacEwan_Community_College	6.64381
+5	http://dbpedia.org/resource/Grant_MacEwan_College	6.64381

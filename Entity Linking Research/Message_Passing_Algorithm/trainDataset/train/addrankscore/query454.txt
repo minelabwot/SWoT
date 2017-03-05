@@ -1,0 +1,3 @@
+Filipino Reporter
+5	http://dbpedia.org/resource/Filipino_Reporter_(newspaper)	6.64381
+1	http://dbpedia.org/resource/Filipino_Reporter	4.00032

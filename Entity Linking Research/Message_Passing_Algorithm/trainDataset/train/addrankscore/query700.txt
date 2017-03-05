@@ -1,0 +1,5 @@
+Elizabeth Gray
+1	http://dbpedia.org/resource/Elizabeth_Janet_Gray	6.64381
+1	http://dbpedia.org/resource/Elizabeth_Gray_(artist)	6.64381
+5	http://dbpedia.org/resource/Elizabeth_Gray_Vining	4.6884
+1	http://dbpedia.org/resource/Elizabeth_Gray	4.40991

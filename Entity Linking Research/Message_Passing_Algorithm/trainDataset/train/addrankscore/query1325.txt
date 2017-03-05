@@ -1,0 +1,2 @@
+Smoky the Cow Horse
+5	http://dbpedia.org/resource/Smoky_the_Cow_Horse	6.64381
