@@ -15,6 +15,91 @@ This application uses THREE methods to implement the data persistence:
 
 So, to run the application, you should first guarantee that your computer is equipped with Mysql and Neo4j and keep them alive before you run the app.If not, go to their official website to download proper version for your operation system.  
 <hr>
-About maven environmental settings, please Google of Baidu for yourself.
+About maven environmental settings, you can take the following links as reference:
+
+- for [Windows](http://jingyan.baidu.com/article/d8072ac45d3660ec94cefd51.html) 
+
+- for [Ubuntu](http://blog.csdn.net/scorpion_zs/article/details/53128489)
+
 <hr>
+
+About Tomcat settings within eclipse, you can look [link1](http://jingyan.baidu.com/article/ca2d939dd90183eb6d31ce79.html) or [link2](http://blog.csdn.net/yerenyuan_pku/article/details/51830104).
+
+<hr>
+
+To successfully run the application there are something you should pay attention to.
+
+- Right click the project -> properties -> Deployment Assembly. Please make sure that **Maven Dependencies** is in the list. If not, add it.
+
+- Sometimes the process of importing the maven project could be blocked because of the network issues. These two links are useful: 
+
+ * [Click me~](https://www.oschina.net/code/snippet_151849_49131)
+ * [The content is different from the one above. So, click me!](https://segmentfault.com/q/1010000008178782/a-1020000008178968)
+
+<hr>
+
+VERY IMPORTANT!
+
+VERY IMPORTANT!
+
+VERY IMPORTANT!
+
+THREE TIMES FOR IMPORTANT THINGS!
+
+Database and paths settings:
+
+1. your project -> src -> main -> webapp -> WEB-INF -> config -> jdbc.properties
+
+	Please modify the settings for your Mysql including port, username and password.
+
+2. Enter your Mysql and create a database named **sensor_annotation**:
+	>create database sensor_annotation;
+
+3. your project -> src -> main -> java -> com.yyn.service -> Neo4jConnector.java
+your project/src/main/java/com/yyn/util/RDF2NEO.java
+
+
+	Please modify the settings for your Neo4j including username and password in the above two files.
+
+4. Configure settings for your jena-TDB.
+
+
+	Find /sensor_annotation/src/main/java/com/yyn/service/StartupListener.java.
+
+	The 21st line : 
+	>Dataset dataset = RDFReasoning.getDataset(tdbRoot, "sensor_annotation", "Wot.owl");
+	
+	This is the input path. You can modify it according your needs. The actual path is 
+	>D:\eclipse\exercise\\.metadata\\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\sensor_annotation\WEB-INF\RDF_Database
+	
+	Find /sensor_annotation/src/main/java/com/yyn/util/RDFReasoning.java
+
+	The 101st line:
+	>String rdfRoot = "*******";
+	
+	This is the output path. You can modify it according your needs.
+
+5. A useful software: Protege
+
+	This is an ontolgy constructing tool which can operate on the *.owl files.
+
+	**[Download](http://protege.stanford.edu/download/protege/4.3/installanywhere/Web_Installers/)** 
+
+6. Example database back up:
+
+	- jena-TDB : SWoT\tdb
+	
+		target path : D:\eclipse\exercise\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\sensor_annotation\WEB-INF\RDF_Database\sensor_annotation
+
+	- Neo4j : SWoT\graph1.db
+	
+		target path : D:\Neo4j CE 3.1.2\graphdb
+
+	- If you need data migration of Mysql: click **[here](http://blog.chinaunix.net/uid-20761674-id-136275.html)**
+
+<hr>
+Now , open your brower and enter **http://localhost:8080/sensor_annotation/**.
+
+Enjoy the system~~~
+	
 
