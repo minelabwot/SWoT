@@ -33,8 +33,8 @@ To successfully run the application there are something you should pay attention
 
 - Sometimes the process of importing the maven project could be blocked because of the network issues. These two links are useful: 
 
- * [Click me~](https://www.oschina.net/code/snippet_151849_49131)
- * [The content is different from the one above. So, click me!](https://segmentfault.com/q/1010000008178782/a-1020000008178968)
+ 	* [Click me~](https://www.oschina.net/code/snippet_151849_49131)
+ 	* [The content is different from the one above. So, click me!](https://segmentfault.com/q/1010000008178782/a-1020000008178968)
 
 <hr>
 
