@@ -1,5 +1,5 @@
 # Semantic Web of Things Project<br>
-###*A Hybrid Semantic Annotation, Extraction and Reasoning Framework for Cyber Physical System*
+###*A Hybrid Semantic Annotation, Extraction and Reasoning Framework for Cyber-Physical System*
 
 > Please cite these papers in your publications<br>
 > [1] Wu Z, Xu Y, Yang Y, Zhang C, Zhu X, Ji Y. Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System. Sensors. 2017; 17(2):403.<br>
@@ -129,6 +129,8 @@ The Three figures below illustrate fuzzy search according to the Location and Ow
 After the Anomaly Diagnosis Model is initialized, the system will execute reasoning rules via Jena Reasoner, according to the predefined semantic rules (modeled as a set of SPARUL statements). Once anomaly events are detected, the system will deduce the cause of the anomalies and the diagnosis results will be recorded. A semantic fuzzy search could be used to lists the anaomaly events with their causal devices. For instance, the temp_high_237 anomaly event is caused by device2 (Camera-Occupation of the room is high) and CAC (the state of the CAC is turned off).  
 
 <img src="./Github_src_readme_files/9.jp2"/>
+
 ## Future Works
+
 1. Deep Learning for Pattern/State Recognition and Prediction of Time Series ([link](https://github.com/minelabwot/DeepLearning_WoT))
 2. Semantic State Finder for Time Series via Cluster and Hidden Markov model ([link](https://github.com/minelabwot/Semantic_State_Finder_Time_Series))
