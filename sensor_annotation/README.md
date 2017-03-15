@@ -101,6 +101,18 @@ your project/src/main/java/com/yyn/util/RDF2NEO.java
 
 
 <hr>
+Tip: 
+
+When you encounter some puzzling red crosses on the project menu in your eclipse,
+
+try 
+
+> Right click your project name -> refresh
+
+and 
+
+> Right click your project name -> maven -> update project
+<hr>
 Now , open your brower and enter **http://localhost:8080/sensor_annotation/**.
 
 Enjoy the system~~~
