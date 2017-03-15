@@ -55,6 +55,10 @@ Database and paths settings:
 2. Enter your Mysql and create a database named **sensor_annotation**:
 	>create database sensor_annotation;
 
+	Conduct data migration of Mysql: click **[here](http://blog.chinaunix.net/uid-20761674-id-136275.html)** for reference.
+
+	source: SWoT/mysql.sql
+
 3. your project -> src -> main -> java -> com.yyn.service -> Neo4jConnector.java
 your project/src/main/java/com/yyn/util/RDF2NEO.java
 
@@ -95,7 +99,6 @@ your project/src/main/java/com/yyn/util/RDF2NEO.java
 	
 		target path : D:\Neo4j CE 3.1.2\graphdb
 
-	- If you need data migration of Mysql: click **[here](http://blog.chinaunix.net/uid-20761674-id-136275.html)**
 
 <hr>
 Now , open your brower and enter **http://localhost:8080/sensor_annotation/**.
