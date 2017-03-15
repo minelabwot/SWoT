@@ -117,7 +117,7 @@ Now , open your brower and enter **http://localhost:8080/sensor_annotation/**.
 
 Enjoy the system~~~
 
-##Manual annotation system 
+## Manual annotation system 
 1. /sensor_annotation/src/main/java/com/yyn/service/StartupListener.java
 
 	Get dataset for Jena-TDB.
@@ -128,7 +128,7 @@ Enjoy the system~~~
 
 	add device data to the three databases.
 
-##Automatic annotation system
+## Automatic annotation system
 1. /sensor_annotation/src/main/java/com/yyn/controller/ELController.java
 
 	EL algorithm.
