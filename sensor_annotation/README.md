@@ -117,6 +117,11 @@ Now , open your brower and enter **http://localhost:8080/sensor_annotation/**.
 
 Enjoy the system~~~
 
+## Some file comment
+1. /sensor_annotation/src/main/java/com/yyn/util/RDF2NEO.java
+
+	Clear neo4j database and insert the predefined ontology.
+
 ## Manual annotation system 
 1. /sensor_annotation/src/main/java/com/yyn/service/StartupListener.java
 
