@@ -99,6 +99,13 @@ your project/src/main/java/com/yyn/util/RDF2NEO.java
 	
 		target path : D:\Neo4j CE 3.1.2\graphdb
 
+7. /sensor_annotation/src/main/java/com/yyn/service/DeviceService.java
+
+	line 36: It should be 
+
+	>private static final String NS_WOT = "https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#";
+
+	to use SWoT/swot-o.owl which is a predifined ontology.
 
 <hr>
 Tip: 
