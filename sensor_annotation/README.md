@@ -107,6 +107,14 @@ your project/src/main/java/com/yyn/util/RDF2NEO.java
 
 	to use SWoT/swot-o.owl which is a predifined ontology.
 
+8. /sensor_annotation/src/main/java/edu/bupt/linkSystemApplication/Application.java
+	
+	line 13: modify it to your own path.
+
+9. /sensor_annotation/src/main/java/edu/bupt/database/ConnectDB.java
+	
+	modify this file to your own mysql settings.
+
 <hr>
 Tip: 
 
