@@ -1,3 +1,0 @@
-Berta Elmer Hader
-5	http://dbpedia.org/resource/Berta_and_Elmer_Hader	7.15796
-1	http://dbpedia.org/resource/Berta_and_elmer_hader	6.64381

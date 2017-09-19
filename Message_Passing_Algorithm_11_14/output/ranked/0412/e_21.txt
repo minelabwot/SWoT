@@ -1,3 +1,0 @@
-http://dbpedia.org/resource/Degree_Celsius
-http://dbpedia.org/resource/100_Degree_Celsius
-http://dbpedia.org/resource/Celsius_degree

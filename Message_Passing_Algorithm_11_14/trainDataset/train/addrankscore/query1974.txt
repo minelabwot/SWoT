@@ -1,3 +1,0 @@
-Cape Feare
-1	http://dbpedia.org/resource/Cape_Feare_(The_Simpsons)	6.64381
-5	http://dbpedia.org/resource/Cape_Feare	4.79041

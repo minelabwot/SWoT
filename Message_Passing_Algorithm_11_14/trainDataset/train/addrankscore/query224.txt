@@ -1,2 +1,0 @@
-The Biggest Bear
-5	http://dbpedia.org/resource/The_Biggest_Bear	6.64381

@@ -1,3 +1,0 @@
-Eric Serra
-5	http://dbpedia.org/resource/Éric_Serra	8.62531
-1	http://dbpedia.org/resource/Eric_Serra	6.64381

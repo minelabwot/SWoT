@@ -1,3 +1,0 @@
-Arnold Vinick
-1	http://dbpedia.org/resource/Senator_Arnold_Vinick	6.64381
-5	http://dbpedia.org/resource/Arnold_Vinick	4.74933

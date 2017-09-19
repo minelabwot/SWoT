@@ -1,2 +1,0 @@
-Bow Valley College
-5	http://dbpedia.org/resource/Bow_Valley_College	4.59048

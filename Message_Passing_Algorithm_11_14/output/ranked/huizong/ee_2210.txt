@@ -1,7 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Whimbrel
-1	http://dbpedia.org/resource/Common_Whimbrel
-1	http://dbpedia.org/resource/Little_Whimbrel
-1	http://dbpedia.org/resource/Eurasian_Whimbrel
-1	http://dbpedia.org/resource/Hudsonian_Whimbrel
-1	http://dbpedia.org/resource/HMS_Whimbrel_(U29)

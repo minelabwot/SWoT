@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Marcia_Brown
-1	http://dbpedia.org/resource/Shadow_(Marcia_Brown_book)

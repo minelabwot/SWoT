@@ -1,3 +1,0 @@
-Short billed Dowitcher
-5	http://dbpedia.org/resource/Short-billed_Dowitcher	6.64381
-1	http://dbpedia.org/resource/Short-billed_dowitcher	4.59048

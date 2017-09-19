@@ -1,3 +1,0 @@
-Walter Jon Williams
-5	http://dbpedia.org/resource/Walter_Jon_Williams	7.68893
-1	http://dbpedia.org/resource/Williams,_Walter_Jon	6.64381

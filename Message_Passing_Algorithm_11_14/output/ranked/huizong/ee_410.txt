@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/David_Wiesner
-1	http://dbpedia.org/resource/Flotsam_(David_Wiesner_book)

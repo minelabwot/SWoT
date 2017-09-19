@@ -1,8 +1,0 @@
-Andrew Huxley
-5	http://dbpedia.org/resource/Andrew_Huxley	7.11885
-1	http://dbpedia.org/resource/Andrew_Fielding_Huxley	6.64381
-1	http://dbpedia.org/resource/Sir_Andrew_Huxley	6.64381
-1	http://dbpedia.org/resource/Andrew_Fielding,_Sir_Huxley	6.64381
-1	http://dbpedia.org/resource/Sir_Andrew_Fielding_Huxley	6.64381
-1	http://dbpedia.org/resource/Andrew_F._Huxley	6.64381
-1	http://dbpedia.org/resource/Andrew_D._Huxley	6.64381

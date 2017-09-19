@@ -1,6 +1,0 @@
-James Meade
-5	http://dbpedia.org/resource/James_Meade	7.11936
-1	http://dbpedia.org/resource/James_Edward_Meade	6.64381
-1	http://dbpedia.org/resource/James_E._Meade	6.64381
-1	http://dbpedia.org/resource/James_Meade_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/Patrick_James_Meade,_8th_Earl_of_Clanwilliam	6.64381

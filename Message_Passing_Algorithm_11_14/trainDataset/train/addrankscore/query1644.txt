@@ -1,3 +1,0 @@
-Arrow to the Sun
-1	http://dbpedia.org/resource/Arrow_to_the_sun	6.64381
-5	http://dbpedia.org/resource/Arrow_to_the_Sun	4.00032

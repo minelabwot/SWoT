@@ -1,3 +1,0 @@
-Adam of the Road
-1	http://dbpedia.org/resource/Adam_of_the_road	6.64381
-5	http://dbpedia.org/resource/Adam_of_the_Road	4.00032

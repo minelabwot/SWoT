@@ -1,2 +1,0 @@
-Smoky the Cowhorse
-1	http://dbpedia.org/resource/Smoky_the_Cowhorse	4.6884

@@ -1,3 +1,0 @@
-Red Knot
-5	http://dbpedia.org/resource/Red_Knot	6.64381
-1	http://dbpedia.org/resource/Red_knot	4.79041

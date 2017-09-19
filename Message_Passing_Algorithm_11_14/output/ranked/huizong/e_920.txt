@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/Maurice_Sendak
-http://dbpedia.org/resource/Maurice_Bernard_Sendak
-http://dbpedia.org/resource/Maurice_Sendak_Elementary_School
-http://dbpedia.org/resource/Category:Maurice_Sendak
-http://dbpedia.org/resource/Tell_Them_Anything_You_Want:_A_Portrait_of_Maurice_Sendak
-http://dbpedia.org/resource/Category:Books_by_Maurice_Sendak
-http://dbpedia.org/resource/Category:Adaptations_of_works_by_Maurice_Sendak

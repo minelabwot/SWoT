@@ -1,4 +1,0 @@
-Owl Moon
-1	http://dbpedia.org/resource/The_Owl_Dives_Through_The_Crescent_Moon	6.64381
-5	http://dbpedia.org/resource/Owl_Moon	4.40991
-1	http://dbpedia.org/resource/The_Owl_Dives_Through_the_Crescent_Moon	4.40991

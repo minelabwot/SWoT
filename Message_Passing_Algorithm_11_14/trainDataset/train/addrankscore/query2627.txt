@@ -1,3 +1,0 @@
-Prayer for a Child
-1	http://dbpedia.org/resource/Prayer_for_a_child	6.64381
-5	http://dbpedia.org/resource/Prayer_for_a_Child	4.00032

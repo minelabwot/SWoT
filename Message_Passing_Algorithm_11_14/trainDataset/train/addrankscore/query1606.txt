@@ -1,3 +1,0 @@
-David Small
-1	http://dbpedia.org/resource/David_Small	7.11833
-5	http://dbpedia.org/resource/David_Small_(author)	6.64381

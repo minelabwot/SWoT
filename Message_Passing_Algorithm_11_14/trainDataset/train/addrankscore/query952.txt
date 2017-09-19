@@ -1,3 +1,0 @@
-Homer the Vigilante
-1	http://dbpedia.org/resource/Homer_the_vigilante	6.64381
-5	http://dbpedia.org/resource/Homer_the_Vigilante	4.40991

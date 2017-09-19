@@ -1,3 +1,0 @@
-The Mystery of the Brass Bound Trunk
-1	http://dbpedia.org/resource/The_Mystery_of_the_Brass-Bound_Trunk	6.64381
-5	http://dbpedia.org/resource/The_Mystery_of_the_Brass_Bound_Trunk	4.74904

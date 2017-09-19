@@ -1,4 +1,0 @@
-Leo McGarry
-1	http://dbpedia.org/resource/Leo_thomas_mcgarry	6.64381
-1	http://dbpedia.org/resource/Leo_mcgarry	6.64381
-5	http://dbpedia.org/resource/Leo_McGarry	4.59048

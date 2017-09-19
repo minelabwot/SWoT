@@ -1,4 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Many_Moons
-1	http://dbpedia.org/resource/How_Many_Moons
-1	http://dbpedia.org/resource/Many_Moons_(Song)

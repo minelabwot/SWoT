@@ -1,2 +1,0 @@
-Walk Two Moons
-5	http://dbpedia.org/resource/Walk_Two_Moons	4.40991

@@ -1,3 +1,0 @@
-Cynthia Kadohata
-5	http://dbpedia.org/resource/Cynthia_Kadohata	4.68878
-1	http://dbpedia.org/resource/Category:Novels_by_Cynthia_Kadohata	4.00032

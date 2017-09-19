@@ -1,3 +1,0 @@
-Elizabeth Enright
-5	http://dbpedia.org/resource/Elizabeth_Enright	7.58211
-1	http://dbpedia.org/resource/The_Saturdays_(Elizabeth_Enright_novel)	6.64381

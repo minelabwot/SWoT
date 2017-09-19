@@ -1,2 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Kuch_kuch_hota_hai

@@ -1,3 +1,0 @@
-Treehouse of Horror V
-1	http://dbpedia.org/resource/Treehouse_of_horror_v	6.64381
-5	http://dbpedia.org/resource/Treehouse_of_Horror_V	4.8598

@@ -1,4 +1,0 @@
-Greg Daniels
-5	http://dbpedia.org/resource/Greg_Daniels	9.36079
-1	http://dbpedia.org/resource/Greg_%22Free_Beer%22_Daniels	6.64381
-1	http://dbpedia.org/resource/Greg_Daniels_(footballer)	6.64381

@@ -1,5 +1,0 @@
-Mike Scully
-5	http://dbpedia.org/resource/Mike_Scully	9.54852
-1	http://dbpedia.org/resource/Mike_Scully_(football_player)	6.64381
-1	http://dbpedia.org/resource/Mike_Scully_Productions	6.64381
-1	http://dbpedia.org/resource/Mike_Scully_(American_football)	4.00032

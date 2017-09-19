@@ -1,3 +1,0 @@
-Bichhoo
-1	http://dbpedia.org/resource/Bichhoo_(2000_film)	6.64381
-5	http://dbpedia.org/resource/Bichhoo	4.00032

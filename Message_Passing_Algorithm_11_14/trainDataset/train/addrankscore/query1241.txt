@@ -1,6 +1,0 @@
-Abilene Kansas
-5	http://dbpedia.org/resource/Abilene,_Kansas	8.43359
-1	http://dbpedia.org/resource/Trinity_Evangelical_Lutheran_Church_(Abilene,_Kansas)	6.64381
-1	http://dbpedia.org/resource/Abilene_High_School_(Abilene,_Kansas)	6.64381
-1	http://dbpedia.org/resource/Abilene_High_School_(Kansas)	4.40991
-1	http://dbpedia.org/resource/Berger_House_(Abilene,_Kansas)	4.00032

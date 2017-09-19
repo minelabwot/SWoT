@@ -1,6 +1,0 @@
-Francis Aston
-5	http://dbpedia.org/resource/Francis_William_Aston	7.03916
-1	http://dbpedia.org/resource/Francis_Aston	6.64381
-1	http://dbpedia.org/resource/Francis_W._Aston	6.64381
-1	http://dbpedia.org/resource/Aston,_Francis_William	6.64381
-1	http://dbpedia.org/resource/Aston_Francis_Barrett	6.64381

@@ -1,7 +1,0 @@
-19	0
-column
-AndrÃÂ© - Marie AmpÃÂ¨re	
-FranÃÂ§ois Arago	astronomer	
-Jean - Charles de Borda	mathematician	
-Augustin Louis Cauchy	mathematician	
-Charles - Augustin de Coulomb	physicist	

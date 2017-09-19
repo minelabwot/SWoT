@@ -1,3 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Feodor_Rojankovsky
-5	http://dbpedia.org/resource/Feodor_Stepanovich_Rojankovsky

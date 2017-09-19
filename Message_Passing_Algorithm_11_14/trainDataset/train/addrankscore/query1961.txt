@@ -1,5 +1,0 @@
-Bart vs. Australia
-1	http://dbpedia.org/resource/Bart_Vs._Australia	6.64381
-1	http://dbpedia.org/resource/Bart_vs_australia	6.64381
-1	http://dbpedia.org/resource/Bart_vs_Australia	6.64381
-5	http://dbpedia.org/resource/Bart_vs._Australia	4.81996

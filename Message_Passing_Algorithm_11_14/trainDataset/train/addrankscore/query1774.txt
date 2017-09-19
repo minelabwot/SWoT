@@ -1,7 +1,0 @@
-Rabbit Hill
-1	http://dbpedia.org/resource/Rabbit_Hill_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/Rabbit_Hill_Limestone	6.64381
-5	http://dbpedia.org/resource/Rabbit_Hill	4.00032
-1	http://dbpedia.org/resource/Rabbit_Hill_Historic_District	4.00032
-1	http://dbpedia.org/resource/Rabbit_Hill_Snow_Resort	4.00032
-1	http://dbpedia.org/resource/Rabbit_Hill,_West_Virginia	4.00032

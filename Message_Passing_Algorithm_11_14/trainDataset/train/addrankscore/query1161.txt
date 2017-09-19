@@ -1,3 +1,0 @@
-Meindert De Jong
-1	http://dbpedia.org/resource/Meindert_De_Jong	6.64381
-1	http://dbpedia.org/resource/Meindert_de_Jong	6.64381

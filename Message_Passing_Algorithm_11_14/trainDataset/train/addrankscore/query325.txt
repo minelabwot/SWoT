@@ -1,4 +1,0 @@
-M. C. Higgins the Great
-1	http://dbpedia.org/resource/M._C._Higgins_the_Great	6.64381
-1	http://dbpedia.org/resource/M_C_Higgins,_the_Great	6.64381
-5	http://dbpedia.org/resource/M._C._Higgins,_the_Great	4.68878

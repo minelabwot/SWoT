@@ -1,2 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Always_room_for_one_more

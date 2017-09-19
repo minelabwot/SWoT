@@ -1,3 +1,0 @@
-Mujhse Dosti Karoge
-1	http://dbpedia.org/resource/Mujhse_Dosti_Karoge	6.64381
-5	http://dbpedia.org/resource/Mujhse_Dosti_Karoge!	4.00032

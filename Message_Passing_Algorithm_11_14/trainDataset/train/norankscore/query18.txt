@@ -1,3 +1,0 @@
-NH,USA
-2	http://dbpedia.org/resource/Concord,_NH_USA
-3	http://dbpedia.org/resource/Laconia,_NH_USA

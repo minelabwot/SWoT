@@ -1,5 +1,0 @@
-Caddie Woodlawn
-1	http://dbpedia.org/resource/Caddie_woodlawn_musical	6.64381
-1	http://dbpedia.org/resource/Caddie_Woodlawn's_Family	6.64381
-5	http://dbpedia.org/resource/Caddie_Woodlawn	4.74904
-1	http://dbpedia.org/resource/Caddie_Woodlawn_(musical)	4.00032

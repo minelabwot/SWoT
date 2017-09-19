@@ -1,3 +1,0 @@
-Summer of the Swans
-1	http://dbpedia.org/resource/The_Summer_of_the_Swans	6.64381
-5	http://dbpedia.org/resource/Summer_of_the_Swans	4.6884

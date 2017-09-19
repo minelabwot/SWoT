@@ -1,5 +1,0 @@
-Sharon Creech
-5	http://dbpedia.org/resource/Sharon_Creech	7.35513
-1	http://dbpedia.org/resource/Replay_(Sharon_Creech_novel)	6.64381
-1	http://dbpedia.org/resource/The_Wanderer_(Sharon_Creech_novel)	6.64381
-1	http://dbpedia.org/resource/Category:Novels_by_Sharon_Creech	4.84256

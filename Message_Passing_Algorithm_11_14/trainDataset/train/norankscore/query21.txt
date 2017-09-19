@@ -1,3 +1,0 @@
-Llyn Conwy
-5	http://dbpedia.org/resource/Llyn_Conwy
-5	http://dbpedia.org/resource/Llyn_conwy

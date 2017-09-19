@@ -1,2 +1,0 @@
-Homer Loves Flanders
-5	http://dbpedia.org/resource/Homer_Loves_Flanders	4.00032

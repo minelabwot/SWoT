@@ -1,2 +1,0 @@
-The Clue in the Diary
-5	http://dbpedia.org/resource/The_Clue_in_the_Diary	4.74904

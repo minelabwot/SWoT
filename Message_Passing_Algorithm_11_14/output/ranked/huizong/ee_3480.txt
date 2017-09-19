@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/William_Steig
-1	http://dbpedia.org/resource/Category:Books_by_William_Steig

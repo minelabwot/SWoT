@@ -1,2 +1,0 @@
-NorQuest College
-5	http://dbpedia.org/resource/NorQuest_College	6.64381

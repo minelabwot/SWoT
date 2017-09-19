@@ -1,2 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Cinderella,_or_the_Little_Glass_Slipper

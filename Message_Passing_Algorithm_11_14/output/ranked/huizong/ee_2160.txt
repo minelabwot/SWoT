@@ -1,7 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Baudouin_I
-1	http://dbpedia.org/resource/King_Baudouin_I
-5	http://dbpedia.org/resource/Baudouin_I_of_Belgium
-1	http://dbpedia.org/resource/Baudouin_I,_King_of_the_Belgians
-1	http://dbpedia.org/resource/Baudouin_I_of_the_Belgians
-1	http://dbpedia.org/resource/Baudouin_I_King_of_the_Belgians

@@ -1,7 +1,0 @@
-Henri Becquerel
-5	http://dbpedia.org/resource/Henri_Becquerel	7.23723
-1	http://dbpedia.org/resource/Antoine_Henri_Becquerel	6.64381
-1	http://dbpedia.org/resource/Becquerel,_Antoine_Henri	6.64381
-1	http://dbpedia.org/resource/Anton_Henri_Becquerel	6.64381
-1	http://dbpedia.org/resource/Antoine-Henri_Becquerel	6.64381
-1	http://dbpedia.org/resource/Antoine-henri_becquerel	6.64381

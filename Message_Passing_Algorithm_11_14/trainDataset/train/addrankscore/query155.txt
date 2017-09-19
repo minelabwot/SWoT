@@ -1,3 +1,0 @@
-Mary Azarian
-1	http://dbpedia.org/resource/The_Four_Seasons_of_Mary_Azarian	6.64381
-5	http://dbpedia.org/resource/Mary_Azarian	4.6884

@@ -1,5 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Mary_McCormack
-1	http://dbpedia.org/resource/Mary_Ellen_McCormack
-1	http://dbpedia.org/resource/Mary_Ellen_McCormack_housing_project
-1	http://dbpedia.org/resource/Bridget_Mary_McCormack

@@ -1,5 +1,0 @@
-http://dbpedia.org/resource/Hu_Jintao
-http://dbpedia.org/resource/Jintao_Hu
-http://dbpedia.org/resource/President_Hu_Jintao
-http://dbpedia.org/resource/Paramount_Leader_Hu_Jintao
-http://dbpedia.org/resource/Hu_Jintao-Wen_Jiabao_Administration

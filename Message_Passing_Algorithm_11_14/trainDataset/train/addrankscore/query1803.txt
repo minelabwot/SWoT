@@ -1,3 +1,0 @@
-Onion John
-5	http://dbpedia.org/resource/Onion_John	6.64381
-1	http://dbpedia.org/resource/Big_John_Steak_&_Onion	4.00032

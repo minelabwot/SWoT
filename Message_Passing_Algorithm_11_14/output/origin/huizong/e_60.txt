@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/Stockard_Channing
-http://dbpedia.org/resource/Stockard_Channing_awards
-http://dbpedia.org/resource/Stockard_Channing_filmography
-http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_Stockard_Channing
-http://dbpedia.org/resource/Stockard_Channing_in_Just_Friends
-http://dbpedia.org/resource/The_Stockard_Channing_Show

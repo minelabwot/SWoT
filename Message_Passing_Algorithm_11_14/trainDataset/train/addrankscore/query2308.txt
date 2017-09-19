@@ -1,4 +1,0 @@
-Melody Time
-1	http://dbpedia.org/resource/Melody_Time_(TV_series)	6.64381
-1	http://dbpedia.org/resource/The_Time_Has_Come:_The_Best_of_Ziggy_Marley_&_the_Melody_Makers	4.68878
-5	http://dbpedia.org/resource/Melody_Time	4.59048

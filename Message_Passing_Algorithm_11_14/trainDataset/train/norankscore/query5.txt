@@ -1,3 +1,0 @@
-mbar
-5	http://dbpedia.org/resource/Mbar
-1	http://dbpedia.org/resource/Aere_Mbar

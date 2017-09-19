@@ -1,4 +1,0 @@
-E. L. Konigsburg
-5	http://dbpedia.org/resource/E._L._Konigsburg	7.95505
-1	http://dbpedia.org/resource/E_L_Konigsburg	6.64381
-1	http://dbpedia.org/resource/Category:Novels_by_E._L._Konigsburg	4.84256

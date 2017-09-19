@@ -1,2 +1,0 @@
-The Haunted Bridge
-5	http://dbpedia.org/resource/The_Haunted_Bridge	4.74904

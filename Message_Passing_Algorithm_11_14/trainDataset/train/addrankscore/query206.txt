@@ -1,3 +1,0 @@
-Ezra Jack Keats
-5	http://dbpedia.org/resource/Ezra_Jack_Keats	8.8989
-1	http://dbpedia.org/resource/Category:Books_by_Ezra_Jack_Keats	7.31705

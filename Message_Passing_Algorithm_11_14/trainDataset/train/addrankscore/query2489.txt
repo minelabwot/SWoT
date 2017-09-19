@@ -1,3 +1,0 @@
-Hudsonian Godwit
-5	http://dbpedia.org/resource/Hudsonian_Godwit	6.64381
-1	http://dbpedia.org/resource/Hudsonian_godwit	4.40991

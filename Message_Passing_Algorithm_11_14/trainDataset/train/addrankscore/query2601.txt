@@ -1,3 +1,0 @@
-Nine Days to Christmas
-1	http://dbpedia.org/resource/Nine_days_to_christmas	6.64381
-5	http://dbpedia.org/resource/Nine_Days_to_Christmas	4.00032

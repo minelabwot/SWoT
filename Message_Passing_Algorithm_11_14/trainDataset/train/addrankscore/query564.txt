@@ -1,4 +1,0 @@
-Throw Momma from the Train
-1	http://dbpedia.org/resource/Throw_Momma_From_the_Train	6.64381
-1	http://dbpedia.org/resource/Throw_momma_from_the_train	6.64381
-5	http://dbpedia.org/resource/Throw_Momma_from_the_Train	4.59048

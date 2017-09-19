@@ -1,2 +1,0 @@
-Nightmare Cafeteria
-1	http://dbpedia.org/resource/Nightmare_Cafeteria	6.64381

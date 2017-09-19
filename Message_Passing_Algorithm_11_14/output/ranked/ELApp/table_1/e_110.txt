@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/Sulfur_dioxide
-http://dbpedia.org/resource/Sulfur-dioxide
-http://dbpedia.org/resource/Sulfur_Dioxide_Scrubber
-http://dbpedia.org/resource/Sulfur_dioxide_difluoride
-http://dbpedia.org/resource/Lithium_sulfur_dioxide_battery
-http://dbpedia.org/resource/Transition_metal_sulfur_dioxide_complex
-http://dbpedia.org/resource/Metal_sulfur_dioxide_complex

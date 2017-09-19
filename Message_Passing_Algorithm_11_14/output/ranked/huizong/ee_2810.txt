@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/C._J._Cregg
-1	http://dbpedia.org/resource/C_J_Cregg

@@ -1,5 +1,0 @@
-The Boy Who Knew Too Much
-1	http://dbpedia.org/resource/The_Boy_Who_Knew_Too_Much_(album)	7.11885
-1	http://dbpedia.org/resource/The_Boy_Who_Knew_Too_Much_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/The_Boy_who_Knew_Too_Much	6.64381
-5	http://dbpedia.org/resource/The_Boy_Who_Knew_Too_Much	4.79041

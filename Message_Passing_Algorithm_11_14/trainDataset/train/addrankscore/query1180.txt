@@ -1,3 +1,0 @@
-Calleva Atrebatum
-1	http://dbpedia.org/resource/Calleva_atrebatum	6.64381
-5	http://dbpedia.org/resource/Calleva_Atrebatum	4.81976

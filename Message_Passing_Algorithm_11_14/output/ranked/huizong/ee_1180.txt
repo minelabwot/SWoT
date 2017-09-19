@@ -1,2 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Berta_and_Elmer_Hader

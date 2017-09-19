@@ -1,5 +1,0 @@
-Marvin Hamlisch
-5	http://dbpedia.org/resource/Marvin_Hamlisch	9.50688
-1	http://dbpedia.org/resource/Category:Film_scores_by_Marvin_Hamlisch	8.0798
-1	http://dbpedia.org/resource/Marvin_Frederick_Hamlisch	6.64381
-1	http://dbpedia.org/resource/Category:Songs_written_by_Marvin_Hamlisch	4.81996

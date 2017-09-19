@@ -1,4 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Arnold_Lobel
-1	http://dbpedia.org/resource/Arnold_Stark_Lobel
-1	http://dbpedia.org/resource/Category:Picture_books_by_Arnold_Lobel

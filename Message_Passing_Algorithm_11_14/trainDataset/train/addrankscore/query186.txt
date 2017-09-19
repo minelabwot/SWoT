@@ -1,3 +1,0 @@
-Peter Spier
-1	http://dbpedia.org/resource/Peter_spier	6.64381
-5	http://dbpedia.org/resource/Peter_Spier	4.74904

@@ -1,3 +1,0 @@
-The View from Saturday
-1	http://dbpedia.org/resource/The_View_From_Saturday	6.64381
-5	http://dbpedia.org/resource/The_View_from_Saturday	4.74904

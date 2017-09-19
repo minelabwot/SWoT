@@ -1,4 +1,0 @@
-Irene Hunt
-1	http://dbpedia.org/resource/Irene_Hunt_(actor)	6.64381
-5	http://dbpedia.org/resource/Irene_Hunt	4.85996
-1	http://dbpedia.org/resource/Irene_Hunt_(actress)	4.6884

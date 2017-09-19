@@ -1,5 +1,0 @@
-Bill Conti
-5	http://dbpedia.org/resource/Bill_Conti	9.72852
-1	http://dbpedia.org/resource/Category:Film_scores_by_Bill_Conti	8.90106
-1	http://dbpedia.org/resource/Category:Songs_written_by_Bill_Conti	4.68878
-1	http://dbpedia.org/resource/Category:Bill_Conti_albums	4.40991

@@ -1,3 +1,0 @@
-Emile Clapeyron
-1	http://dbpedia.org/resource/Emile_Clapeyron	6.64381
-1	http://dbpedia.org/resource/Benoit_Paul_Emile_Clapeyron	6.64381

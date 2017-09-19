@@ -1,7 +1,0 @@
-South Asian Association for Regional Cooperation
-5	http://dbpedia.org/resource/South_Asian_Association_for_Regional_Cooperation	7.68596
-1	http://dbpedia.org/resource/Category:South_Asian_Association_for_Regional_Cooperation	7.65467
-1	http://dbpedia.org/resource/Category:South_Asian_Association_for_Regional_Cooperation_people	7.11936
-1	http://dbpedia.org/resource/Category:Member_states_of_the_South_Asian_Association_for_Regional_Cooperation	4.82016
-1	http://dbpedia.org/resource/South_Asian_Zoo_Association_for_Regional_Cooperation	4.79041
-1	http://dbpedia.org/resource/South_Asian_Association_for_Regional_Cooperation_Secretariat	4.40991

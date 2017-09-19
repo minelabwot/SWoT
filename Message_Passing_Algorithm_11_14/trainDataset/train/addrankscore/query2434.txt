@@ -1,4 +1,0 @@
-Homer Goes To College
-1	http://dbpedia.org/resource/Homer_Goes_To_College	6.64381
-1	http://dbpedia.org/resource/Homer_goes_to_college	6.64381
-5	http://dbpedia.org/resource/Homer_Goes_to_College	4.6884

@@ -1,3 +1,0 @@
-White rumped Sandpiper
-5	http://dbpedia.org/resource/White-rumped_Sandpiper	6.64381
-1	http://dbpedia.org/resource/White-rumped_sandpiper	4.59048

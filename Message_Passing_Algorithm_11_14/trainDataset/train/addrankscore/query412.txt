@@ -1,8 +1,0 @@
-Will James
-1	http://dbpedia.org/resource/Will_James_(rugby_union)	6.64381
-1	http://dbpedia.org/resource/Will_James_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/James,_Will	6.64381
-1	http://dbpedia.org/resource/Will_James_(artist)	4.84221
-1	http://dbpedia.org/resource/Will_James_(rugby_player)	4.6884
-5	http://dbpedia.org/resource/Will_James	4.40991
-1	http://dbpedia.org/resource/James_Will	4.40991

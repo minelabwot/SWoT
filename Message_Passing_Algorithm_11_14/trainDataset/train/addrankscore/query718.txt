@@ -1,5 +1,0 @@
-Gay Neck the Story of a Pigeon
-1	http://dbpedia.org/resource/Gay_Neck_the_Story_of_a_Pigeon	6.64381
-1	http://dbpedia.org/resource/Gay_Neck:_The_Story_of_a_Pigeon	6.64381
-1	http://dbpedia.org/resource/Gay-Neck,_the_Story_of_a_Pigeon	6.64381
-5	http://dbpedia.org/resource/Gay_Neck,_the_Story_of_a_Pigeon	4.68878

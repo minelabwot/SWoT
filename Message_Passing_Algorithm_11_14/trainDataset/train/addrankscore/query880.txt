@@ -1,3 +1,0 @@
-Homer the Great
-1	http://dbpedia.org/resource/Homer_the_great	6.64381
-5	http://dbpedia.org/resource/Homer_the_Great	4.84221

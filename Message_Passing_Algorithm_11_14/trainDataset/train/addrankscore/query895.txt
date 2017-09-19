@@ -1,5 +1,0 @@
-Dean Moore
-5	http://dbpedia.org/resource/Steven_Dean_Moore	9.17176
-1	http://dbpedia.org/resource/Moore,_Steven_Dean	6.64381
-1	http://dbpedia.org/resource/Richard_Moore_(Dean)	6.64381
-1	http://dbpedia.org/resource/Dean_Moore	4.00032

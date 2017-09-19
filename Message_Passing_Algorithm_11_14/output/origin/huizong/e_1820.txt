@@ -1,7 +1,0 @@
-http://dbpedia.org/resource/Category:Lakehead_University_alumni
-http://dbpedia.org/resource/Lakehead_University
-http://dbpedia.org/resource/Category:Lakehead_University
-http://dbpedia.org/resource/Faculty_of_Medicine_-_Lakehead_University
-http://dbpedia.org/resource/Faculty_of_Law,_Lakehead_University
-http://dbpedia.org/resource/Category:Lakehead_University_faculty
-http://dbpedia.org/resource/Lakehead_University_Faculty_of_Law

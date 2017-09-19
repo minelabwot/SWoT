@@ -1,7 +1,0 @@
-Nipissing University
-1	http://dbpedia.org/resource/Nipissing_University_Student_Union	6.64381
-5	http://dbpedia.org/resource/Nipissing_University	4.8598
-1	http://dbpedia.org/resource/Category:Nipissing_University_alumni	4.84256
-1	http://dbpedia.org/resource/Category:Nipissing_University	4.68878
-1	http://dbpedia.org/resource/Category:Nipissing_University_faculty	4.00032
-1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Nipissing_University	5.88129e-14

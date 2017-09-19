@@ -1,3 +1,0 @@
-Majrooh Sultanpuri
-5	http://dbpedia.org/resource/Majrooh_Sultanpuri	8.85628
-1	http://dbpedia.org/resource/Category:Songs_with_lyrics_by_Majrooh_Sultanpuri	4.00032

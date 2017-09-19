@@ -1,3 +1,0 @@
-Emily Neville
-1	http://dbpedia.org/resource/Emily_Neville	6.64381
-5	http://dbpedia.org/resource/Emily_Cheney_Neville	4.74904

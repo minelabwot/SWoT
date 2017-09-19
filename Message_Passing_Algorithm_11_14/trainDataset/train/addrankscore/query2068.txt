@@ -1,5 +1,0 @@
-Hey Ram
-1	http://dbpedia.org/resource/Hey!_Ram	6.64381
-1	http://dbpedia.org/resource/Hey_Ram_(2000_film)	6.64381
-1	http://dbpedia.org/resource/Hey_Ram_(movie)	6.64381
-5	http://dbpedia.org/resource/Hey_Ram	4.6884

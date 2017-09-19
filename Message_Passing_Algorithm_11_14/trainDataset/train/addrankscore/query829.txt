@@ -1,4 +1,0 @@
-Itchy Scratchy Land
-1	http://dbpedia.org/resource/Itchy_and_Scratchy_Land	6.64381
-1	http://dbpedia.org/resource/Itchy_and_scratchy_land	6.64381
-1	http://dbpedia.org/resource/Itchy_&_Scratchy_Land	4.6884

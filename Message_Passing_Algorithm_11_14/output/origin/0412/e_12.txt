@@ -1,2 +1,0 @@
-http://dbpedia.org/resource/COWI
-http://dbpedia.org/resource/COWI_A/S

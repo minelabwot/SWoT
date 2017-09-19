@@ -1,2 +1,0 @@
-Bart Gets Famous
-5	http://dbpedia.org/resource/Bart_Gets_Famous	4.00032

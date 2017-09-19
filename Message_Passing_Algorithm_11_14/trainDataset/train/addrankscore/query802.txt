@@ -1,5 +1,0 @@
-Walter Edmonds
-5	http://dbpedia.org/resource/Walter_D._Edmonds	7.07904
-1	http://dbpedia.org/resource/Walter_Dumaux_Edmonds	6.64381
-1	http://dbpedia.org/resource/Walter_Edmonds	6.64381
-1	http://dbpedia.org/resource/Edmonds,_Walter_D.	6.64381

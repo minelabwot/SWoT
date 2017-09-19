@@ -1,3 +1,0 @@
-Monty Norman
-5	http://dbpedia.org/resource/Monty_Norman	7.85737
-1	http://dbpedia.org/resource/Category:Monty_Norman_albums	6.64381

@@ -1,5 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Frog_Went_a_Courtin'
-1	http://dbpedia.org/resource/Frog_Went_A-Courtin'
-1	http://dbpedia.org/resource/Frog_Went_A-Courtin'_(song)
-5	http://dbpedia.org/resource/Frog_Went_A-Courtin'_(book)

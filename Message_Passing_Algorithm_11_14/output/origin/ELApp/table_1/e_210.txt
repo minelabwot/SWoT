@@ -1,3 +1,0 @@
-http://dbpedia.org/resource/Hybrid_GPS_positioning_system
-http://dbpedia.org/resource/GPS_carrier_phase_positioning
-http://dbpedia.org/resource/GPS_positioning

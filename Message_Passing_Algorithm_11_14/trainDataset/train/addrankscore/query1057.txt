@@ -1,3 +1,0 @@
-Calcutta Mail
-1	http://dbpedia.org/resource/Calcutta_Mail_(2003_film)	6.64381
-5	http://dbpedia.org/resource/Calcutta_Mail	4.00032

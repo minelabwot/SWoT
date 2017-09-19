@@ -1,3 +1,0 @@
-Sathiya
-1	http://dbpedia.org/resource/Sathiya_moorthy_Nagar	6.64381
-1	http://dbpedia.org/resource/Sathiya_Moorthy_Nagar	4.00032

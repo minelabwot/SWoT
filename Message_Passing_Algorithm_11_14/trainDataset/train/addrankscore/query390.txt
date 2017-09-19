@@ -1,2 +1,0 @@
-Thimble Summer
-5	http://dbpedia.org/resource/Thimble_Summer	4.40991

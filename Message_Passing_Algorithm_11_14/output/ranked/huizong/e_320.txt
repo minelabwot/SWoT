@@ -1,3 +1,0 @@
-http://dbpedia.org/resource/Many_Moons
-http://dbpedia.org/resource/How_Many_Moons
-http://dbpedia.org/resource/Many_Moons_(Song)

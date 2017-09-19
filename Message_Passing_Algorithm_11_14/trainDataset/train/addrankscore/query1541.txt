@@ -1,7 +1,0 @@
-Amartya Sen
-5	http://dbpedia.org/resource/Amartya_Sen	8.62294
-1	http://dbpedia.org/resource/Amartya_Kumar_Sen	6.64381
-1	http://dbpedia.org/resource/Amartya_K._Sen	6.64381
-1	http://dbpedia.org/resource/Liberalisme:_Politisk_frihet_fra_John_Locke_til_Amartya_Sen	6.64381
-1	http://dbpedia.org/resource/Category:Amartya_Sen	4.81996
-1	http://dbpedia.org/resource/Category:Books_by_Amartya_Sen	4.59099

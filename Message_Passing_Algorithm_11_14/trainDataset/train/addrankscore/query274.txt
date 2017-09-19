@@ -1,5 +1,0 @@
-Augustin Jean Fresnel
-5	http://dbpedia.org/resource/Augustin-Jean_Fresnel	7.03872
-1	http://dbpedia.org/resource/Jean-Augustin_Fresnel	6.64381
-1	http://dbpedia.org/resource/Augustin_Jean_Fresnel	6.64381
-1	http://dbpedia.org/resource/Jean_Augustin_Fresnel	6.64381

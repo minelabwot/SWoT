@@ -1,9 +1,0 @@
-Homerton College
-1	http://dbpedia.org/resource/Category:Alumni_of_Homerton_College,_Cambridge	7.82715
-5	http://dbpedia.org/resource/Homerton_College,_Cambridge	7.19753
-1	http://dbpedia.org/resource/Category:Fellows_of_Homerton_College,_Cambridge	7.15907
-1	http://dbpedia.org/resource/Homerton_College	6.64381
-1	http://dbpedia.org/resource/Homerton_College_Music_Society	6.64381
-1	http://dbpedia.org/resource/Category:Homerton_College,_Cambridge	4.74933
-1	http://dbpedia.org/resource/Independent_College,_Homerton	4.40991
-1	http://dbpedia.org/resource/Homerton_College_Boat_Club	4.00032

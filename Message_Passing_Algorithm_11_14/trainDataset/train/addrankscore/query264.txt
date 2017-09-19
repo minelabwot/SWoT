@@ -1,3 +1,0 @@
-Mount Royal College
-5	http://dbpedia.org/resource/Mount_Royal_College	6.64381
-1	http://dbpedia.org/resource/Mount_Royal_College_Cougars	6.64381

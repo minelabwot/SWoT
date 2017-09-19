@@ -1,3 +1,0 @@
-Kate Seredy
-5	http://dbpedia.org/resource/Kate_Seredy	7.0396
-1	http://dbpedia.org/resource/The_Good_Master_by_Kate_Seredy	6.64381

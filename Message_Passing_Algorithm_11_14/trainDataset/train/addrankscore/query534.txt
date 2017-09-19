@@ -1,4 +1,0 @@
-Austin Powers in Goldmember
-5	http://dbpedia.org/resource/Austin_Powers_in_Goldmember	7.75874
-1	http://dbpedia.org/resource/Austin_Powers_In_Goldmember	6.64381
-1	http://dbpedia.org/resource/Austin_powers_in_goldmember	6.64381

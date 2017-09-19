@@ -1,4 +1,0 @@
-Bob Kushell
-5	http://dbpedia.org/resource/Bob_Kushell	7.61743
-1	http://dbpedia.org/resource/Anytime_with_bob_kushell	6.64381
-1	http://dbpedia.org/resource/Anytime_with_Bob_Kushell	4.00032

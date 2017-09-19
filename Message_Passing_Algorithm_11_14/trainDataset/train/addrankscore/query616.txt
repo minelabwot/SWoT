@@ -1,4 +1,0 @@
-B. R. Chopra
-1	http://dbpedia.org/resource/B_R_Chopra	6.64381
-1	http://dbpedia.org/resource/B._R._Chopra	6.64381
-1	http://dbpedia.org/resource/Category:Films_directed_by_B._R._Chopra	4.85996

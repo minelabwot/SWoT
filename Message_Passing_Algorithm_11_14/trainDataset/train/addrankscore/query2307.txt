@@ -1,3 +1,0 @@
-Make Mine Music
-1	http://dbpedia.org/resource/Make_Mine_Music_(TV_series)	6.64381
-5	http://dbpedia.org/resource/Make_Mine_Music	4.59048

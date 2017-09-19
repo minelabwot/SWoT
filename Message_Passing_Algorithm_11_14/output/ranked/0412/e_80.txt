@@ -1,3 +1,0 @@
-http://dbpedia.org/resource/Parking_sensor
-http://dbpedia.org/resource/Vehicle_parking_sensor
-http://dbpedia.org/resource/Electromagnetic_Parking_Sensor

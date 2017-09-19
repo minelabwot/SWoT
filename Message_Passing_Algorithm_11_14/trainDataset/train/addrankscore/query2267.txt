@@ -1,5 +1,0 @@
-William Henry Bragg
-5	http://dbpedia.org/resource/William_Henry_Bragg	7.50573
-1	http://dbpedia.org/resource/Sir_William_Henry_Bragg	6.64381
-1	http://dbpedia.org/resource/Bragg,_William_Henry,_Sir	6.64381
-1	http://dbpedia.org/resource/William_Henry,_Sir_Bragg	6.64381

@@ -1,3 +1,0 @@
-Kabhi Khushi Kabhie Gham
-1	http://dbpedia.org/resource/Kabhi_Khushi_Kabhie_Gham...	7.61743
-5	http://dbpedia.org/resource/Kabhi_Khushi_Kabhie_Gham	6.64381

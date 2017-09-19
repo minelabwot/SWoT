@@ -1,4 +1,0 @@
-Josiah Bartlet
-5	http://dbpedia.org/resource/Josiah_Bartlet	7.35439
-1	http://dbpedia.org/resource/Josiah_Edward_Bartlet	6.64381
-1	http://dbpedia.org/resource/Dr._Josiah_Edward_%22Jed%22_Bartlet	6.64381

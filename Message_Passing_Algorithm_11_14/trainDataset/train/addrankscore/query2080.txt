@@ -1,7 +1,0 @@
-The Three Caballeros
-1	http://dbpedia.org/resource/Gran_Fiesta_Tour_Starring_the_Three_Caballeros	6.64381
-1	http://dbpedia.org/resource/The_Three_Caballeros_(song)	6.64381
-1	http://dbpedia.org/resource/The_Three_Caballeros_Ride_Again	6.64381
-1	http://dbpedia.org/resource/Category:Songs_from_The_Three_Caballeros	4.82016
-5	http://dbpedia.org/resource/The_Three_Caballeros	4.6884
-1	http://dbpedia.org/resource/Gran_Fiesta_Tour_Starring_The_Three_Caballeros	4.59048

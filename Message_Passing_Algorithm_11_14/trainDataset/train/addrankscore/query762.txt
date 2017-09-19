@@ -1,3 +1,0 @@
-Carolyn Bailey
-1	http://dbpedia.org/resource/Carolyn_Bailey	6.64381
-5	http://dbpedia.org/resource/Carolyn_Sherwin_Bailey	4.6884

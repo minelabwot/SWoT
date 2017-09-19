@@ -1,9 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Lady_Margaret_Hall
-5	http://dbpedia.org/resource/Lady_Margaret_Hall,_Oxford
-1	http://dbpedia.org/resource/Category:Alumni_of_Lady_Margaret_Hall,_Oxford
-1	http://dbpedia.org/resource/Category:Fellows_of_Lady_Margaret_Hall,_Oxford
-1	http://dbpedia.org/resource/Lady_Margaret_of_Branksome_Hall
-1	http://dbpedia.org/resource/Category:Lady_Margaret_Hall,_Oxford
-1	http://dbpedia.org/resource/Category:Principals_of_Lady_Margaret_Hall,_Oxford
-1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Lady_Margaret_Hall,_Oxford

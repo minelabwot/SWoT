@@ -1,8 +1,0 @@
-L. V. Prasad
-5	http://dbpedia.org/resource/L._V._Prasad	9.06157
-1	http://dbpedia.org/resource/T._L._V._Prasad	8.78238
-1	http://dbpedia.org/resource/Category:Films_directed_by_L._V._Prasad	7.07952
-1	http://dbpedia.org/resource/L_V_Prasad	6.64381
-1	http://dbpedia.org/resource/L_V_Prasad_Eye_Institute	6.64381
-1	http://dbpedia.org/resource/T_L_V_Prasad	6.64381
-1	http://dbpedia.org/resource/L._V._Prasad_Eye_Institute	4.40991

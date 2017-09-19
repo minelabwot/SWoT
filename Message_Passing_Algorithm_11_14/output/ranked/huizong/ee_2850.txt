@@ -1,4 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Moira_Kelly
-1	http://dbpedia.org/resource/Moira_Kelly,_AO
-1	http://dbpedia.org/resource/Moira_Kelly_(humanitarian)

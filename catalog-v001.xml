@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.oclc.org/NET/ssnx/ssn" uri="file:/Users/yangyunong/Documents/北邮学报/本体整理/ssn.owl"/>
+    <uri id="Imports Wizard Entry" name="http://www.irit.fr/recherches/MELODI/ontologies/SAN" uri="https://www.irit.fr/recherches/MELODI/ontologies/SAN"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1495617188897" name="http://www.w3.org/2000/01/rdf-schema" uri="swot-o.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1495617188897" name="shadowed:http://www.w3.org/2000/01/rdf-schema" uri="sensor_annotation/src/main/resources/RDF_Database/Wot.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1495617188897" name="shadowed:http://www.w3.org/2000/01/rdf-schema" uri="sensor_annotation/file/Wot.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1495617188897" name="shadowed:http://www.w3.org/2000/01/rdf-schema" uri="sensor_annotation/target/classes/RDF_Database/Wot.owl"/>
+    </group>
+</catalog>

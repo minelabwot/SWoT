@@ -1,4 +1,0 @@
-Balance Point
-1	http://dbpedia.org/resource/How_many_angels_could_balance_on_the_point_of_a_pin	6.64381
-1	http://dbpedia.org/resource/Balance_point_temperature	6.64381
-5	http://dbpedia.org/resource/Balance_Point	4.74904

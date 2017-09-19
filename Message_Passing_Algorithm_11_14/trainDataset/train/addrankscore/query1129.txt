@@ -1,4 +1,0 @@
-Door in the Wall The
-1	http://dbpedia.org/resource/A_Door_in_the_Wall	6.64381
-1	http://dbpedia.org/resource/The_Door_in_the_Wall_and_Other_Stories	6.64381
-5	http://dbpedia.org/resource/The_Door_in_the_Wall	4.00032

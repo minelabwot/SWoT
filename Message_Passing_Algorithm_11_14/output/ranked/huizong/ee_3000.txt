@@ -1,3 +1,0 @@
-origin
-1	http://dbpedia.org/resource/Make_Way_For_Ducklings
-1	http://dbpedia.org/resource/Make_Way_for_Ducklings_statue

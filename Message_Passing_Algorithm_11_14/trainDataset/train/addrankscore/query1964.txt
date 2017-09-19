@@ -1,3 +1,0 @@
-Jeff Reardon
-5	http://dbpedia.org/resource/Jeff_Reardon	7.07904
-1	http://dbpedia.org/resource/Jeff_Reardon_(politician)	4.40991

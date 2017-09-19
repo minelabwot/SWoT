@@ -1,3 +1,0 @@
-Bart of Darkness
-1	http://dbpedia.org/resource/Bart_of_darkness	6.64381
-5	http://dbpedia.org/resource/Bart_of_Darkness	4.59048

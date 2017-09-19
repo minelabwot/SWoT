@@ -1,2 +1,0 @@
-Negus Mine
-5	http://dbpedia.org/resource/Negus_Mine	4.00032

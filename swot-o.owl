@@ -2,16 +2,22 @@
 <rdf:RDF xmlns="http://www.w3.org/2000/01/rdf-schema#"
      xml:base="http://www.w3.org/2000/01/rdf-schema"
      xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:msm="http://iserve.kmi.open.ac.uk/ns/msm#"
+     xmlns:cpannotationschema="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:voaf="http://purl.org/vocommons/voaf#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#"
      xmlns:dct="http://purl.org/dc/terms/"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-     xmlns:swot="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:swot="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl">
         <comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Please report any errors to the author&apos;s email - &quot;yangyunong@bupt.edu.cn&quot; or &quot;shower0512@bupt.edu.cn&quot;</comment>
@@ -185,6 +191,12 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://iserve.kmi.open.ac.uk/ns/msm#hasOperation -->
+
+    <owl:ObjectProperty rdf:about="http://iserve.kmi.open.ac.uk/ns/msm#hasOperation"/>
     
 
 
@@ -634,6 +646,12 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
+    <!-- http://www.irit.fr/recherches/MELODI/ontologies/SAN#impacts -->
+
+    <owl:ObjectProperty rdf:about="http://www.irit.fr/recherches/MELODI/ontologies/SAN#impacts"/>
+    
+
+
     <!-- http://www.loa-cnr.it/ontologies/DUL.owl#describes -->
 
     <owl:ObjectProperty rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#describes">
@@ -866,6 +884,18 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasAddress -->
+
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasAddress"/>
+    
+
+
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasParam -->
+
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasParam"/>
+    
+
+
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasValue -->
 
     <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasValue">
@@ -891,6 +921,12 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     
 
 
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#resultIn -->
+
+    <owl:DatatypeProperty rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#resultIn"/>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -899,6 +935,38 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- http://iserve.kmi.open.ac.uk/ns/msm#Operation -->
+
+    <owl:Class rdf:about="http://iserve.kmi.open.ac.uk/ns/msm#Operation">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasAddress"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasParam"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://iserve.kmi.open.ac.uk/ns/msm#Service -->
+
+    <owl:Class rdf:about="http://iserve.kmi.open.ac.uk/ns/msm#Service">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://iserve.kmi.open.ac.uk/ns/msm#hasOperation"/>
+                <owl:someValuesFrom rdf:resource="http://iserve.kmi.open.ac.uk/ns/msm#Operation"/>
+            </owl:Restriction>
+        </subClassOf>
+    </owl:Class>
     
 
 
@@ -916,12 +984,6 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasState"/>
                 <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State"/>
-            </owl:Restriction>
-        </subClassOf>
-        <subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasUnit"/>
-                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Unit"/>
             </owl:Restriction>
         </subClassOf>
         <subClassOf>
@@ -978,8 +1040,21 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
                 <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Spot"/>
             </owl:Restriction>
         </subClassOf>
-        <label>FeatureOfInterest</label>
     </owl:Class>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#Observation -->
+
+    <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Observation">
+        <subClassOf rdf:resource="http://iserve.kmi.open.ac.uk/ns/msm#Operation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.oclc.org/NET/ssnx/ssn#Property -->
+
+    <owl:Class rdf:about="http://purl.oclc.org/NET/ssnx/ssn#Property"/>
     
 
 
@@ -989,8 +1064,14 @@ Note that, given the DUL modelling of Qualities, a sensor defined with &apos;obs
         <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#detects"/>
+                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Anomaly"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
                 <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#generate"/>
-                <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
+                <owl:someValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause"/>
             </owl:Restriction>
         </subClassOf>
         <dc:source>skos:exactMatch &apos;sensor&apos; [SensorML OGC-0700]
@@ -1021,38 +1102,32 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#Event -->
+    <!-- http://qudt.org/schema/qudt#Unit -->
 
-    <owl:Class rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#Event">
+    <owl:Class rdf:about="http://qudt.org/schema/qudt#Unit">
+        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irit.fr/recherches/MELODI/ontologies/SAN#Actuation -->
+
+    <owl:Class rdf:about="http://www.irit.fr/recherches/MELODI/ontologies/SAN#Actuation">
+        <subClassOf rdf:resource="http://iserve.kmi.open.ac.uk/ns/msm#Operation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.irit.fr/recherches/MELODI/ontologies/SAN#Actuator -->
+
+    <owl:Class rdf:about="http://www.irit.fr/recherches/MELODI/ontologies/SAN#Actuator">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#observationSamplingTime"/>
-                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+                <owl:onProperty rdf:resource="http://iserve.kmi.open.ac.uk/ns/msm#hasOperation"/>
+                <owl:someValuesFrom rdf:resource="http://www.irit.fr/recherches/MELODI/ontologies/SAN#Actuation"/>
             </owl:Restriction>
         </subClassOf>
-        <label>Event</label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.w3.org/2001/XMLSchema#dateTime -->
-
-    <owl:Class rdf:about="http://www.w3.org/2001/XMLSchema#dateTime"/>
-    
-
-
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action -->
-
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action">
-        <label>Action</label>
-    </owl:Class>
-    
-
-
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Actuator -->
-
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Actuator">
-        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Device"/>
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#generate"/>
@@ -1068,11 +1143,54 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#triggers"/>
-                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action"/>
+                <owl:allValuesFrom rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PostCondition"/>
             </owl:Restriction>
         </subClassOf>
-        <label>Actuator</label>
     </owl:Class>
+    
+
+
+    <!-- http://www.loa-cnr.it/ontologies/DUL.owl#Event -->
+
+    <owl:Class rdf:about="http://www.loa-cnr.it/ontologies/DUL.owl#Event">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#observationSamplingTime"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+            </owl:Restriction>
+        </subClassOf>
+        <label>Event</label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Process -->
+
+    <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Process"/>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#dateTime -->
+
+    <owl:Class rdf:about="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    
+
+
+    <!-- http://www.wsmo.org/ns/wsmo-lite#Condition -->
+
+    <owl:Class rdf:about="http://www.wsmo.org/ns/wsmo-lite#Condition"/>
+    
+
+
+    <!-- http://www.wsmo.org/ns/wsmo-lite#Effect -->
+
+    <owl:Class rdf:about="http://www.wsmo.org/ns/wsmo-lite#Effect"/>
     
 
 
@@ -1248,7 +1366,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#ObservedCause">
-        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Stimulus"/>
+        <subClassOf rdf:resource="http://www.loa-cnr.it/ontologies/DUL.owl#Event"/>
         <label>ObservedCause</label>
     </owl:Class>
     
@@ -1293,6 +1411,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PhysicalProcess">
+        <subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Process"/>
         <subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#hasInput"/>
@@ -1318,6 +1437,36 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PostCondition -->
+
+    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PostCondition">
+        <subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+        <subClassOf rdf:resource="http://www.wsmo.org/ns/wsmo-lite#Effect"/>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.irit.fr/recherches/MELODI/ontologies/SAN#impacts"/>
+                <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Property"/>
+            </owl:Restriction>
+        </subClassOf>
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#resultIn"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+            </owl:Restriction>
+        </subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PreCondition -->
+
+    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PreCondition">
+        <subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event"/>
+        <subClassOf rdf:resource="http://www.wsmo.org/ns/wsmo-lite#Condition"/>
+    </owl:Class>
+    
+
+
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Pressure -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Pressure">
@@ -1338,13 +1487,8 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#SensorProperty">
+        <subClassOf rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Property"/>
         <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
-        <subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#isPropertyOf"/>
-                <owl:someValuesFrom rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#FeatureOfInterest"/>
-            </owl:Restriction>
-        </subClassOf>
     </owl:Class>
     
 
@@ -1361,6 +1505,12 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#State">
+        <subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#hasValue"/>
+                <owl:allValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+            </owl:Restriction>
+        </subClassOf>
         <label>State</label>
     </owl:Class>
     
@@ -1384,28 +1534,9 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnDown -->
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#URITemplate -->
 
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnDown">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action"/>
-    </owl:Class>
-    
-
-
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnUp -->
-
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#TurnUp">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Action"/>
-    </owl:Class>
-    
-
-
-    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Unit -->
-
-    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Unit">
-        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
-        <label>Unit</label>
-    </owl:Class>
+    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#URITemplate"/>
     
 
 
@@ -1478,6 +1609,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:NamedIndividual rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#high">
         <rdf:type rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#High"/>
+        <swot:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</swot:hasValue>
     </owl:NamedIndividual>
     
 
@@ -1486,6 +1618,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:NamedIndividual rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#low">
         <rdf:type rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Low"/>
+        <swot:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#int">-1</swot:hasValue>
     </owl:NamedIndividual>
     
 
@@ -1494,6 +1627,7 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
 
     <owl:NamedIndividual rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#nomal">
         <rdf:type rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Nomal"/>
+        <swot:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</swot:hasValue>
     </owl:NamedIndividual>
 </rdf:RDF>
 

@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/National_Traffic_and_Motor_Vehicle_Safety_Act_of_1966
-http://dbpedia.org/resource/National_traffic_and_motor_vehicle_safety_act
-http://dbpedia.org/resource/Motor_vehicle_traffic_collision
-http://dbpedia.org/resource/N.Y._Vehicle_and_Traffic_Law
-http://dbpedia.org/resource/NY_Vehicle_and_Traffic_Law
-http://dbpedia.org/resource/NYS_Vehicle_and_Traffic_Law
-http://dbpedia.org/resource/New_York_State_Vehicle_and_Traffic_Law
-http://dbpedia.org/resource/New_York_Vehicle_and_Traffic_Law
-http://dbpedia.org/resource/Vehicle_and_Traffic_Law

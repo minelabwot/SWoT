@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Kabhi_Khushi_Kabhie_Gham
-1	http://dbpedia.org/resource/Kabhi_Khushi_Kabhie_Gham...

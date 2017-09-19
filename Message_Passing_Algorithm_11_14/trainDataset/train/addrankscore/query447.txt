@@ -1,3 +1,0 @@
-Ylesia
-1	http://dbpedia.org/resource/Ylesia_e-book	6.64381
-5	http://dbpedia.org/resource/Ylesia_(novel)	4.59048

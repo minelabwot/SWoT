@@ -1,4 +1,0 @@
-The Grey King
-1	http://dbpedia.org/resource/Zane_Grey's_King_of_the_Royal_Mounted	6.64381
-5	http://dbpedia.org/resource/The_Grey_King	4.59048
-1	http://dbpedia.org/resource/King_of_the_Grey_Islands	4.40991

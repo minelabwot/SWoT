@@ -1,3 +1,0 @@
-Sir Henry Dale
-1	http://dbpedia.org/resource/Sir_Henry_Hallett_Dale	6.64381
-1	http://dbpedia.org/resource/Sir_Henry_Dale	6.64381

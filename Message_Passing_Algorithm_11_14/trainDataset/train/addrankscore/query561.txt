@@ -1,4 +1,0 @@
-Medicine Hat College
-1	http://dbpedia.org/resource/The_Medicine_Hat_College	6.64381
-1	http://dbpedia.org/resource/Medicine_Hat_College_Libraries	6.64381
-5	http://dbpedia.org/resource/Medicine_Hat_College	4.40991

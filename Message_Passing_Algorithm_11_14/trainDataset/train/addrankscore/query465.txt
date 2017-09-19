@@ -1,9 +1,0 @@
-Frederick Hopkins
-5	http://dbpedia.org/resource/Frederick_Gowland_Hopkins	7.57936
-1	http://dbpedia.org/resource/Sir_Frederick_Gowland_Hopkins	6.64381
-1	http://dbpedia.org/resource/Sir_Frederick_Hopkins	6.64381
-1	http://dbpedia.org/resource/Frederick_G._Hopkins	6.64381
-1	http://dbpedia.org/resource/Hopkins,_Sir_Frederick_Gowland	6.64381
-1	http://dbpedia.org/resource/Frederick_Hopkins	6.64381
-1	http://dbpedia.org/resource/Raymond_Frederick_Hopkins	6.64381
-1	http://dbpedia.org/resource/Frederick_C._Hopkins	6.64381

@@ -1,2 +1,0 @@
-Deep Space Homer
-5	http://dbpedia.org/resource/Deep_Space_Homer	4.59048

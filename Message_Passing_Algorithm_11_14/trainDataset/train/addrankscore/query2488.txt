@@ -1,4 +1,0 @@
-Long billed Curlew
-5	http://dbpedia.org/resource/Long-billed_Curlew	6.64381
-1	http://dbpedia.org/resource/Long_billed_curlew	6.64381
-1	http://dbpedia.org/resource/Long-billed_curlew	4.79041

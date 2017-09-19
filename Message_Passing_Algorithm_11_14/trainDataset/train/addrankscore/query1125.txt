@@ -1,4 +1,0 @@
-Charles Hawes
-5	http://dbpedia.org/resource/Charles_Hawes	6.64381
-1	http://dbpedia.org/resource/Charles_George_Hawes	6.64381
-1	http://dbpedia.org/resource/Charles_Boardman_Hawes	4.6884

@@ -1,6 +1,0 @@
-Nicolas Baudin
-1	http://dbpedia.org/resource/Nicolas-Thomas_Baudin	6.64381
-1	http://dbpedia.org/resource/Nicolas_Baudin's_expedition_to_Australia	6.64381
-5	http://dbpedia.org/resource/Nicolas_Baudin	4.81976
-1	http://dbpedia.org/resource/Nicolas_Baudin_Island_Conservation_Park	4.00032
-1	http://dbpedia.org/resource/Nicolas_Baudin_Island	4.00032

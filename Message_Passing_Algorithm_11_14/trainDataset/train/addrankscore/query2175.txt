@@ -1,3 +1,0 @@
-A. V. Hill
-1	http://dbpedia.org/resource/A._V._Hill	6.64381
-1	http://dbpedia.org/resource/A_V_Hill	6.64381

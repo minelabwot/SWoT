@@ -1,3 +1,0 @@
-Venta Silurum
-1	http://dbpedia.org/resource/Venta_silurum	6.64381
-5	http://dbpedia.org/resource/Venta_Silurum	4.40991

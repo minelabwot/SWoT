@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/David_Macaulay
-1	http://dbpedia.org/resource/David_M._MacAulay_Field

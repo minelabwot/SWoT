@@ -1,2 +1,0 @@
-http://dbpedia.org/resource/Richard_Schiff
-http://dbpedia.org/resource/USS_Bonhomme_Richard_(1765)

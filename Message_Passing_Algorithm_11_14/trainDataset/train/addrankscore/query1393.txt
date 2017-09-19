@@ -1,6 +1,0 @@
-A Wrinkle in Time
-5	http://dbpedia.org/resource/A_Wrinkle_in_Time	7.27738
-1	http://dbpedia.org/resource/A_Wrinkle_In_Time	6.64381
-1	http://dbpedia.org/resource/A_wrinkle_in_time	6.64381
-1	http://dbpedia.org/resource/A_Wrinkle_in_Time_(film)	6.64381
-1	http://dbpedia.org/resource/A_Wrinkle_in_Time_Quintet	6.64381

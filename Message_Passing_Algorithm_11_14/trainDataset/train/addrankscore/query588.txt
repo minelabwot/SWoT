@@ -1,3 +1,0 @@
-The Final Prophecy
-1	http://dbpedia.org/resource/Star_Wars:_The_Final_Prophecy	6.64381
-5	http://dbpedia.org/resource/The_Final_Prophecy	4.74904

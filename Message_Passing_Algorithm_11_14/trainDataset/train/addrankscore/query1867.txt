@@ -1,8 +1,0 @@
-Richard Peck
-1	http://dbpedia.org/resource/Richard_Peck_(writer)	7.27738
-1	http://dbpedia.org/resource/USS_Richard_Peck	6.64381
-1	http://dbpedia.org/resource/Richard_Peck_(novelist)	6.64381
-1	http://dbpedia.org/resource/Richard_Peck_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/USS_Richard_Peck_(IX-96)	4.00032
-1	http://dbpedia.org/resource/Richard_Peck_(lawyer)	4.00032
-5	http://dbpedia.org/resource/Richard_Peck	4.00032

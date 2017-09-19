@@ -1,2 +1,0 @@
-http://dbpedia.org/resource/Minimum_oxygen_concentration
-http://dbpedia.org/resource/Limiting_oxygen_concentration

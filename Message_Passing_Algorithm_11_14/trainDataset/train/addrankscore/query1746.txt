@@ -1,3 +1,0 @@
-Elizabeth Coatsworth
-1	http://dbpedia.org/resource/Elizabeth_Jane_Coatsworth	6.64381
-5	http://dbpedia.org/resource/Elizabeth_Coatsworth	4.6884

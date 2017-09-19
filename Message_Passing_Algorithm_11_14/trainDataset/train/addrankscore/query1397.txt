@@ -1,2 +1,0 @@
-I Juan de Pareja
-5	http://dbpedia.org/resource/I,_Juan_de_Pareja	6.64381

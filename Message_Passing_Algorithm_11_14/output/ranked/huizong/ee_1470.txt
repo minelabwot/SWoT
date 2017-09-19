@@ -1,7 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Nipissing_University
-1	http://dbpedia.org/resource/Nipissing_University_Student_Union
-1	http://dbpedia.org/resource/Category:Nipissing_University
-1	http://dbpedia.org/resource/Category:Nipissing_University_alumni
-1	http://dbpedia.org/resource/Category:Nipissing_University_faculty
-1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Nipissing_University

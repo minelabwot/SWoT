@@ -1,4 +1,0 @@
-origin
-5	http://dbpedia.org/resource/University_of_Ontario_Institute_of_Technology
-1	http://dbpedia.org/resource/Category:University_of_Ontario_Institute_of_Technology
-1	http://dbpedia.org/resource/University_of_Ontario_Institute_of_Technology_Ridgebacks

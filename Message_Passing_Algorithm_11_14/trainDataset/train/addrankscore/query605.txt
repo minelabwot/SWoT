@@ -1,4 +1,0 @@
-V. Shantaram
-5	http://dbpedia.org/resource/V._Shantaram	9.29204
-1	http://dbpedia.org/resource/Category:Films_directed_by_V._Shantaram	8.13783
-1	http://dbpedia.org/resource/V_Shantaram	6.64381

@@ -1,6 +1,0 @@
-Hu Jintao
-5	http://dbpedia.org/resource/Hu_Jintao	9.07924
-1	http://dbpedia.org/resource/Jintao_Hu	6.64381
-1	http://dbpedia.org/resource/President_Hu_Jintao	6.64381
-1	http://dbpedia.org/resource/Paramount_Leader_Hu_Jintao	6.64381
-1	http://dbpedia.org/resource/Hu_Jintao-Wen_Jiabao_Administration	6.64381

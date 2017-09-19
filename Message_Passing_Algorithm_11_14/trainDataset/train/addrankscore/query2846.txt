@@ -1,3 +1,0 @@
-Ed Emberley
-1	http://dbpedia.org/resource/Ed_emberley	6.64381
-5	http://dbpedia.org/resource/Ed_Emberley	4.6884

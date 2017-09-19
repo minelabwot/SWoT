@@ -1,3 +1,0 @@
-Semipalmated Sandpiper
-5	http://dbpedia.org/resource/Semipalmated_Sandpiper	6.64381
-1	http://dbpedia.org/resource/Semipalmated_sandpiper	4.6884

@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/Dew_point
-http://dbpedia.org/resource/Dew_point_temperature
-http://dbpedia.org/resource/Dew_point_line
-http://dbpedia.org/resource/Dew_point_factor
-http://dbpedia.org/resource/Hydrocarbon_dew_point
-http://dbpedia.org/resource/Dew_point_depression

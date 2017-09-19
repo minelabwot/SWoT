@@ -1,2 +1,0 @@
-The Whispering Statue
-5	http://dbpedia.org/resource/The_Whispering_Statue	4.6884

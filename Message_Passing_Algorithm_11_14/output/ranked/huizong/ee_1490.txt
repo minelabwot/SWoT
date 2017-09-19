@@ -1,7 +1,0 @@
-origin
-1	1	http://dbpedia.org/resource/Ontario_College_of_Art_&_Design
-1	1	http://dbpedia.org/resource/Ontario_College_of_Art_and_Design
-1	1	http://dbpedia.org/resource/Ontario_College_of_Art_&_Design_University
-1	1	http://dbpedia.org/resource/Ontario_College_of_Art_and_Design_University
-1	1	http://dbpedia.org/resource/Category:Ontario_College_of_Art_and_Design_alumni
-1	1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Ontario_College_of_Art_&_Design

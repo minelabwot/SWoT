@@ -1,3 +1,0 @@
-Aaron Klug
-1	http://dbpedia.org/resource/Sir_Aaron_Klug	6.64381
-5	http://dbpedia.org/resource/Aaron_Klug	4.79017

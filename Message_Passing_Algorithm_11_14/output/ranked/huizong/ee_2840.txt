@@ -1,7 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Charlie_Young
-1	http://dbpedia.org/resource/Charlie_Young_(actress)
-1	http://dbpedia.org/resource/Charlie_W._Young
-1	http://dbpedia.org/resource/Charlie_Young_(disambiguation)
-1	http://dbpedia.org/resource/Charlie_Young_(footballer)
-1	http://dbpedia.org/resource/Charlie_Young_(baseball)

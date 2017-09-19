@@ -1,2 +1,0 @@
-Lethbridge Community College
-1	http://dbpedia.org/resource/Lethbridge_Community_College	6.64381

@@ -1,5 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Kal_Ho_Naa_Ho
-1	http://dbpedia.org/resource/Kal_Ho_Naa_Ho_(soundtrack)
-1	http://dbpedia.org/resource/Kal_Ho_Naa_Ho_(2003_film)
-1	http://dbpedia.org/resource/Kal_Ho_Naa_Ho_(song)

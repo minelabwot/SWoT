@@ -1,4 +1,0 @@
-University of Ontario Institute of Technology
-5	http://dbpedia.org/resource/University_of_Ontario_Institute_of_Technology	7.15852
-1	http://dbpedia.org/resource/University_of_Ontario_Institute_of_Technology_Ridgebacks	4.79017
-1	http://dbpedia.org/resource/Category:University_of_Ontario_Institute_of_Technology	4.40991

@@ -1,6 +1,0 @@
-http://dbpedia.org/resource/Whimbrel
-http://dbpedia.org/resource/Common_Whimbrel
-http://dbpedia.org/resource/Little_Whimbrel
-http://dbpedia.org/resource/Eurasian_Whimbrel
-http://dbpedia.org/resource/Hudsonian_Whimbrel
-http://dbpedia.org/resource/HMS_Whimbrel_(U29)

@@ -1,3 +1,0 @@
-William Steig
-5	http://dbpedia.org/resource/William_Steig	7.46856
-1	http://dbpedia.org/resource/Category:Books_by_William_Steig	4.82016

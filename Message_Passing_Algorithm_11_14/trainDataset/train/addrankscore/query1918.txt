@@ -1,3 +1,0 @@
-David Sacks
-5	http://dbpedia.org/resource/David_Sacks	7.46939
-1	http://dbpedia.org/resource/David_O._Sacks	4.81976

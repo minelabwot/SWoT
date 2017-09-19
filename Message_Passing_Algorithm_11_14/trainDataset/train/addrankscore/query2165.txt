@@ -1,7 +1,0 @@
-Joseph Louis Gay Lussac
-5	http://dbpedia.org/resource/Joseph_Louis_Gay-Lussac	7.19871
-1	http://dbpedia.org/resource/Joseph-Louis_Gay-Lussac	6.64381
-1	http://dbpedia.org/resource/Louis_Joseph_Gay-Lussac	6.64381
-1	http://dbpedia.org/resource/Joseph_Louis_Gay_Lussac	6.64381
-1	http://dbpedia.org/resource/Louis_Joseph_Gay_Lussac	6.64381
-1	http://dbpedia.org/resource/Joseph_Louis_Gay–Lussac	4.00032

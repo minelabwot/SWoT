@@ -1,6 +1,0 @@
-Mary McCormack
-5	http://dbpedia.org/resource/Mary_McCormack	8.3458
-1	http://dbpedia.org/resource/Mary_Mccormack	6.64381
-1	http://dbpedia.org/resource/Mary_Ellen_McCormack	6.64381
-1	http://dbpedia.org/resource/Mary_Ellen_McCormack_housing_project	6.64381
-1	http://dbpedia.org/resource/Bridget_Mary_McCormack	4.74904

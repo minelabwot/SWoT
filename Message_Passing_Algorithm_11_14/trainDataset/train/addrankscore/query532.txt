@@ -1,9 +1,0 @@
-The Virgin Suicides
-1	http://dbpedia.org/resource/The_virgin_suicides	6.64381
-1	http://dbpedia.org/resource/The_Virgin_Suicides_(album)	6.64381
-1	http://dbpedia.org/resource/The_Virgin_Suicides_(soundtrack)	6.64381
-1	http://dbpedia.org/resource/The_Virgin_Suicides_(novel)	6.64381
-1	http://dbpedia.org/resource/The_Virgin_Suicides	4.79041
-1	http://dbpedia.org/resource/The_Virgin_Suicides_(score)	4.6884
-1	http://dbpedia.org/resource/Category:Suicides_in_the_United_States_Virgin_Islands	4.00032
-5	http://dbpedia.org/resource/The_Virgin_Suicides_(film)	4.00032

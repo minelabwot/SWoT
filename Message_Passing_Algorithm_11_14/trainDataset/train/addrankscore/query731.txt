@@ -1,5 +1,0 @@
-Robin McKinley
-5	http://dbpedia.org/resource/Robin_McKinley	7.68992
-1	http://dbpedia.org/resource/Robin_mckinley	6.64381
-1	http://dbpedia.org/resource/Beauty_(Robin_McKinley_book)	6.64381
-1	http://dbpedia.org/resource/Category:Novels_by_Robin_McKinley	4.85996

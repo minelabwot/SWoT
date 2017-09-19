@@ -1,3 +1,0 @@
-Sid Fleischman
-5	http://dbpedia.org/resource/Sid_Fleischman	7.23786
-1	http://dbpedia.org/resource/Fleischman,_Sid	6.64381

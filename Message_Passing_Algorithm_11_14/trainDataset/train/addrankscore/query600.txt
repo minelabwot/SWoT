@@ -1,3 +1,0 @@
-Sohrab Modi
-5	http://dbpedia.org/resource/Sohrab_Modi	9.21211
-1	http://dbpedia.org/resource/Category:Films_directed_by_Sohrab_Modi	7.61931

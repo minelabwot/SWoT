@@ -1,3 +1,0 @@
-Marguerite Henry
-5	http://dbpedia.org/resource/Marguerite_Henry	4.8598
-1	http://dbpedia.org/resource/Category:Novels_by_Marguerite_Henry	4.74933

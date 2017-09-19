@@ -1,7 +1,0 @@
-The Great Mouse Detective
-5	http://dbpedia.org/resource/The_Great_Mouse_Detective	7.19871
-1	http://dbpedia.org/resource/The_Adventures_of_the_Great_Mouse_Detective	6.64381
-1	http://dbpedia.org/resource/Basil,_the_Great_Mouse_Detective	6.64381
-1	http://dbpedia.org/resource/The_Great_Mouse_detective	6.64381
-1	http://dbpedia.org/resource/The_Adventures_of_The_Great_Mouse_Detective	6.64381
-1	http://dbpedia.org/resource/Basil_the_Great_Mouse_Detective	6.64381

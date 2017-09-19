@@ -1,5 +1,0 @@
-Roll of Thunder Hear My Cry
-5	http://dbpedia.org/resource/Roll_of_Thunder,_Hear_My_Cry	7.23786
-1	http://dbpedia.org/resource/Roll_of_Thunder,_Hear_my_Cry	6.64381
-1	http://dbpedia.org/resource/Roll_of_thunder_hear_my_cry	6.64381
-1	http://dbpedia.org/resource/Roll_of_Thunder_Hear_My_Cry	6.64381

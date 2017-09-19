@@ -1,3 +1,0 @@
-Har Dil Jo Pyaar Karega
-1	http://dbpedia.org/resource/Har_Dil_Jo_Pyaar_Karega	6.64381
-5	http://dbpedia.org/resource/Har_Dil_Jo_Pyar_Karega	4.40991

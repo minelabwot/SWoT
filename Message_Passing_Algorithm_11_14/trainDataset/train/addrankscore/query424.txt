@@ -1,6 +1,0 @@
-Jean Baptiste Joseph Delambre
-5	http://dbpedia.org/resource/Jean_Baptiste_Joseph_Delambre	7.19871
-1	http://dbpedia.org/resource/Jean-Baptiste-Joseph_Delambre	6.64381
-1	http://dbpedia.org/resource/Jean_baptiste_joseph_delambre	6.64381
-1	http://dbpedia.org/resource/Jean_Baptiste_Joseph,_chevalier_Delambre	6.64381
-1	http://dbpedia.org/resource/Jean-Baptiste_Joseph_Delambre	6.64381

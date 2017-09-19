@@ -1,8 +1,0 @@
-Laurentian University
-5	http://dbpedia.org/resource/Laurentian_University	8.18691
-1	http://dbpedia.org/resource/Category:Laurentian_University_alumni	7.75977
-1	http://dbpedia.org/resource/Category:Laurentian_University_faculty	7.43268
-1	http://dbpedia.org/resource/Category:Laurentian_University	7.23786
-1	http://dbpedia.org/resource/Laurentian_University_Museum_and_Arts_Centre	6.64381
-1	http://dbpedia.org/resource/Category:Presidents_of_Laurentian_University	4.40991
-1	http://dbpedia.org/resource/Category:Wikipedians_by_alma_mater:_Laurentian_University	5.88129e-14

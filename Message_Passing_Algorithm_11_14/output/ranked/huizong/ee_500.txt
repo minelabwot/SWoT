@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/David_Wisniewski
-1	http://dbpedia.org/resource/Golem_(David_Wisniewski_book)

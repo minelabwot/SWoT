@@ -1,3 +1,0 @@
-Lisa on Ice
-1	http://dbpedia.org/resource/Lisa_On_Ice	6.64381
-5	http://dbpedia.org/resource/Lisa_on_Ice	4.6884

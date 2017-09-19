@@ -1,7 +1,0 @@
-Paheli
-1	http://dbpedia.org/resource/Paheli_(2005_film)	6.64381
-1	http://dbpedia.org/resource/Ek_Nai_Paheli	6.64381
-1	http://dbpedia.org/resource/Ek_Paheli	6.64381
-1	http://dbpedia.org/resource/Paheli_(1977_film)	6.64381
-1	http://dbpedia.org/resource/Ek_Paheli_Leela	4.6884
-5	http://dbpedia.org/resource/Paheli	4.00032

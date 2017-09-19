@@ -1,3 +1,0 @@
-Kuch Kuch Hota Hai
-1	http://dbpedia.org/resource/Kuch_kuch_hota_hai	6.64381
-5	http://dbpedia.org/resource/Kuch_Kuch_Hota_Hai	4.59048

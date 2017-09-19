@@ -1,9 +1,0 @@
-Gustave Coriolis
-1	http://dbpedia.org/resource/Gaspard-Gustave_de_Coriolis	7.19871
-1	http://dbpedia.org/resource/Gustave-Gaspard_Coriolis	6.64381
-1	http://dbpedia.org/resource/Gustave-Gaspard_de_Coriolis	6.64381
-1	http://dbpedia.org/resource/Gaspard_Gustave_de_Coriolis	6.64381
-1	http://dbpedia.org/resource/Gustave_Coriolis	6.64381
-1	http://dbpedia.org/resource/Gustave_de_Coriolis	6.64381
-1	http://dbpedia.org/resource/Gaspard-gustave_coriolis	6.64381
-5	http://dbpedia.org/resource/Gaspard-Gustave_Coriolis	6.64381

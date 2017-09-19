@@ -1,3 +1,0 @@
-William Baffin
-1	http://dbpedia.org/resource/Baffin,_WILLIAM	6.64381
-5	http://dbpedia.org/resource/William_Baffin	4.40991

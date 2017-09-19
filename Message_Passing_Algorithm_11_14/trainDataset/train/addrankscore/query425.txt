@@ -1,9 +1,0 @@
-Urbain Le Verrier
-5	http://dbpedia.org/resource/Urbain_Le_Verrier	7.57936
-1	http://dbpedia.org/resource/Urbain_Jean_Joseph_Le_Verrier	6.64381
-1	http://dbpedia.org/resource/Urbain-Jean-Joseph_Le_Verrier	6.64381
-1	http://dbpedia.org/resource/Urbain_J._J._Le_Verrier	6.64381
-1	http://dbpedia.org/resource/Urbain_J._Le_Verrier	6.64381
-1	http://dbpedia.org/resource/Urbain_le_verrier	6.64381
-1	http://dbpedia.org/resource/Le_Verrier,_Urbain-Jean-Joseph	6.64381
-1	http://dbpedia.org/resource/Urbain_le_Verrier	6.64381

@@ -1,2 +1,0 @@
-origin
-5	http://dbpedia.org/resource/White-rumped_Sandpiper

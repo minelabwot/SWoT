@@ -1,3 +1,0 @@
-http://dbpedia.org/resource/Solar_controller
-http://dbpedia.org/resource/Solar_charge_controller
-http://dbpedia.org/resource/Zero_carbon_solar_controller

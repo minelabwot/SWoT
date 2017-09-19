@@ -1,3 +1,0 @@
-Paul Goble
-5	http://dbpedia.org/resource/Paul_Goble	4.8598
-1	http://dbpedia.org/resource/Paul_A._Goble	4.00032

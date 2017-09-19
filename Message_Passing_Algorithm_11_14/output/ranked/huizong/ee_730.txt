@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Paul_Goble
-1	http://dbpedia.org/resource/Paul_A._Goble

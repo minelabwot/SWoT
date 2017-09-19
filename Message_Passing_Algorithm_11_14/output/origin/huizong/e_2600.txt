@@ -1,9 +1,0 @@
-http://dbpedia.org/resource/Category:Fellows_of_Green_Templeton_College,_Oxford
-http://dbpedia.org/resource/Green_Templeton_College,_Oxford
-http://dbpedia.org/resource/Category:Green_Templeton_College,_Oxford
-http://dbpedia.org/resource/Templeton_College
-http://dbpedia.org/resource/Green_Templeton_College
-http://dbpedia.org/resource/Category:Alumni_of_Green_Templeton_College,_Oxford
-http://dbpedia.org/resource/Templeton_College,_Oxford
-http://dbpedia.org/resource/Category:Principals_of_Green_Templeton_College,_Oxford
-http://dbpedia.org/resource/Category:Templeton_College,_Oxford

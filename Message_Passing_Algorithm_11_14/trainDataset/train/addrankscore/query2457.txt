@@ -1,3 +1,0 @@
-Homer vs. Patty and Selma
-1	http://dbpedia.org/resource/Homer_vs_patty_and_selma	6.64381
-1	http://dbpedia.org/resource/Homer_vs._Patty_and_Selma	4.59048

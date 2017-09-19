@@ -1,2 +1,0 @@
-http://dbpedia.org/resource/Automatic_Vehicle_Location
-http://dbpedia.org/resource/Vehicle_location_data

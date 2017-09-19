@@ -1,7 +1,0 @@
-Mars Attacks 
-1	http://dbpedia.org/resource/Mars_Attacks_the_World	6.64381
-1	http://dbpedia.org/resource/Mars_Attacks:_Martian_Deathtrap	6.64381
-1	http://dbpedia.org/resource/Mars_Attacks_(film)	6.64381
-1	http://dbpedia.org/resource/Mars_Attacks_Judge_Dredd	6.64381
-5	http://dbpedia.org/resource/Mars_Attacks!	4.84221
-1	http://dbpedia.org/resource/Mars_Attacks	4.00032

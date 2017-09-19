@@ -1,8 +1,0 @@
-Lakehead University
-1	http://dbpedia.org/resource/Category:Lakehead_University_alumni	7.69091
-5	http://dbpedia.org/resource/Lakehead_University	7.42948
-1	http://dbpedia.org/resource/Category:Lakehead_University	7.0396
-1	http://dbpedia.org/resource/Faculty_of_Medicine_-_Lakehead_University	6.64381
-1	http://dbpedia.org/resource/Faculty_of_Law,_Lakehead_University	6.64381
-1	http://dbpedia.org/resource/Category:Lakehead_University_faculty	4.74933
-1	http://dbpedia.org/resource/Lakehead_University_Faculty_of_Law	4.59048

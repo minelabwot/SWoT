@@ -1,4 +1,0 @@
-Arnold Lobel
-5	http://dbpedia.org/resource/Arnold_Lobel	7.39346
-1	http://dbpedia.org/resource/Arnold_Stark_Lobel	6.64381
-1	http://dbpedia.org/resource/Category:Picture_books_by_Arnold_Lobel	4.74933

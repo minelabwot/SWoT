@@ -1,4 +1,0 @@
-Why Mosquitoes Buzz in People Ears
-1	http://dbpedia.org/resource/Why_Mosquitoes_Buzz_In_People's_Ears	6.64381
-5	http://dbpedia.org/resource/Why_Mosquitoes_Buzz_in_People's_Ears	4.40991
-1	http://dbpedia.org/resource/Why_Mosquitoes_Buzz_In_People’s_Ears	4.00032

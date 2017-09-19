@@ -1,7 +1,0 @@
-Chalte Chalte
-1	http://dbpedia.org/resource/Chalte_Chalte_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/Phir_milenge_chalte_chalte	6.64381
-5	http://dbpedia.org/resource/Chalte_Chalte_(2003_film)	4.00032
-1	http://dbpedia.org/resource/Chalte_Chalte	4.00032
-1	http://dbpedia.org/resource/Phir_Milenge_Chalte_Chalte	4.00032
-1	http://dbpedia.org/resource/Chalte_Chalte_(1976_film)	4.00032

@@ -1,3 +1,0 @@
-or the Little Glass Slipper
-1	http://dbpedia.org/resource/Cinderalla,_or_the_Little_Glass_Slipper	6.64381
-5	http://dbpedia.org/resource/Cinderella,_or_the_Little_Glass_Slipper	4.00032

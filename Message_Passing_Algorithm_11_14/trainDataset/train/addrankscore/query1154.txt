@@ -1,7 +1,0 @@
-Story of Mankind The
-1	http://dbpedia.org/resource/The_Story_of_Mankind_(1957_film)	6.64381
-1	http://dbpedia.org/resource/Mankind_the_Story_of_All_of_Us	6.64381
-1	http://dbpedia.org/resource/Mankind_The_Story_of_All_of_Us	6.64381
-1	http://dbpedia.org/resource/Mankind:_The_Story_of_All_of_Us	4.74933
-5	http://dbpedia.org/resource/The_Story_of_Mankind	4.40991
-1	http://dbpedia.org/resource/The_Story_of_Mankind_(film)	4.00032

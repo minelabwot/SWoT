@@ -1,6 +1,0 @@
-John Kendrew
-1	http://dbpedia.org/resource/John_Cowdery_Kendrew	6.64381
-1	http://dbpedia.org/resource/John_C._Kendrew	6.64381
-1	http://dbpedia.org/resource/John_Kendrew_(Industrial_Revolution)	6.64381
-5	http://dbpedia.org/resource/John_Kendrew	4.85965
-1	http://dbpedia.org/resource/John_Kendrew_(inventor)	4.00032

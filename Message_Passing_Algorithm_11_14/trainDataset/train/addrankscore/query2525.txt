@@ -1,5 +1,0 @@
-Wen Jiabao
-5	http://dbpedia.org/resource/Wen_Jiabao	8.65962
-1	http://dbpedia.org/resource/Premier_Wen_Jiabao	6.64381
-1	http://dbpedia.org/resource/Hu_Jintao-Wen_Jiabao_Administration	6.64381
-1	http://dbpedia.org/resource/China's_Best_Actor:_Wen_Jiabao	4.74933

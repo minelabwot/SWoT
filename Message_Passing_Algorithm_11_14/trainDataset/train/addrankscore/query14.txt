@@ -1,4 +1,0 @@
-Elaine Cunningham
-1	http://dbpedia.org/resource/Category:Novels_by_Elaine_Cunningham	6.64381
-1	http://dbpedia.org/resource/Elaine_Cunningham_(cricketer)	6.64381
-5	http://dbpedia.org/resource/Elaine_Cunningham	4.84238

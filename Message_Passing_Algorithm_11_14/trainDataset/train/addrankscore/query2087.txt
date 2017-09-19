@@ -1,4 +1,0 @@
-Heinrich Barth
-1	http://dbpedia.org/resource/Karl_Heinrich_Barth	6.64381
-1	http://dbpedia.org/resource/Heinrich-Barth-Institut	6.64381
-5	http://dbpedia.org/resource/Heinrich_Barth	4.59048

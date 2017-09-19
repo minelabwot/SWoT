@@ -1,7 +1,0 @@
-Dev Anand
-5	http://dbpedia.org/resource/Dev_Anand	9.7062
-1	http://dbpedia.org/resource/Anand_Dev_Bhatt	6.64381
-1	http://dbpedia.org/resource/Dev_anand_filmography	6.64381
-1	http://dbpedia.org/resource/Dharam_Dev_Anand	6.64381
-1	http://dbpedia.org/resource/Category:Films_directed_by_Dev_Anand	4.82016
-1	http://dbpedia.org/resource/Dev_Anand_filmography	4.00032

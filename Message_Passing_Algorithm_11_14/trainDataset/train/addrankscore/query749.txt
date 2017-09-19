@@ -1,2 +1,0 @@
-The Wheel on the School
-5	http://dbpedia.org/resource/The_Wheel_on_the_School	6.64381

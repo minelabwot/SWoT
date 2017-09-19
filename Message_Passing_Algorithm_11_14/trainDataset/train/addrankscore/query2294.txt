@@ -1,3 +1,0 @@
-Eskimo Curlew
-5	http://dbpedia.org/resource/Eskimo_Curlew	6.64381
-1	http://dbpedia.org/resource/Eskimo_curlew	4.59048

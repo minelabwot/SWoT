@@ -1,5 +1,0 @@
-Alan Alda
-5	http://dbpedia.org/resource/Alan_Alda	9.4421
-1	http://dbpedia.org/resource/Alda,_Alan	6.64381
-1	http://dbpedia.org/resource/Category:Films_directed_by_Alan_Alda	4.68878
-1	http://dbpedia.org/resource/Alan_Alda_Center_for_Communicating_Science	4.59048

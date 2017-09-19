@@ -1,9 +1,0 @@
-William J. Clinton
-1	http://dbpedia.org/resource/Clinton_Presidential_Center	7.31565
-1	http://dbpedia.org/resource/William_J._Clinton_Presidential_Center	6.64381
-1	http://dbpedia.org/resource/William_J._Clinton_Presidential_Library	6.64381
-1	http://dbpedia.org/resource/William_J._Clinton	6.64381
-1	http://dbpedia.org/resource/William_J_Clinton	6.64381
-1	http://dbpedia.org/resource/William_J._Clinton_Foundation	6.64381
-1	http://dbpedia.org/resource/William_J._Clinton_Presidential_Center_and_Park	6.64381
-1	http://dbpedia.org/resource/William_J._Clinton_Federal_Building	6.64381

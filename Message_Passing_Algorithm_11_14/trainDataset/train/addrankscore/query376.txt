@@ -1,4 +1,0 @@
-Strawberry Girl
-5	http://dbpedia.org/resource/Strawberry_Girl	6.64381
-1	http://dbpedia.org/resource/Strawberry_Girl_(Fergie_Album)	6.64381
-1	http://dbpedia.org/resource/The_Strawberry_Girl	6.64381

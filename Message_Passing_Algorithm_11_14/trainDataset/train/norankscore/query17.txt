@@ -1,3 +1,0 @@
-Csorna
-1	http://dbpedia.org/resource/Category:People_from_Csorna
-5	http://dbpedia.org/resource/Csorna

@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Robert_McCloskey
-1	http://dbpedia.org/resource/Robert_J._McCloskey

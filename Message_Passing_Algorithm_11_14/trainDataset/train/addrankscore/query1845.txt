@@ -1,5 +1,0 @@
-Paul Fleischman
-5	http://dbpedia.org/resource/Paul_Fleischman	7.23786
-1	http://dbpedia.org/resource/Paul_Fleischman_(author)	6.64381
-1	http://dbpedia.org/resource/Mind's_Eye_(Paul_Fleischman_novel)	6.64381
-1	http://dbpedia.org/resource/Category:Novels_by_Paul_Fleischman	4.59099

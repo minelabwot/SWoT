@@ -1,5 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Wen_Jiabao
-1	http://dbpedia.org/resource/Premier_Wen_Jiabao
-1	http://dbpedia.org/resource/Hu_Jintao-Wen_Jiabao_Administration
-1	http://dbpedia.org/resource/China's_Best_Actor:_Wen_Jiabao

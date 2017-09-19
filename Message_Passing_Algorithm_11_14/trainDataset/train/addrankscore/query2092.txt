@@ -1,4 +1,0 @@
-Fabian Gottlieb von Bellingshausen
-5	http://dbpedia.org/resource/Fabian_Gottlieb_von_Bellingshausen	7.39423
-1	http://dbpedia.org/resource/Fabian_Gottlieb_Thaddeus_von_Bellingshausen	6.64381
-1	http://dbpedia.org/resource/Fabian_gottlieb_von_bellingshausen	6.64381

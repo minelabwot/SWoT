@@ -1,3 +1,0 @@
-A Tree Is Nice
-1	http://dbpedia.org/resource/A_Tree_is_Nice	6.64381
-5	http://dbpedia.org/resource/A_Tree_Is_Nice	4.00032

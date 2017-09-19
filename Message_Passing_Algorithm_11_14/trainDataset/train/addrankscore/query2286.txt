@@ -1,5 +1,0 @@
-Ernest Walton
-5	http://dbpedia.org/resource/Ernest_Walton	7.03872
-1	http://dbpedia.org/resource/Ernest_Thomas_Sinton_Walton	6.64381
-1	http://dbpedia.org/resource/Ernest_T.S._Walton	6.64381
-1	http://dbpedia.org/resource/Ernest_Thompson_Sinton_Walton	6.64381

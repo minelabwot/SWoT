@@ -1,5 +1,0 @@
-The Tale of Despereaux
-5	http://dbpedia.org/resource/The_Tale_of_Despereaux	7.15907
-1	http://dbpedia.org/resource/The_Tale_of_Despereaux:_Being_the_Story_of_a_Mouse,_a_Princess,_Some_Soup,_and_a_Spool_of_Thread	6.64381
-1	http://dbpedia.org/resource/The_Tale_of_Despereaux_(film)	6.64381
-1	http://dbpedia.org/resource/The_Tale_Of_Despereaux	6.64381

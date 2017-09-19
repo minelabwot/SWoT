@@ -1,6 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Hu_Jintao
-1	http://dbpedia.org/resource/Jintao_Hu
-1	http://dbpedia.org/resource/President_Hu_Jintao
-1	http://dbpedia.org/resource/Hu_Jintao-Wen_Jiabao_Administration
-1	http://dbpedia.org/resource/Paramount_Leader_Hu_Jintao

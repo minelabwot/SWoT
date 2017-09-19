@@ -1,6 +1,0 @@
-Animals of the Bible
-1	http://dbpedia.org/resource/Animals_of_the_bible	6.64381
-1	http://dbpedia.org/resource/List_of_animals_in_the_bible	6.64381
-1	http://dbpedia.org/resource/List_of_the_animals_in_the_Bible	6.64381
-1	http://dbpedia.org/resource/List_of_animals_in_the_Bible	4.68878
-5	http://dbpedia.org/resource/Animals_of_the_Bible	4.00032

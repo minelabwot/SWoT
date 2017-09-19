@@ -1,3 +1,0 @@
-Joan Blos
-1	http://dbpedia.org/resource/Joan_W._Blos	6.64381
-5	http://dbpedia.org/resource/Joan_Blos	4.59048

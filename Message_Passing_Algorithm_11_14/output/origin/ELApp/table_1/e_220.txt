@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/Anemometer
-http://dbpedia.org/resource/Cup-anemometer
-http://dbpedia.org/resource/Vane_anemometer
-http://dbpedia.org/resource/Cup_anemometer
-http://dbpedia.org/resource/Dimes_anemometer
-http://dbpedia.org/resource/Anemometer_Hill
-http://dbpedia.org/resource/Sonic_Anemometer
-http://dbpedia.org/resource/Pitot_tube_static_anemometer

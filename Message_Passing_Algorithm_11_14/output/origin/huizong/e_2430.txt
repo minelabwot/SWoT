@@ -1,8 +1,0 @@
-http://dbpedia.org/resource/Category:Fellows_of_Linacre_College,_Oxford
-http://dbpedia.org/resource/Category:Alumni_of_Linacre_College,_Oxford
-http://dbpedia.org/resource/Linacre_College,_Oxford
-http://dbpedia.org/resource/Linacre_College
-http://dbpedia.org/resource/Linacre_college_oxford
-http://dbpedia.org/resource/List_of_Honorary_Fellows_of_Linacre_College,_Oxford
-http://dbpedia.org/resource/Category:Linacre_College,_Oxford
-http://dbpedia.org/resource/Category:Principals_of_Linacre_College,_Oxford

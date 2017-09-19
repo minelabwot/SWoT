@@ -1,9 +1,0 @@
-Elizabeth Yates
-1	http://dbpedia.org/resource/Elizabeth_Yates,_mayor	6.64381
-1	http://dbpedia.org/resource/Yates,_Elizabeth	6.64381
-1	http://dbpedia.org/resource/Elizabeth_Yates_(disambiguation)	6.64381
-1	http://dbpedia.org/resource/Elizabeth_Yates_McGreal	6.64381
-1	http://dbpedia.org/resource/Elizabeth_Yates_(author)	4.74904
-5	http://dbpedia.org/resource/Elizabeth_Yates	4.59048
-1	http://dbpedia.org/resource/Elizabeth_Yates_(mayor)	4.40991
-1	http://dbpedia.org/resource/Elizabeth_Yates_(actress)	4.40991

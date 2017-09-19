@@ -1,3 +1,0 @@
-Snowflake Bentley
-1	http://dbpedia.org/resource/Snowflake_Bentley	6.64381
-5	http://dbpedia.org/resource/Snowflake_Bentley_(book)	6.64381

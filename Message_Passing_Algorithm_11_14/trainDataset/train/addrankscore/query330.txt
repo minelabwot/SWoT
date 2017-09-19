@@ -1,4 +1,0 @@
-Betsy Byars
-1	http://dbpedia.org/resource/Betsy_Cromer_Byars	6.64381
-1	http://dbpedia.org/resource/Tornado_(Betsy_Byars_novel)	6.64381
-5	http://dbpedia.org/resource/Betsy_Byars	4.84238

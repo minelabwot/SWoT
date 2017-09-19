@@ -1,2 +1,0 @@
-origin
-1	1	http://dbpedia.org/resource/So_You_Want_to_Be_President%3F

@@ -1,9 +1,0 @@
-Lord Rayleigh
-1	http://dbpedia.org/resource/Lord_Rayleigh	6.64381
-1	http://dbpedia.org/resource/John_William_Strutt,_Lord_Rayleigh	6.64381
-1	http://dbpedia.org/resource/Lord_Rayleigh_And_Jeans	6.64381
-1	http://dbpedia.org/resource/Lord_Rayleigh_and_James_Jeans	6.64381
-1	http://dbpedia.org/resource/John_Strutt,_Lord_Rayleigh	6.64381
-1	http://dbpedia.org/resource/Lord_Rayleigh,_3rd_Baron_of_Terling_Place	6.64381
-1	http://dbpedia.org/resource/List_of_things_named_after_lord_rayleigh	6.64381
-1	http://dbpedia.org/resource/List_of_things_named_after_Lord_Rayleigh	4.00032

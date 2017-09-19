@@ -1,3 +1,0 @@
-origin
-5	http://dbpedia.org/resource/Arnold_Vinick
-1	http://dbpedia.org/resource/Senator_Arnold_Vinick
