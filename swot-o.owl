@@ -1475,6 +1475,14 @@ O&amp;M allows sensors, methods, instruments, systems, algorithms and process ch
     
 
 
+    <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PropertyLabel -->
+
+    <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#PropertyLabel">
+        <subClassOf rdf:resource="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#WoTProperty"/>
+    </owl:Class>
+    
+
+
     <!-- https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Region -->
 
     <owl:Class rdf:about="https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl#Region">
