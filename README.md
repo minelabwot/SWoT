@@ -8,10 +8,8 @@
 > [4] Xu, Y.; Zhang, C.; Ji, Y. An Upper-Ontology-Based Approach for Automatic Construction of IOT Ontology. Int. J. Distribu. Sensor Netw. 2014, 2014, 594782.<br>
 > [5] Chunhong Zhang, Miao Zhou, Xiao Han, Zheng Hu and Yang Ji, Knowledge Graph Embedding for Hyper-relational Data，TSINGHUA SCIENCE AND TECHNOLOGY，2017 Vol 2.<br>
 > [6] Zhang, Chunhong，Fu, Wei，Sun, Tingting，Ji, Yang，Resolving Web Services Mismatch in Mashup，Wireless Personal Communications，2016，86（4）: 1781-1796<br>
-> [7] Fengzi Wang，Xinning Zhu，Jiansong Miao，Semantic Trajectories Based Social Relationships Discovery Using WiFi Monitors，Personal and Ubiquitous Computing， 2016.11.15，1~12. 
-> 
+> [7] Fengzi Wang，Xinning Zhu，Jiansong Miao，Semantic Trajectories Based Social Relationships Discovery Using WiFi Monitors，Personal and Ubiquitous Computing， 2016.11.15，1~12.  
 > [8] Yang, Yunong, Z. Wu, and X. Zhu. "Semi-automatic metadata annotation of Web of Things with knowledge base." IEEE International Conference on Network Infrastructure and Digital Content IEEE, 2017:124-129.
-> 
 
 ## 1.SWoT Architecture
 The whole system is composed of four main components: SWoT-O Annotator, EL Annotator, Knowledge Storage and Semantic Reasoner.
