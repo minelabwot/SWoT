@@ -90,7 +90,7 @@ The EL results are stored in Neo4i graph database. The blue circles represent th
 <img src="./Github_src_readme_files/Paper/16.jp2"/>
 <br>
 <img src="./Github_src_readme_files/Paper/16-2.jp2"/>
-#### Step 4: Initialize Aomaly Diagnosis Model and Exectue Reasoning Rules
+#### Step 4: Initialize Anomaly Diagnosis Model and Exectue Reasoning Rules
 In our case, it is assumed that the anomaly events have been detected via anomaly detection algorithms and annotated with SWoT-O ontology. By triggering a “High_Temperature_Anomaly_Event”, the reasoner will infer that the Occupation of the room and the State of the CAC have either positive or negative correlations with the high temperature Event, thus to adjust the temperature to normal state, the “Turn-down” operation of CAC will be actioned automatically. 
 
 The system provides APIs to syncronize sensory data and a simulator could also be used for generating simulating sensor data for experiments.
