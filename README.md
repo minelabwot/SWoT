@@ -9,7 +9,12 @@
 > [5] Chunhong Zhang, Miao Zhou, Xiao Han, Zheng Hu and Yang Ji, Knowledge Graph Embedding for Hyper-relational Data，TSINGHUA SCIENCE AND TECHNOLOGY，2017 Vol 2.<br>
 > [6] Zhang, Chunhong，Fu, Wei，Sun, Tingting，Ji, Yang，Resolving Web Services Mismatch in Mashup，Wireless Personal Communications，2016，86（4）: 1781-1796<br>
 > [7] Fengzi Wang，Xinning Zhu，Jiansong Miao，Semantic Trajectories Based Social Relationships Discovery Using WiFi Monitors，Personal and Ubiquitous Computing， 2016.11.15，1~12.  
-> [8] Yang, Yunong, Z. Wu, and X. Zhu. "Semi-automatic metadata annotation of Web of Things with knowledge base." IEEE International Conference on Network Infrastructure and Digital Content IEEE, 2017:124-129.
+> [8] Yang, Yunong, Z. Wu, and X. Zhu. "Semi-automatic metadata annotation of Web of Things with knowledge base." IEEE International Conference on Network Infrastructure and Digital Content IEEE, 2017:124-129.  
+> [9] Wu, Z.; Guo, Y.; Lin, W.; Yu, S.; Ji, Y. A Weighted Deep Representation Learning Model for Imbalanced Fault Diagnosis in Cyber-Physical Systems. Sensors 2018, 18, 1096.  
+> [10] Wu, Zhenyu, W. Lin, and Y. Ji. "An Integrated Ensemble Learning Model for Imbalanced Fault Diagnostics and Prognostics." IEEE Access 6(2018):8394-8402.   
+> [11] Zhenyu Wu, Hao Luo, Yunong Yang, Xinning Zhu, Xiaofeng Qiu. An Unsupervised Degradation Estimation Framework for Diagnostics and Prognostics in Cyber-Physical System. In Proceedings of the 2018 IEEE World Forum on Internet of Things (WF-IoT '18), Singapore, 2018.  
+> [12] Guo, Yang, Z. Wu, and Y. Ji. "A Hybrid Deep Representation Learning Model for Time Series Classification and Prediction." International Conference on Big Data Computing and Communications IEEE Computer Society, 2017:226-231.  
+> [13] Luo, Hao, Z. Wu, and X. Zhu. "A Cluster-Based Hidden Markov Model for High-Level State Discovery from Time Series." International Conference on Big Data Computing and Communications IEEE Computer Society, 2017:218-225.
 
 ## 1.SWoT Architecture
 The whole system is composed of four main components: SWoT-O Annotator, EL Annotator, Knowledge Storage and Semantic Reasoner.
